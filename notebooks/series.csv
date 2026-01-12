@@ -1,0 +1,145 @@
+,organism,geography,stratum,n_months
+0,e_faecalis,East Midlands,Glycopeptides,59
+1,e_faecalis,East of England,Glycopeptides,59
+2,e_faecalis,London,Glycopeptides,59
+3,e_faecalis,North East,Glycopeptides,59
+4,e_faecalis,North West,Glycopeptides,59
+5,e_faecalis,South East,Glycopeptides,59
+6,e_faecalis,South West,Glycopeptides,59
+7,e_faecalis,West Midlands,Glycopeptides,59
+8,e_faecalis,Yorkshire and Humber,Glycopeptides,59
+9,e_faecium,East Midlands,Glycopeptides,59
+10,e_faecium,East of England,Glycopeptides,59
+11,e_faecium,London,Glycopeptides,59
+12,e_faecium,North East,Glycopeptides,59
+13,e_faecium,North West,Glycopeptides,59
+14,e_faecium,South East,Glycopeptides,59
+15,e_faecium,South West,Glycopeptides,59
+16,e_faecium,West Midlands,Glycopeptides,59
+17,e_faecium,Yorkshire and Humber,Glycopeptides,59
+18,k_pneumoniae,East Midlands,Amikacin,59
+19,k_pneumoniae,East Midlands,Carbapenems,59
+20,k_pneumoniae,East Midlands,Ciprofloxacin,59
+21,k_pneumoniae,East Midlands,Co-amoxiclav,59
+22,k_pneumoniae,East Midlands,Gentamicin,59
+23,k_pneumoniae,East Midlands,Piperacillin with tazobactam,59
+24,k_pneumoniae,East Midlands,Third Generation Cephalosporins,59
+25,k_pneumoniae,East of England,Amikacin,59
+26,k_pneumoniae,East of England,Carbapenems,59
+27,k_pneumoniae,East of England,Ciprofloxacin,59
+28,k_pneumoniae,East of England,Co-amoxiclav,59
+29,k_pneumoniae,East of England,Gentamicin,59
+30,k_pneumoniae,East of England,Piperacillin with tazobactam,59
+31,k_pneumoniae,East of England,Third Generation Cephalosporins,59
+32,k_pneumoniae,London,Amikacin,59
+33,k_pneumoniae,London,Carbapenems,59
+34,k_pneumoniae,London,Ciprofloxacin,59
+35,k_pneumoniae,London,Co-amoxiclav,59
+36,k_pneumoniae,London,Gentamicin,59
+37,k_pneumoniae,London,Piperacillin with tazobactam,59
+38,k_pneumoniae,London,Third Generation Cephalosporins,59
+39,k_pneumoniae,North East,Amikacin,59
+40,k_pneumoniae,North East,Carbapenems,59
+41,k_pneumoniae,North East,Ciprofloxacin,59
+42,k_pneumoniae,North East,Co-amoxiclav,59
+43,k_pneumoniae,North East,Gentamicin,59
+44,k_pneumoniae,North East,Piperacillin with tazobactam,59
+45,k_pneumoniae,North East,Third Generation Cephalosporins,59
+46,k_pneumoniae,North West,Amikacin,59
+47,k_pneumoniae,North West,Carbapenems,59
+48,k_pneumoniae,North West,Ciprofloxacin,59
+49,k_pneumoniae,North West,Co-amoxiclav,59
+50,k_pneumoniae,North West,Gentamicin,59
+51,k_pneumoniae,North West,Piperacillin with tazobactam,59
+52,k_pneumoniae,North West,Third Generation Cephalosporins,59
+53,k_pneumoniae,South East,Amikacin,59
+54,k_pneumoniae,South East,Carbapenems,59
+55,k_pneumoniae,South East,Ciprofloxacin,59
+56,k_pneumoniae,South East,Co-amoxiclav,59
+57,k_pneumoniae,South East,Gentamicin,59
+58,k_pneumoniae,South East,Piperacillin with tazobactam,59
+59,k_pneumoniae,South East,Third Generation Cephalosporins,59
+60,k_pneumoniae,South West,Amikacin,59
+61,k_pneumoniae,South West,Carbapenems,59
+62,k_pneumoniae,South West,Ciprofloxacin,59
+63,k_pneumoniae,South West,Co-amoxiclav,59
+64,k_pneumoniae,South West,Gentamicin,59
+65,k_pneumoniae,South West,Piperacillin with tazobactam,59
+66,k_pneumoniae,South West,Third Generation Cephalosporins,59
+67,k_pneumoniae,West Midlands,Amikacin,59
+68,k_pneumoniae,West Midlands,Carbapenems,59
+69,k_pneumoniae,West Midlands,Ciprofloxacin,59
+70,k_pneumoniae,West Midlands,Co-amoxiclav,59
+71,k_pneumoniae,West Midlands,Gentamicin,59
+72,k_pneumoniae,West Midlands,Piperacillin with tazobactam,59
+73,k_pneumoniae,West Midlands,Third Generation Cephalosporins,59
+74,k_pneumoniae,Yorkshire and Humber,Amikacin,59
+75,k_pneumoniae,Yorkshire and Humber,Carbapenems,59
+76,k_pneumoniae,Yorkshire and Humber,Ciprofloxacin,59
+77,k_pneumoniae,Yorkshire and Humber,Co-amoxiclav,59
+78,k_pneumoniae,Yorkshire and Humber,Gentamicin,59
+79,k_pneumoniae,Yorkshire and Humber,Piperacillin with tazobactam,59
+80,k_pneumoniae,Yorkshire and Humber,Third Generation Cephalosporins,59
+81,p_aeruginosa,East Midlands,Amikacin,118
+82,p_aeruginosa,East Midlands,Carbapenems,118
+83,p_aeruginosa,East Midlands,Ceftazidime,118
+84,p_aeruginosa,East Midlands,Ciprofloxacin,118
+85,p_aeruginosa,East Midlands,Piperacillin with tazobactam,118
+86,p_aeruginosa,East of England,Amikacin,118
+87,p_aeruginosa,East of England,Carbapenems,118
+88,p_aeruginosa,East of England,Ceftazidime,118
+89,p_aeruginosa,East of England,Ciprofloxacin,118
+90,p_aeruginosa,East of England,Piperacillin with tazobactam,118
+91,p_aeruginosa,London,Amikacin,118
+92,p_aeruginosa,London,Carbapenems,118
+93,p_aeruginosa,London,Ceftazidime,118
+94,p_aeruginosa,London,Ciprofloxacin,118
+95,p_aeruginosa,London,Piperacillin with tazobactam,118
+96,p_aeruginosa,North East,Amikacin,118
+97,p_aeruginosa,North East,Carbapenems,118
+98,p_aeruginosa,North East,Ceftazidime,118
+99,p_aeruginosa,North East,Ciprofloxacin,118
+100,p_aeruginosa,North East,Piperacillin with tazobactam,118
+101,p_aeruginosa,North West,Amikacin,118
+102,p_aeruginosa,North West,Carbapenems,118
+103,p_aeruginosa,North West,Ceftazidime,118
+104,p_aeruginosa,North West,Ciprofloxacin,118
+105,p_aeruginosa,North West,Piperacillin with tazobactam,118
+106,p_aeruginosa,South East,Amikacin,118
+107,p_aeruginosa,South East,Carbapenems,118
+108,p_aeruginosa,South East,Ceftazidime,118
+109,p_aeruginosa,South East,Ciprofloxacin,118
+110,p_aeruginosa,South East,Piperacillin with tazobactam,118
+111,p_aeruginosa,South West,Amikacin,118
+112,p_aeruginosa,South West,Carbapenems,118
+113,p_aeruginosa,South West,Ceftazidime,118
+114,p_aeruginosa,South West,Ciprofloxacin,118
+115,p_aeruginosa,South West,Piperacillin with tazobactam,118
+116,p_aeruginosa,West Midlands,Amikacin,118
+117,p_aeruginosa,West Midlands,Carbapenems,118
+118,p_aeruginosa,West Midlands,Ceftazidime,118
+119,p_aeruginosa,West Midlands,Ciprofloxacin,118
+120,p_aeruginosa,West Midlands,Piperacillin with tazobactam,118
+121,p_aeruginosa,Yorkshire and Humber,Amikacin,118
+122,p_aeruginosa,Yorkshire and Humber,Carbapenems,118
+123,p_aeruginosa,Yorkshire and Humber,Ceftazidime,118
+124,p_aeruginosa,Yorkshire and Humber,Ciprofloxacin,118
+125,p_aeruginosa,Yorkshire and Humber,Piperacillin with tazobactam,118
+126,s_pneumoniae,East Midlands,Macrolides,58
+127,s_pneumoniae,East Midlands,Penicillin,58
+128,s_pneumoniae,East of England,Macrolides,59
+129,s_pneumoniae,East of England,Penicillin,59
+130,s_pneumoniae,London,Macrolides,59
+131,s_pneumoniae,London,Penicillin,59
+132,s_pneumoniae,North East,Macrolides,57
+133,s_pneumoniae,North East,Penicillin,57
+134,s_pneumoniae,North West,Macrolides,59
+135,s_pneumoniae,North West,Penicillin,59
+136,s_pneumoniae,South East,Macrolides,59
+137,s_pneumoniae,South East,Penicillin,59
+138,s_pneumoniae,South West,Macrolides,59
+139,s_pneumoniae,South West,Penicillin,59
+140,s_pneumoniae,West Midlands,Macrolides,59
+141,s_pneumoniae,West Midlands,Penicillin,59
+142,s_pneumoniae,Yorkshire and Humber,Macrolides,59
+143,s_pneumoniae,Yorkshire and Humber,Penicillin,59

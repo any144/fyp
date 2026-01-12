@@ -1,0 +1,532 @@
+theme,sub_theme,topic,geography_type,geography,metric,sex,age,stratum,year,date,metric_value,in_reporting_delay_period,metric value
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/06/2025,31.33,FALSE,6.38
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/05/2025,29.67,FALSE,5.62
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/04/2025,31.33,FALSE,5.32
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/03/2025,31.67,FALSE,2.11
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/02/2025,34.67,FALSE,0.96
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/01/2025,35.67,FALSE,3.74
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/12/2024,34.33,FALSE,3.88
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/11/2024,30.67,FALSE,6.52
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/10/2024,33,FALSE,4.04
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/09/2024,35,FALSE,4.76
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/08/2024,38,FALSE,1.75
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/07/2024,39.67,FALSE,0.84
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/06/2024,42.67,FALSE,0.78
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/05/2024,41.67,FALSE,2.4
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/04/2024,37.67,FALSE,5.31
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/03/2024,32.67,FALSE,6.12
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/02/2024,32.67,FALSE,6.12
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/01/2024,33.67,FALSE,3.96
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/12/2023,35,FALSE,2.86
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/11/2023,34,FALSE,1.96
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/10/2023,36.67,FALSE,1.82
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/09/2023,37.67,FALSE,4.42
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/08/2023,39,FALSE,4.27
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/07/2023,34.67,FALSE,5.77
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/06/2023,36.33,FALSE,5.5
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/05/2023,34,FALSE,7.84
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/04/2023,33.33,FALSE,7
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/03/2023,32.33,FALSE,8.25
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/02/2023,34.33,FALSE,6.8
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/01/2023,39.33,FALSE,8.47
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/12/2022,34.33,FALSE,6.8
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/11/2022,34.67,FALSE,8.65
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/10/2022,29,FALSE,5.75
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/09/2022,30,FALSE,6.67
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/08/2022,28,FALSE,5.95
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/07/2022,31,FALSE,8.6
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/06/2022,35.33,FALSE,9.43
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/05/2022,38.33,FALSE,11.3
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/04/2022,36.33,FALSE,9.17
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/03/2022,38,FALSE,6.14
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/02/2022,32.67,FALSE,4.08
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/01/2022,34,FALSE,6.86
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/12/2021,32,FALSE,8.33
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/11/2021,35.67,FALSE,9.35
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/10/2021,35.33,FALSE,7.55
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/09/2021,35.33,FALSE,7.55
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/08/2021,33,FALSE,4.04
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/07/2021,35,FALSE,3.81
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/06/2021,32.33,FALSE,4.12
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/05/2021,32.67,FALSE,3.06
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/04/2021,29,FALSE,5.75
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/03/2021,28.67,FALSE,4.65
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/02/2021,28.33,FALSE,5.88
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/01/2021,26.33,FALSE,3.8
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/12/2020,24.67,FALSE,4.05
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/11/2020,25.33,FALSE,7.89
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/10/2020,29.33,FALSE,9.09
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/09/2020,31,FALSE,8.6
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East of England,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/08/2020,30,FALSE,5.56
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/06/2025,29,FALSE,2.3
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/05/2025,31.67,FALSE,2.11
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/04/2025,31.67,FALSE,5.26
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/03/2025,31.33,FALSE,4.26
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/02/2025,33.67,FALSE,3.96
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/01/2025,33.33,FALSE,2
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/12/2024,38,FALSE,1.75
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/11/2024,38.67,FALSE,4.31
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/10/2024,36.67,FALSE,4.55
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/09/2024,31,FALSE,4.3
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/08/2024,32.33,FALSE,1.03
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/07/2024,29,FALSE,1.15
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/06/2024,27.33,FALSE,1.22
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/05/2024,24,FALSE,1.39
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/04/2024,25.67,FALSE,1.3
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/03/2024,28,FALSE,3.57
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/02/2024,26.33,FALSE,3.8
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/01/2024,25,FALSE,2.67
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/12/2023,24,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/11/2023,24.33,FALSE,2.74
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/10/2023,27.67,FALSE,3.61
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/09/2023,28.33,FALSE,3.53
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/08/2023,30.67,FALSE,2.17
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/07/2023,29.33,FALSE,1.14
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/06/2023,30.33,FALSE,1.1
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/05/2023,27,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/04/2023,25.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/03/2023,23.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/02/2023,23.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/01/2023,27.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/12/2022,31.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/11/2022,33.33,FALSE,1
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/10/2022,31.33,FALSE,2.13
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/09/2022,27.33,FALSE,2.44
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/08/2022,25,FALSE,1.33
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/07/2022,25.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/06/2022,29.67,FALSE,1.12
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/05/2022,29,FALSE,2.3
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/04/2022,27,FALSE,2.47
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/03/2022,24.33,FALSE,1.37
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/02/2022,25,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/01/2022,29.67,FALSE,1.12
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/12/2021,31,FALSE,3.23
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/11/2021,35,FALSE,3.81
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/10/2021,38.33,FALSE,4.35
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/09/2021,42.67,FALSE,3.12
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/08/2021,43.67,FALSE,2.29
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/07/2021,43.33,FALSE,0.77
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/06/2021,40.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/05/2021,41.33,FALSE,0.81
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/04/2021,39.67,FALSE,1.68
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/03/2021,41.33,FALSE,1.61
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/02/2021,36.67,FALSE,0.91
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/01/2021,33.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/12/2020,24.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/11/2020,22,FALSE,1.52
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/10/2020,18.67,FALSE,1.79
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/09/2020,20.67,FALSE,3.23
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,East Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/08/2020,22.67,FALSE,4.41
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/06/2025,42,FALSE,3.97
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/05/2025,54,FALSE,2.47
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/04/2025,49.67,FALSE,2.01
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/03/2025,59.67,FALSE,1.12
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/02/2025,48.33,FALSE,1.38
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/01/2025,51,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/12/2024,44.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/11/2024,47,FALSE,1.42
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/10/2024,48.33,FALSE,2.07
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/09/2024,51.67,FALSE,3.87
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/08/2024,46.67,FALSE,3.57
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/07/2024,48.33,FALSE,5.52
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/06/2024,41.67,FALSE,4.8
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/05/2024,44,FALSE,3.79
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/04/2024,41.33,FALSE,2.42
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/03/2024,45.33,FALSE,1.47
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/02/2024,47,FALSE,2.13
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/01/2024,47.67,FALSE,1.4
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/12/2023,48.67,FALSE,1.37
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/11/2023,45.67,FALSE,1.46
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/10/2023,46.33,FALSE,1.44
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/09/2023,40,FALSE,3.33
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/08/2023,42.33,FALSE,2.36
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/07/2023,37,FALSE,1.8
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/06/2023,39,FALSE,0.85
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/05/2023,37,FALSE,3.6
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/04/2023,42.67,FALSE,3.91
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/03/2023,46,FALSE,2.9
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/02/2023,47.67,FALSE,1.4
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/01/2023,47.67,FALSE,2.8
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/12/2022,45.33,FALSE,2.94
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/11/2022,46.33,FALSE,5.04
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/10/2022,44.67,FALSE,3.73
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/09/2022,48,FALSE,4.86
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/08/2022,47,FALSE,2.84
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/07/2022,46,FALSE,2.9
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/06/2022,43.33,FALSE,1.54
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/05/2022,38.67,FALSE,3.45
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/04/2022,37.67,FALSE,4.42
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/03/2022,35,FALSE,5.71
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/02/2022,37.67,FALSE,6.19
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/01/2022,39.67,FALSE,4.2
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/12/2021,40.67,FALSE,4.1
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/11/2021,44.33,FALSE,1.5
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/10/2021,44.67,FALSE,3.73
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/09/2021,42.33,FALSE,3.15
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/08/2021,37,FALSE,4.5
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/07/2021,35,FALSE,1.9
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/06/2021,33,FALSE,2.02
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/05/2021,36.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/04/2021,36.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/03/2021,45,FALSE,0.74
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/02/2021,42,FALSE,2.38
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/01/2021,41.67,FALSE,2.4
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/12/2020,35.33,FALSE,4.72
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/11/2020,32.33,FALSE,3.09
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/10/2020,33.33,FALSE,4
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/09/2020,31,FALSE,1.08
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,London,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/08/2020,32,FALSE,1.04
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/06/2025,19.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/05/2025,18,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/04/2025,18,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/03/2025,18,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/02/2025,19.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/01/2025,19.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/12/2024,18,FALSE,1.85
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/11/2024,15.67,FALSE,2.13
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/10/2024,13.67,FALSE,2.44
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/09/2024,9.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/08/2024,11.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/07/2024,11.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/06/2024,13.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/05/2024,13.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/04/2024,11,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/03/2024,11.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/02/2024,10.33,FALSE,3.23
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/01/2024,10.33,FALSE,3.23
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/12/2023,10.33,FALSE,3.23
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/11/2023,10.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/10/2023,13,FALSE,2.56
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/09/2023,11.33,FALSE,2.94
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/08/2023,10.33,FALSE,3.23
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/07/2023,12.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/06/2023,14,FALSE,2.38
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/05/2023,20.33,FALSE,1.64
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/04/2023,16.67,FALSE,2
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/03/2023,16.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/02/2023,10.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/01/2023,12,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/12/2022,12,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/11/2022,16,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/10/2022,17.67,FALSE,1.89
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/09/2022,18,FALSE,1.85
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/08/2022,15,FALSE,6.67
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/07/2022,12.33,FALSE,5.41
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/06/2022,16.33,FALSE,6.12
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/05/2022,17.67,FALSE,1.89
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/04/2022,20,FALSE,1.67
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/03/2022,15,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/02/2022,12.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/01/2022,10,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/12/2021,12.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/11/2021,13.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/10/2021,15,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/09/2021,16,FALSE,2.08
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/08/2021,15.33,FALSE,4.35
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/07/2021,16,FALSE,6.25
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/06/2021,14.67,FALSE,4.55
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/05/2021,14.67,FALSE,2.27
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/04/2021,12.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/03/2021,13,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/02/2021,13.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/01/2021,13,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/12/2020,13,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/11/2020,15.33,FALSE,2.17
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/10/2020,16,FALSE,4.17
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/09/2020,16,FALSE,4.17
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/08/2020,12.67,FALSE,2.63
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/06/2025,50.33,FALSE,1.99
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/05/2025,51.33,FALSE,1.95
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/04/2025,48.67,FALSE,3.42
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/03/2025,49,FALSE,5.44
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/02/2025,47.67,FALSE,4.9
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/01/2025,47.67,FALSE,3.5
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/12/2024,45,FALSE,1.48
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/11/2024,43.67,FALSE,1.53
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/10/2024,46,FALSE,1.45
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/09/2024,46,FALSE,4.35
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/08/2024,47.67,FALSE,5.59
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/07/2024,44.33,FALSE,9.02
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/06/2024,43.67,FALSE,6.87
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/05/2024,42.67,FALSE,4.69
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/04/2024,46,FALSE,1.45
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/03/2024,46,FALSE,0.72
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/02/2024,47.67,FALSE,3.5
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/01/2024,49,FALSE,5.44
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/12/2023,50.33,FALSE,5.3
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/11/2023,47.67,FALSE,4.9
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/10/2023,45,FALSE,3.7
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/09/2023,42.67,FALSE,6.25
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/08/2023,42,FALSE,4.76
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/07/2023,45.33,FALSE,4.41
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/06/2023,44,FALSE,2.27
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/05/2023,50.33,FALSE,1.32
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/04/2023,49,FALSE,1.36
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/03/2023,45.67,FALSE,1.46
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/02/2023,42.67,FALSE,3.12
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/01/2023,37.67,FALSE,3.54
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/12/2022,43.67,FALSE,3.05
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/11/2022,40.33,FALSE,3.31
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/10/2022,47.33,FALSE,4.93
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/09/2022,44.33,FALSE,4.51
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/08/2022,46.33,FALSE,2.88
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/07/2022,41.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/06/2022,38,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/05/2022,37,FALSE,0.9
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/04/2022,31.33,FALSE,2.13
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/03/2022,33.33,FALSE,4
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/02/2022,34.33,FALSE,2.91
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/01/2022,42.67,FALSE,2.34
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/12/2021,45,FALSE,2.96
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/11/2021,42.67,FALSE,3.12
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/10/2021,44.33,FALSE,3.76
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/09/2021,43,FALSE,3.88
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/08/2021,43.33,FALSE,4.62
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/07/2021,40,FALSE,5
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/06/2021,41.33,FALSE,5.65
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/05/2021,47,FALSE,5.67
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/04/2021,45.67,FALSE,5.84
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/03/2021,46.33,FALSE,5.04
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/02/2021,42.67,FALSE,4.69
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/01/2021,42.67,FALSE,3.12
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/12/2020,41.33,FALSE,3.23
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/11/2020,40.67,FALSE,4.1
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/10/2020,36,FALSE,5.56
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/09/2020,33.33,FALSE,5
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,North West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/08/2020,34,FALSE,4.9
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/06/2025,50,FALSE,5.33
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/05/2025,47.33,FALSE,4.93
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/04/2025,52,FALSE,3.21
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/03/2025,52.67,FALSE,3.16
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/02/2025,52.33,FALSE,3.18
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/01/2025,53,FALSE,3.77
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/12/2024,55.33,FALSE,3.01
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/11/2024,60.33,FALSE,5.52
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/10/2024,57.33,FALSE,4.65
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/09/2024,55.67,FALSE,5.99
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/08/2024,54,FALSE,4.94
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/07/2024,53.67,FALSE,4.97
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/06/2024,53.33,FALSE,4.38
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/05/2024,53,FALSE,3.77
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/04/2024,51.33,FALSE,5.19
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/03/2024,47,FALSE,3.55
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/02/2024,45.33,FALSE,4.41
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/01/2024,47.33,FALSE,4.23
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/12/2023,50.67,FALSE,4.61
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/11/2023,51,FALSE,3.92
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/10/2023,54,FALSE,3.09
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/09/2023,55.33,FALSE,3.61
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/08/2023,53.67,FALSE,1.86
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/07/2023,51.67,FALSE,2.58
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/06/2023,52.67,FALSE,1.9
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/05/2023,53.67,FALSE,3.73
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/04/2023,53.67,FALSE,4.35
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/03/2023,48.67,FALSE,4.11
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/02/2023,50.33,FALSE,3.97
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/01/2023,47.33,FALSE,4.93
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/12/2022,47.33,FALSE,5.63
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/11/2022,43.67,FALSE,3.82
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/10/2022,44.33,FALSE,2.26
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/09/2022,44.33,FALSE,3.01
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/08/2022,42,FALSE,4.76
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/07/2022,45.33,FALSE,8.82
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/06/2022,46.67,FALSE,7.14
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/05/2022,49.33,FALSE,6.08
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/04/2022,45.33,FALSE,1.47
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/03/2022,44,FALSE,1.52
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/02/2022,44.67,FALSE,2.24
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/01/2022,45.33,FALSE,4.41
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/12/2021,45,FALSE,7.41
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/11/2021,42.67,FALSE,7.03
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/10/2021,45.33,FALSE,4.41
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/09/2021,45.33,FALSE,2.21
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/08/2021,48,FALSE,4.17
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/07/2021,45.33,FALSE,4.41
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/06/2021,44.33,FALSE,5.26
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/05/2021,43,FALSE,3.1
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/04/2021,43.67,FALSE,3.82
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/03/2021,45.33,FALSE,3.68
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/02/2021,46,FALSE,3.62
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/01/2021,47.33,FALSE,2.82
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/12/2020,46.67,FALSE,2.14
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/11/2020,46.33,FALSE,2.16
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/10/2020,45.33,FALSE,2.21
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/09/2020,46.33,FALSE,3.6
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South East,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/08/2020,45.67,FALSE,4.38
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/06/2025,36.67,FALSE,3.64
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/05/2025,40.33,FALSE,2.48
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/04/2025,35.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/03/2025,39.33,FALSE,2.54
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/02/2025,30.67,FALSE,4.35
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/01/2025,31.67,FALSE,4.21
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/12/2024,28.67,FALSE,1.16
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/11/2024,33.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/10/2024,32.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/09/2024,33.33,FALSE,2
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/08/2024,32,FALSE,2.08
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/07/2024,37.33,FALSE,2.68
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/06/2024,38.67,FALSE,2.59
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/05/2024,38,FALSE,2.63
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/04/2024,36.33,FALSE,1.83
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/03/2024,33.33,FALSE,1
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/02/2024,35,FALSE,2.86
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/01/2024,32.33,FALSE,4.12
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/12/2023,32.33,FALSE,4.12
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/11/2023,34.67,FALSE,1.92
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/10/2023,35,FALSE,0.95
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/09/2023,34.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/08/2023,30.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/07/2023,31.33,FALSE,1.06
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/06/2023,33,FALSE,2.02
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/05/2023,35,FALSE,2.86
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/04/2023,32.33,FALSE,2.06
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/03/2023,31,FALSE,1.08
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/02/2023,26.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/01/2023,28,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/12/2022,30.33,FALSE,1.1
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/11/2022,32.67,FALSE,1.02
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/10/2022,31,FALSE,1.08
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/09/2022,27.33,FALSE,1.22
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/08/2022,26.67,FALSE,1.25
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/07/2022,25,FALSE,1.33
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/06/2022,26.33,FALSE,1.27
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/05/2022,28,FALSE,1.19
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/04/2022,29,FALSE,1.15
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/03/2022,28.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/02/2022,27.33,FALSE,1.22
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/01/2022,30.33,FALSE,4.4
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/12/2021,32.67,FALSE,4.08
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/11/2021,30.33,FALSE,4.4
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/10/2021,29.67,FALSE,5.62
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/09/2021,26.33,FALSE,6.33
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/08/2021,27,FALSE,4.94
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/07/2021,24.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/06/2021,25.33,FALSE,1.32
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/05/2021,24.33,FALSE,2.74
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/04/2021,24.33,FALSE,4.11
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/03/2021,21.67,FALSE,3.08
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/02/2021,22,FALSE,1.52
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/01/2021,21.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/12/2020,21.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/11/2020,23.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/10/2020,25.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/09/2020,25.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,South West,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/08/2020,24,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/06/2025,31.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/05/2025,34,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/04/2025,31,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/03/2025,34.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/02/2025,32.67,FALSE,1.02
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/01/2025,35,FALSE,1.9
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/12/2024,33.33,FALSE,2
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/11/2024,32,FALSE,1.04
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/10/2024,32.33,FALSE,1.03
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/09/2024,34.33,FALSE,0.97
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/08/2024,36.67,FALSE,0.91
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/07/2024,35.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/06/2024,31.33,FALSE,1.06
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/05/2024,32.67,FALSE,3.06
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/04/2024,35.33,FALSE,3.77
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/03/2024,39.67,FALSE,3.36
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/02/2024,36,FALSE,3.7
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/01/2024,36,FALSE,2.78
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/12/2023,32.67,FALSE,2.04
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/11/2023,35.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/10/2023,38,FALSE,0.88
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/09/2023,41.33,FALSE,1.61
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/08/2023,39.33,FALSE,1.69
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/07/2023,34,FALSE,0.98
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/06/2023,30.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/05/2023,37.33,FALSE,0.89
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/04/2023,38.67,FALSE,0.86
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/03/2023,39.67,FALSE,1.68
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/02/2023,31.67,FALSE,1.05
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/01/2023,33,FALSE,1.01
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/12/2022,31.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/11/2022,31.33,FALSE,2.13
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/10/2022,27.67,FALSE,3.61
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/09/2022,28.33,FALSE,3.53
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/08/2022,29,FALSE,1.15
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/07/2022,30,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/06/2022,28.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/05/2022,30.33,FALSE,1.1
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/04/2022,29.33,FALSE,3.41
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/03/2022,30.33,FALSE,3.3
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/02/2022,27,FALSE,2.47
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/01/2022,27.33,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/12/2021,31,FALSE,1.08
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/11/2021,36.33,FALSE,0.92
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/10/2021,38.67,FALSE,1.72
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/09/2021,35,FALSE,0.95
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/08/2021,28.33,FALSE,1.18
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/07/2021,26,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/06/2021,24.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/05/2021,27.67,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/04/2021,28,FALSE,0
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/03/2021,31.33,FALSE,2.13
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/02/2021,33,FALSE,2.02
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/01/2021,29.67,FALSE,2.25
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/12/2020,28,FALSE,3.57
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/11/2020,22.33,FALSE,4.48
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/10/2020,26.33,FALSE,3.8
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/09/2020,25.67,FALSE,1.3
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,West Midlands,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/08/2020,26.33,FALSE,1.27
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/06/2025,36.33,FALSE,3.67
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/05/2025,30,FALSE,7.78
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/04/2025,27.67,FALSE,8.43
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/03/2025,32,FALSE,7.29
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/02/2025,37,FALSE,5.41
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2025,01/01/2025,43.67,FALSE,3.82
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/12/2024,39,FALSE,4.27
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/11/2024,35.33,FALSE,2.83
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/10/2024,31.33,FALSE,3.19
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/09/2024,31,FALSE,6.45
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/08/2024,31.67,FALSE,5.26
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/07/2024,29.67,FALSE,4.49
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/06/2024,32.33,FALSE,1.03
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/05/2024,34,FALSE,3.92
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/04/2024,34.67,FALSE,5.77
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/03/2024,35.33,FALSE,7.55
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/02/2024,37,FALSE,7.21
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2024,01/01/2024,35,FALSE,7.62
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/12/2023,36,FALSE,5.56
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/11/2023,31.67,FALSE,4.21
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/10/2023,33.67,FALSE,1.98
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/09/2023,27.33,FALSE,2.44
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/08/2023,25.67,FALSE,3.9
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/07/2023,25.33,FALSE,5.26
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/06/2023,29.67,FALSE,4.49
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/05/2023,33.67,FALSE,3.96
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/04/2023,33,FALSE,7.07
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/03/2023,31,FALSE,7.53
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/02/2023,28.67,FALSE,6.98
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2023,01/01/2023,30.67,FALSE,3.26
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/12/2022,31.67,FALSE,4.21
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/11/2022,32.67,FALSE,4.08
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/10/2022,32,FALSE,4.17
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/09/2022,34.67,FALSE,3.85
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/08/2022,31.33,FALSE,4.26
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/07/2022,27.67,FALSE,3.61
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/06/2022,23.67,FALSE,1.41
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/05/2022,28,FALSE,3.57
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/04/2022,30,FALSE,3.33
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/03/2022,30,FALSE,5.56
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/02/2022,29.67,FALSE,4.49
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2022,01/01/2022,31.33,FALSE,9.57
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/12/2021,31.67,FALSE,8.42
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/11/2021,30.33,FALSE,6.59
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/10/2021,29,FALSE,2.3
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/09/2021,30.67,FALSE,1.09
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/08/2021,29,FALSE,2.3
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/07/2021,25,FALSE,2.67
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/06/2021,25,FALSE,5.33
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/05/2021,25,FALSE,5.33
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/04/2021,27.33,FALSE,4.88
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/03/2021,26.33,FALSE,5.06
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/02/2021,27,FALSE,6.17
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2021,01/01/2021,26.67,FALSE,5
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/12/2020,24.33,FALSE,4.11
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/11/2020,22,FALSE,3.03
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/10/2020,23.33,FALSE,4.29
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/09/2020,22.67,FALSE,4.41
+infectious_disease,antimicrobial_resistance,E-faecalis,UKHSA Region,Yorkshire and Humber,e-faecalis_testing_bacteraemiaNumberTestedRollingMonth,all,all,Glycopeptides,2020,01/08/2020,25.67,FALSE,3.9
