@@ -1,0 +1,514 @@
+,geography,stratum,date,resistance_pct,organism
+2,East Midlands,Glycopeptides,2025-06-01,2.27,e-faecalis
+3,East Midlands,Glycopeptides,2025-05-01,2.11,e-faecalis
+4,East Midlands,Glycopeptides,2025-04-01,5.26,e-faecalis
+5,East Midlands,Glycopeptides,2025-03-01,4.26,e-faecalis
+6,East Midlands,Glycopeptides,2025-02-01,3.96,e-faecalis
+7,East Midlands,Glycopeptides,2025-01-01,2.0,e-faecalis
+8,East Midlands,Glycopeptides,2024-12-01,1.75,e-faecalis
+9,East Midlands,Glycopeptides,2024-11-01,4.31,e-faecalis
+10,East Midlands,Glycopeptides,2024-10-01,4.55,e-faecalis
+11,East Midlands,Glycopeptides,2024-09-01,4.3,e-faecalis
+12,East Midlands,Glycopeptides,2024-08-01,1.03,e-faecalis
+13,East Midlands,Glycopeptides,2024-07-01,1.15,e-faecalis
+14,East Midlands,Glycopeptides,2024-06-01,1.22,e-faecalis
+15,East Midlands,Glycopeptides,2024-05-01,1.39,e-faecalis
+16,East Midlands,Glycopeptides,2024-04-01,1.3,e-faecalis
+17,East Midlands,Glycopeptides,2024-03-01,3.57,e-faecalis
+18,East Midlands,Glycopeptides,2024-02-01,3.8,e-faecalis
+19,East Midlands,Glycopeptides,2024-01-01,2.67,e-faecalis
+20,East Midlands,Glycopeptides,2023-12-01,0.0,e-faecalis
+21,East Midlands,Glycopeptides,2023-11-01,2.74,e-faecalis
+22,East Midlands,Glycopeptides,2023-10-01,3.61,e-faecalis
+23,East Midlands,Glycopeptides,2023-09-01,3.53,e-faecalis
+24,East Midlands,Glycopeptides,2023-08-01,2.17,e-faecalis
+25,East Midlands,Glycopeptides,2023-07-01,1.14,e-faecalis
+26,East Midlands,Glycopeptides,2023-06-01,1.1,e-faecalis
+27,East Midlands,Glycopeptides,2023-05-01,0.0,e-faecalis
+28,East Midlands,Glycopeptides,2023-04-01,0.0,e-faecalis
+29,East Midlands,Glycopeptides,2023-03-01,0.0,e-faecalis
+30,East Midlands,Glycopeptides,2023-02-01,0.0,e-faecalis
+31,East Midlands,Glycopeptides,2023-01-01,0.0,e-faecalis
+32,East Midlands,Glycopeptides,2022-12-01,0.0,e-faecalis
+33,East Midlands,Glycopeptides,2022-11-01,1.0,e-faecalis
+34,East Midlands,Glycopeptides,2022-10-01,2.13,e-faecalis
+35,East Midlands,Glycopeptides,2022-09-01,2.44,e-faecalis
+36,East Midlands,Glycopeptides,2022-08-01,1.33,e-faecalis
+37,East Midlands,Glycopeptides,2022-07-01,0.0,e-faecalis
+38,East Midlands,Glycopeptides,2022-06-01,1.12,e-faecalis
+39,East Midlands,Glycopeptides,2022-05-01,2.3,e-faecalis
+40,East Midlands,Glycopeptides,2022-04-01,2.47,e-faecalis
+41,East Midlands,Glycopeptides,2022-03-01,1.37,e-faecalis
+42,East Midlands,Glycopeptides,2022-02-01,0.0,e-faecalis
+43,East Midlands,Glycopeptides,2022-01-01,1.12,e-faecalis
+44,East Midlands,Glycopeptides,2021-12-01,3.23,e-faecalis
+45,East Midlands,Glycopeptides,2021-11-01,3.81,e-faecalis
+46,East Midlands,Glycopeptides,2021-10-01,4.35,e-faecalis
+47,East Midlands,Glycopeptides,2021-09-01,3.12,e-faecalis
+48,East Midlands,Glycopeptides,2021-08-01,2.29,e-faecalis
+49,East Midlands,Glycopeptides,2021-07-01,0.77,e-faecalis
+50,East Midlands,Glycopeptides,2021-06-01,0.0,e-faecalis
+51,East Midlands,Glycopeptides,2021-05-01,0.81,e-faecalis
+52,East Midlands,Glycopeptides,2021-04-01,1.68,e-faecalis
+53,East Midlands,Glycopeptides,2021-03-01,1.61,e-faecalis
+54,East Midlands,Glycopeptides,2021-02-01,0.91,e-faecalis
+55,East Midlands,Glycopeptides,2021-01-01,0.0,e-faecalis
+56,East Midlands,Glycopeptides,2020-12-01,0.0,e-faecalis
+57,East Midlands,Glycopeptides,2020-11-01,1.52,e-faecalis
+58,East Midlands,Glycopeptides,2020-10-01,1.79,e-faecalis
+61,Yorkshire and Humber,Glycopeptides,2025-06-01,3.64,e-faecalis
+62,Yorkshire and Humber,Glycopeptides,2025-05-01,7.78,e-faecalis
+63,Yorkshire and Humber,Glycopeptides,2025-04-01,8.43,e-faecalis
+64,Yorkshire and Humber,Glycopeptides,2025-03-01,7.29,e-faecalis
+65,Yorkshire and Humber,Glycopeptides,2025-02-01,5.41,e-faecalis
+66,Yorkshire and Humber,Glycopeptides,2025-01-01,3.82,e-faecalis
+67,Yorkshire and Humber,Glycopeptides,2024-12-01,4.27,e-faecalis
+68,Yorkshire and Humber,Glycopeptides,2024-11-01,2.83,e-faecalis
+69,Yorkshire and Humber,Glycopeptides,2024-10-01,3.19,e-faecalis
+70,Yorkshire and Humber,Glycopeptides,2024-09-01,6.45,e-faecalis
+71,Yorkshire and Humber,Glycopeptides,2024-08-01,5.26,e-faecalis
+72,Yorkshire and Humber,Glycopeptides,2024-07-01,4.49,e-faecalis
+73,Yorkshire and Humber,Glycopeptides,2024-06-01,1.03,e-faecalis
+74,Yorkshire and Humber,Glycopeptides,2024-05-01,3.92,e-faecalis
+75,Yorkshire and Humber,Glycopeptides,2024-04-01,5.77,e-faecalis
+76,Yorkshire and Humber,Glycopeptides,2024-03-01,7.55,e-faecalis
+77,Yorkshire and Humber,Glycopeptides,2024-02-01,7.21,e-faecalis
+78,Yorkshire and Humber,Glycopeptides,2024-01-01,7.62,e-faecalis
+79,Yorkshire and Humber,Glycopeptides,2023-12-01,5.56,e-faecalis
+80,Yorkshire and Humber,Glycopeptides,2023-11-01,4.21,e-faecalis
+81,Yorkshire and Humber,Glycopeptides,2023-10-01,1.98,e-faecalis
+82,Yorkshire and Humber,Glycopeptides,2023-09-01,2.44,e-faecalis
+83,Yorkshire and Humber,Glycopeptides,2023-08-01,3.9,e-faecalis
+84,Yorkshire and Humber,Glycopeptides,2023-07-01,5.26,e-faecalis
+85,Yorkshire and Humber,Glycopeptides,2023-06-01,4.49,e-faecalis
+86,Yorkshire and Humber,Glycopeptides,2023-05-01,3.96,e-faecalis
+87,Yorkshire and Humber,Glycopeptides,2023-04-01,7.07,e-faecalis
+88,Yorkshire and Humber,Glycopeptides,2023-03-01,7.53,e-faecalis
+89,Yorkshire and Humber,Glycopeptides,2023-02-01,6.98,e-faecalis
+90,Yorkshire and Humber,Glycopeptides,2023-01-01,3.26,e-faecalis
+91,Yorkshire and Humber,Glycopeptides,2022-12-01,4.21,e-faecalis
+92,Yorkshire and Humber,Glycopeptides,2022-11-01,4.08,e-faecalis
+93,Yorkshire and Humber,Glycopeptides,2022-10-01,4.17,e-faecalis
+94,Yorkshire and Humber,Glycopeptides,2022-09-01,3.85,e-faecalis
+95,Yorkshire and Humber,Glycopeptides,2022-08-01,4.26,e-faecalis
+96,Yorkshire and Humber,Glycopeptides,2022-07-01,3.61,e-faecalis
+97,Yorkshire and Humber,Glycopeptides,2022-06-01,1.41,e-faecalis
+98,Yorkshire and Humber,Glycopeptides,2022-05-01,3.57,e-faecalis
+99,Yorkshire and Humber,Glycopeptides,2022-04-01,3.33,e-faecalis
+100,Yorkshire and Humber,Glycopeptides,2022-03-01,5.56,e-faecalis
+101,Yorkshire and Humber,Glycopeptides,2022-02-01,4.49,e-faecalis
+102,Yorkshire and Humber,Glycopeptides,2022-01-01,9.57,e-faecalis
+103,Yorkshire and Humber,Glycopeptides,2021-12-01,8.42,e-faecalis
+104,Yorkshire and Humber,Glycopeptides,2021-11-01,6.59,e-faecalis
+105,Yorkshire and Humber,Glycopeptides,2021-10-01,2.3,e-faecalis
+106,Yorkshire and Humber,Glycopeptides,2021-09-01,1.09,e-faecalis
+107,Yorkshire and Humber,Glycopeptides,2021-08-01,2.3,e-faecalis
+108,Yorkshire and Humber,Glycopeptides,2021-07-01,2.67,e-faecalis
+109,Yorkshire and Humber,Glycopeptides,2021-06-01,5.33,e-faecalis
+110,Yorkshire and Humber,Glycopeptides,2021-05-01,5.33,e-faecalis
+111,Yorkshire and Humber,Glycopeptides,2021-04-01,4.88,e-faecalis
+112,Yorkshire and Humber,Glycopeptides,2021-03-01,5.06,e-faecalis
+113,Yorkshire and Humber,Glycopeptides,2021-02-01,6.17,e-faecalis
+114,Yorkshire and Humber,Glycopeptides,2021-01-01,5.0,e-faecalis
+115,Yorkshire and Humber,Glycopeptides,2020-12-01,4.11,e-faecalis
+116,Yorkshire and Humber,Glycopeptides,2020-11-01,3.03,e-faecalis
+117,Yorkshire and Humber,Glycopeptides,2020-10-01,4.29,e-faecalis
+120,East of England,Glycopeptides,2025-06-01,6.38,e-faecalis
+121,East of England,Glycopeptides,2025-05-01,5.62,e-faecalis
+122,East of England,Glycopeptides,2025-04-01,5.32,e-faecalis
+123,East of England,Glycopeptides,2025-03-01,2.11,e-faecalis
+124,East of England,Glycopeptides,2025-02-01,0.96,e-faecalis
+125,East of England,Glycopeptides,2025-01-01,3.74,e-faecalis
+126,East of England,Glycopeptides,2024-12-01,3.88,e-faecalis
+127,East of England,Glycopeptides,2024-11-01,6.52,e-faecalis
+128,East of England,Glycopeptides,2024-10-01,4.04,e-faecalis
+129,East of England,Glycopeptides,2024-09-01,4.76,e-faecalis
+130,East of England,Glycopeptides,2024-08-01,1.75,e-faecalis
+131,East of England,Glycopeptides,2024-07-01,0.84,e-faecalis
+132,East of England,Glycopeptides,2024-06-01,0.78,e-faecalis
+133,East of England,Glycopeptides,2024-05-01,2.4,e-faecalis
+134,East of England,Glycopeptides,2024-04-01,5.31,e-faecalis
+135,East of England,Glycopeptides,2024-03-01,6.12,e-faecalis
+136,East of England,Glycopeptides,2024-02-01,6.12,e-faecalis
+137,East of England,Glycopeptides,2024-01-01,3.96,e-faecalis
+138,East of England,Glycopeptides,2023-12-01,2.86,e-faecalis
+139,East of England,Glycopeptides,2023-11-01,1.96,e-faecalis
+140,East of England,Glycopeptides,2023-10-01,1.82,e-faecalis
+141,East of England,Glycopeptides,2023-09-01,4.42,e-faecalis
+142,East of England,Glycopeptides,2023-08-01,4.27,e-faecalis
+143,East of England,Glycopeptides,2023-07-01,5.77,e-faecalis
+144,East of England,Glycopeptides,2023-06-01,5.5,e-faecalis
+145,East of England,Glycopeptides,2023-05-01,7.84,e-faecalis
+146,East of England,Glycopeptides,2023-04-01,7.0,e-faecalis
+147,East of England,Glycopeptides,2023-03-01,8.25,e-faecalis
+148,East of England,Glycopeptides,2023-02-01,6.8,e-faecalis
+149,East of England,Glycopeptides,2023-01-01,8.47,e-faecalis
+150,East of England,Glycopeptides,2022-12-01,6.8,e-faecalis
+151,East of England,Glycopeptides,2022-11-01,8.65,e-faecalis
+152,East of England,Glycopeptides,2022-10-01,5.75,e-faecalis
+153,East of England,Glycopeptides,2022-09-01,6.67,e-faecalis
+154,East of England,Glycopeptides,2022-08-01,5.95,e-faecalis
+155,East of England,Glycopeptides,2022-07-01,8.6,e-faecalis
+156,East of England,Glycopeptides,2022-06-01,9.43,e-faecalis
+157,East of England,Glycopeptides,2022-05-01,11.3,e-faecalis
+158,East of England,Glycopeptides,2022-04-01,9.17,e-faecalis
+159,East of England,Glycopeptides,2022-03-01,6.14,e-faecalis
+160,East of England,Glycopeptides,2022-02-01,4.08,e-faecalis
+161,East of England,Glycopeptides,2022-01-01,6.86,e-faecalis
+162,East of England,Glycopeptides,2021-12-01,8.33,e-faecalis
+163,East of England,Glycopeptides,2021-11-01,9.35,e-faecalis
+164,East of England,Glycopeptides,2021-10-01,7.55,e-faecalis
+165,East of England,Glycopeptides,2021-09-01,7.55,e-faecalis
+166,East of England,Glycopeptides,2021-08-01,4.04,e-faecalis
+167,East of England,Glycopeptides,2021-07-01,3.81,e-faecalis
+168,East of England,Glycopeptides,2021-06-01,4.12,e-faecalis
+169,East of England,Glycopeptides,2021-05-01,3.06,e-faecalis
+170,East of England,Glycopeptides,2021-04-01,5.75,e-faecalis
+171,East of England,Glycopeptides,2021-03-01,4.65,e-faecalis
+172,East of England,Glycopeptides,2021-02-01,5.88,e-faecalis
+173,East of England,Glycopeptides,2021-01-01,3.8,e-faecalis
+174,East of England,Glycopeptides,2020-12-01,4.05,e-faecalis
+175,East of England,Glycopeptides,2020-11-01,7.89,e-faecalis
+176,East of England,Glycopeptides,2020-10-01,9.09,e-faecalis
+179,North West,Glycopeptides,2025-06-01,1.99,e-faecalis
+180,North West,Glycopeptides,2025-05-01,1.95,e-faecalis
+181,North West,Glycopeptides,2025-04-01,3.42,e-faecalis
+182,North West,Glycopeptides,2025-03-01,5.44,e-faecalis
+183,North West,Glycopeptides,2025-02-01,4.9,e-faecalis
+184,North West,Glycopeptides,2025-01-01,3.5,e-faecalis
+185,North West,Glycopeptides,2024-12-01,1.48,e-faecalis
+186,North West,Glycopeptides,2024-11-01,1.53,e-faecalis
+187,North West,Glycopeptides,2024-10-01,1.45,e-faecalis
+188,North West,Glycopeptides,2024-09-01,4.35,e-faecalis
+189,North West,Glycopeptides,2024-08-01,5.59,e-faecalis
+190,North West,Glycopeptides,2024-07-01,9.02,e-faecalis
+191,North West,Glycopeptides,2024-06-01,6.87,e-faecalis
+192,North West,Glycopeptides,2024-05-01,4.69,e-faecalis
+193,North West,Glycopeptides,2024-04-01,1.45,e-faecalis
+194,North West,Glycopeptides,2024-03-01,0.72,e-faecalis
+195,North West,Glycopeptides,2024-02-01,3.5,e-faecalis
+196,North West,Glycopeptides,2024-01-01,5.44,e-faecalis
+197,North West,Glycopeptides,2023-12-01,5.3,e-faecalis
+198,North West,Glycopeptides,2023-11-01,4.9,e-faecalis
+199,North West,Glycopeptides,2023-10-01,3.7,e-faecalis
+200,North West,Glycopeptides,2023-09-01,6.25,e-faecalis
+201,North West,Glycopeptides,2023-08-01,4.76,e-faecalis
+202,North West,Glycopeptides,2023-07-01,4.41,e-faecalis
+203,North West,Glycopeptides,2023-06-01,2.27,e-faecalis
+204,North West,Glycopeptides,2023-05-01,1.32,e-faecalis
+205,North West,Glycopeptides,2023-04-01,1.36,e-faecalis
+206,North West,Glycopeptides,2023-03-01,1.46,e-faecalis
+207,North West,Glycopeptides,2023-02-01,3.12,e-faecalis
+208,North West,Glycopeptides,2023-01-01,3.54,e-faecalis
+209,North West,Glycopeptides,2022-12-01,3.05,e-faecalis
+210,North West,Glycopeptides,2022-11-01,3.31,e-faecalis
+211,North West,Glycopeptides,2022-10-01,4.93,e-faecalis
+212,North West,Glycopeptides,2022-09-01,4.51,e-faecalis
+213,North West,Glycopeptides,2022-08-01,2.88,e-faecalis
+214,North West,Glycopeptides,2022-07-01,0.0,e-faecalis
+215,North West,Glycopeptides,2022-06-01,0.0,e-faecalis
+216,North West,Glycopeptides,2022-05-01,0.9,e-faecalis
+217,North West,Glycopeptides,2022-04-01,2.13,e-faecalis
+218,North West,Glycopeptides,2022-03-01,4.0,e-faecalis
+219,North West,Glycopeptides,2022-02-01,2.91,e-faecalis
+220,North West,Glycopeptides,2022-01-01,2.34,e-faecalis
+221,North West,Glycopeptides,2021-12-01,2.96,e-faecalis
+222,North West,Glycopeptides,2021-11-01,3.12,e-faecalis
+223,North West,Glycopeptides,2021-10-01,3.76,e-faecalis
+224,North West,Glycopeptides,2021-09-01,3.88,e-faecalis
+225,North West,Glycopeptides,2021-08-01,4.62,e-faecalis
+226,North West,Glycopeptides,2021-07-01,5.0,e-faecalis
+227,North West,Glycopeptides,2021-06-01,5.65,e-faecalis
+228,North West,Glycopeptides,2021-05-01,5.67,e-faecalis
+229,North West,Glycopeptides,2021-04-01,5.84,e-faecalis
+230,North West,Glycopeptides,2021-03-01,5.04,e-faecalis
+231,North West,Glycopeptides,2021-02-01,4.69,e-faecalis
+232,North West,Glycopeptides,2021-01-01,3.12,e-faecalis
+233,North West,Glycopeptides,2020-12-01,3.23,e-faecalis
+234,North West,Glycopeptides,2020-11-01,4.1,e-faecalis
+235,North West,Glycopeptides,2020-10-01,5.56,e-faecalis
+238,South East,Glycopeptides,2025-06-01,5.33,e-faecalis
+239,South East,Glycopeptides,2025-05-01,4.9,e-faecalis
+240,South East,Glycopeptides,2025-04-01,3.18,e-faecalis
+241,South East,Glycopeptides,2025-03-01,3.14,e-faecalis
+242,South East,Glycopeptides,2025-02-01,3.16,e-faecalis
+243,South East,Glycopeptides,2025-01-01,3.73,e-faecalis
+244,South East,Glycopeptides,2024-12-01,2.98,e-faecalis
+245,South East,Glycopeptides,2024-11-01,5.49,e-faecalis
+246,South East,Glycopeptides,2024-10-01,4.65,e-faecalis
+247,South East,Glycopeptides,2024-09-01,5.99,e-faecalis
+248,South East,Glycopeptides,2024-08-01,4.94,e-faecalis
+249,South East,Glycopeptides,2024-07-01,4.97,e-faecalis
+250,South East,Glycopeptides,2024-06-01,4.38,e-faecalis
+251,South East,Glycopeptides,2024-05-01,3.77,e-faecalis
+252,South East,Glycopeptides,2024-04-01,5.19,e-faecalis
+253,South East,Glycopeptides,2024-03-01,3.55,e-faecalis
+254,South East,Glycopeptides,2024-02-01,4.41,e-faecalis
+255,South East,Glycopeptides,2024-01-01,4.23,e-faecalis
+256,South East,Glycopeptides,2023-12-01,4.61,e-faecalis
+257,South East,Glycopeptides,2023-11-01,3.92,e-faecalis
+258,South East,Glycopeptides,2023-10-01,3.09,e-faecalis
+259,South East,Glycopeptides,2023-09-01,3.61,e-faecalis
+260,South East,Glycopeptides,2023-08-01,1.86,e-faecalis
+261,South East,Glycopeptides,2023-07-01,2.58,e-faecalis
+262,South East,Glycopeptides,2023-06-01,1.9,e-faecalis
+263,South East,Glycopeptides,2023-05-01,3.73,e-faecalis
+264,South East,Glycopeptides,2023-04-01,4.35,e-faecalis
+265,South East,Glycopeptides,2023-03-01,4.11,e-faecalis
+266,South East,Glycopeptides,2023-02-01,3.97,e-faecalis
+267,South East,Glycopeptides,2023-01-01,4.93,e-faecalis
+268,South East,Glycopeptides,2022-12-01,5.63,e-faecalis
+269,South East,Glycopeptides,2022-11-01,3.82,e-faecalis
+270,South East,Glycopeptides,2022-10-01,2.26,e-faecalis
+271,South East,Glycopeptides,2022-09-01,3.01,e-faecalis
+272,South East,Glycopeptides,2022-08-01,4.76,e-faecalis
+273,South East,Glycopeptides,2022-07-01,8.82,e-faecalis
+274,South East,Glycopeptides,2022-06-01,7.14,e-faecalis
+275,South East,Glycopeptides,2022-05-01,6.08,e-faecalis
+276,South East,Glycopeptides,2022-04-01,1.47,e-faecalis
+277,South East,Glycopeptides,2022-03-01,1.52,e-faecalis
+278,South East,Glycopeptides,2022-02-01,2.24,e-faecalis
+279,South East,Glycopeptides,2022-01-01,4.41,e-faecalis
+280,South East,Glycopeptides,2021-12-01,7.41,e-faecalis
+281,South East,Glycopeptides,2021-11-01,7.03,e-faecalis
+282,South East,Glycopeptides,2021-10-01,4.41,e-faecalis
+283,South East,Glycopeptides,2021-09-01,2.21,e-faecalis
+284,South East,Glycopeptides,2021-08-01,4.17,e-faecalis
+285,South East,Glycopeptides,2021-07-01,4.41,e-faecalis
+286,South East,Glycopeptides,2021-06-01,5.26,e-faecalis
+287,South East,Glycopeptides,2021-05-01,3.1,e-faecalis
+288,South East,Glycopeptides,2021-04-01,3.82,e-faecalis
+289,South East,Glycopeptides,2021-03-01,3.68,e-faecalis
+290,South East,Glycopeptides,2021-02-01,3.62,e-faecalis
+291,South East,Glycopeptides,2021-01-01,2.82,e-faecalis
+292,South East,Glycopeptides,2020-12-01,2.14,e-faecalis
+293,South East,Glycopeptides,2020-11-01,2.16,e-faecalis
+294,South East,Glycopeptides,2020-10-01,2.21,e-faecalis
+297,West Midlands,Glycopeptides,2025-06-01,0.0,e-faecalis
+298,West Midlands,Glycopeptides,2025-05-01,0.0,e-faecalis
+299,West Midlands,Glycopeptides,2025-04-01,0.0,e-faecalis
+300,West Midlands,Glycopeptides,2025-03-01,0.0,e-faecalis
+301,West Midlands,Glycopeptides,2025-02-01,1.02,e-faecalis
+302,West Midlands,Glycopeptides,2025-01-01,1.9,e-faecalis
+303,West Midlands,Glycopeptides,2024-12-01,2.0,e-faecalis
+304,West Midlands,Glycopeptides,2024-11-01,1.04,e-faecalis
+305,West Midlands,Glycopeptides,2024-10-01,1.03,e-faecalis
+306,West Midlands,Glycopeptides,2024-09-01,0.97,e-faecalis
+307,West Midlands,Glycopeptides,2024-08-01,0.91,e-faecalis
+308,West Midlands,Glycopeptides,2024-07-01,0.0,e-faecalis
+309,West Midlands,Glycopeptides,2024-06-01,1.06,e-faecalis
+310,West Midlands,Glycopeptides,2024-05-01,3.06,e-faecalis
+311,West Midlands,Glycopeptides,2024-04-01,3.77,e-faecalis
+312,West Midlands,Glycopeptides,2024-03-01,3.36,e-faecalis
+313,West Midlands,Glycopeptides,2024-02-01,3.7,e-faecalis
+314,West Midlands,Glycopeptides,2024-01-01,2.78,e-faecalis
+315,West Midlands,Glycopeptides,2023-12-01,2.04,e-faecalis
+316,West Midlands,Glycopeptides,2023-11-01,0.0,e-faecalis
+317,West Midlands,Glycopeptides,2023-10-01,0.88,e-faecalis
+318,West Midlands,Glycopeptides,2023-09-01,1.61,e-faecalis
+319,West Midlands,Glycopeptides,2023-08-01,1.69,e-faecalis
+320,West Midlands,Glycopeptides,2023-07-01,0.98,e-faecalis
+321,West Midlands,Glycopeptides,2023-06-01,0.0,e-faecalis
+322,West Midlands,Glycopeptides,2023-05-01,0.89,e-faecalis
+323,West Midlands,Glycopeptides,2023-04-01,0.86,e-faecalis
+324,West Midlands,Glycopeptides,2023-03-01,1.68,e-faecalis
+325,West Midlands,Glycopeptides,2023-02-01,1.05,e-faecalis
+326,West Midlands,Glycopeptides,2023-01-01,1.01,e-faecalis
+327,West Midlands,Glycopeptides,2022-12-01,0.0,e-faecalis
+328,West Midlands,Glycopeptides,2022-11-01,2.13,e-faecalis
+329,West Midlands,Glycopeptides,2022-10-01,3.61,e-faecalis
+330,West Midlands,Glycopeptides,2022-09-01,3.53,e-faecalis
+331,West Midlands,Glycopeptides,2022-08-01,1.15,e-faecalis
+332,West Midlands,Glycopeptides,2022-07-01,0.0,e-faecalis
+333,West Midlands,Glycopeptides,2022-06-01,0.0,e-faecalis
+334,West Midlands,Glycopeptides,2022-05-01,1.1,e-faecalis
+335,West Midlands,Glycopeptides,2022-04-01,3.41,e-faecalis
+336,West Midlands,Glycopeptides,2022-03-01,3.3,e-faecalis
+337,West Midlands,Glycopeptides,2022-02-01,2.47,e-faecalis
+338,West Midlands,Glycopeptides,2022-01-01,0.0,e-faecalis
+339,West Midlands,Glycopeptides,2021-12-01,1.08,e-faecalis
+340,West Midlands,Glycopeptides,2021-11-01,0.92,e-faecalis
+341,West Midlands,Glycopeptides,2021-10-01,1.72,e-faecalis
+342,West Midlands,Glycopeptides,2021-09-01,0.95,e-faecalis
+343,West Midlands,Glycopeptides,2021-08-01,1.18,e-faecalis
+344,West Midlands,Glycopeptides,2021-07-01,0.0,e-faecalis
+345,West Midlands,Glycopeptides,2021-06-01,0.0,e-faecalis
+346,West Midlands,Glycopeptides,2021-05-01,0.0,e-faecalis
+347,West Midlands,Glycopeptides,2021-04-01,0.0,e-faecalis
+348,West Midlands,Glycopeptides,2021-03-01,2.13,e-faecalis
+349,West Midlands,Glycopeptides,2021-02-01,2.02,e-faecalis
+350,West Midlands,Glycopeptides,2021-01-01,2.25,e-faecalis
+351,West Midlands,Glycopeptides,2020-12-01,3.57,e-faecalis
+352,West Midlands,Glycopeptides,2020-11-01,4.48,e-faecalis
+353,West Midlands,Glycopeptides,2020-10-01,3.8,e-faecalis
+356,South West,Glycopeptides,2025-06-01,3.64,e-faecalis
+357,South West,Glycopeptides,2025-05-01,2.48,e-faecalis
+358,South West,Glycopeptides,2025-04-01,0.0,e-faecalis
+359,South West,Glycopeptides,2025-03-01,2.54,e-faecalis
+360,South West,Glycopeptides,2025-02-01,4.35,e-faecalis
+361,South West,Glycopeptides,2025-01-01,4.21,e-faecalis
+362,South West,Glycopeptides,2024-12-01,1.16,e-faecalis
+363,South West,Glycopeptides,2024-11-01,0.0,e-faecalis
+364,South West,Glycopeptides,2024-10-01,0.0,e-faecalis
+365,South West,Glycopeptides,2024-09-01,2.0,e-faecalis
+366,South West,Glycopeptides,2024-08-01,2.08,e-faecalis
+367,South West,Glycopeptides,2024-07-01,2.68,e-faecalis
+368,South West,Glycopeptides,2024-06-01,2.59,e-faecalis
+369,South West,Glycopeptides,2024-05-01,2.63,e-faecalis
+370,South West,Glycopeptides,2024-04-01,1.83,e-faecalis
+371,South West,Glycopeptides,2024-03-01,1.0,e-faecalis
+372,South West,Glycopeptides,2024-02-01,2.86,e-faecalis
+373,South West,Glycopeptides,2024-01-01,4.12,e-faecalis
+374,South West,Glycopeptides,2023-12-01,4.12,e-faecalis
+375,South West,Glycopeptides,2023-11-01,1.92,e-faecalis
+376,South West,Glycopeptides,2023-10-01,0.95,e-faecalis
+377,South West,Glycopeptides,2023-09-01,0.0,e-faecalis
+378,South West,Glycopeptides,2023-08-01,0.0,e-faecalis
+379,South West,Glycopeptides,2023-07-01,1.06,e-faecalis
+380,South West,Glycopeptides,2023-06-01,2.02,e-faecalis
+381,South West,Glycopeptides,2023-05-01,2.86,e-faecalis
+382,South West,Glycopeptides,2023-04-01,2.06,e-faecalis
+383,South West,Glycopeptides,2023-03-01,1.08,e-faecalis
+384,South West,Glycopeptides,2023-02-01,0.0,e-faecalis
+385,South West,Glycopeptides,2023-01-01,0.0,e-faecalis
+386,South West,Glycopeptides,2022-12-01,1.1,e-faecalis
+387,South West,Glycopeptides,2022-11-01,1.02,e-faecalis
+388,South West,Glycopeptides,2022-10-01,1.08,e-faecalis
+389,South West,Glycopeptides,2022-09-01,1.22,e-faecalis
+390,South West,Glycopeptides,2022-08-01,1.25,e-faecalis
+391,South West,Glycopeptides,2022-07-01,1.33,e-faecalis
+392,South West,Glycopeptides,2022-06-01,1.27,e-faecalis
+393,South West,Glycopeptides,2022-05-01,1.19,e-faecalis
+394,South West,Glycopeptides,2022-04-01,1.15,e-faecalis
+395,South West,Glycopeptides,2022-03-01,0.0,e-faecalis
+396,South West,Glycopeptides,2022-02-01,1.22,e-faecalis
+397,South West,Glycopeptides,2022-01-01,4.4,e-faecalis
+398,South West,Glycopeptides,2021-12-01,4.08,e-faecalis
+399,South West,Glycopeptides,2021-11-01,4.4,e-faecalis
+400,South West,Glycopeptides,2021-10-01,5.62,e-faecalis
+401,South West,Glycopeptides,2021-09-01,6.33,e-faecalis
+402,South West,Glycopeptides,2021-08-01,4.94,e-faecalis
+403,South West,Glycopeptides,2021-07-01,0.0,e-faecalis
+404,South West,Glycopeptides,2021-06-01,1.32,e-faecalis
+405,South West,Glycopeptides,2021-05-01,2.74,e-faecalis
+406,South West,Glycopeptides,2021-04-01,4.11,e-faecalis
+407,South West,Glycopeptides,2021-03-01,3.08,e-faecalis
+408,South West,Glycopeptides,2021-02-01,1.52,e-faecalis
+409,South West,Glycopeptides,2021-01-01,0.0,e-faecalis
+410,South West,Glycopeptides,2020-12-01,0.0,e-faecalis
+411,South West,Glycopeptides,2020-11-01,0.0,e-faecalis
+412,South West,Glycopeptides,2020-10-01,0.0,e-faecalis
+415,London,Glycopeptides,2025-06-01,3.91,e-faecalis
+416,London,Glycopeptides,2025-05-01,2.45,e-faecalis
+417,London,Glycopeptides,2025-04-01,2.0,e-faecalis
+418,London,Glycopeptides,2025-03-01,1.12,e-faecalis
+419,London,Glycopeptides,2025-02-01,1.38,e-faecalis
+420,London,Glycopeptides,2025-01-01,0.0,e-faecalis
+421,London,Glycopeptides,2024-12-01,0.0,e-faecalis
+422,London,Glycopeptides,2024-11-01,1.42,e-faecalis
+423,London,Glycopeptides,2024-10-01,2.07,e-faecalis
+424,London,Glycopeptides,2024-09-01,3.87,e-faecalis
+425,London,Glycopeptides,2024-08-01,3.57,e-faecalis
+426,London,Glycopeptides,2024-07-01,5.52,e-faecalis
+427,London,Glycopeptides,2024-06-01,4.8,e-faecalis
+428,London,Glycopeptides,2024-05-01,3.79,e-faecalis
+429,London,Glycopeptides,2024-04-01,2.42,e-faecalis
+430,London,Glycopeptides,2024-03-01,1.47,e-faecalis
+431,London,Glycopeptides,2024-02-01,2.13,e-faecalis
+432,London,Glycopeptides,2024-01-01,1.4,e-faecalis
+433,London,Glycopeptides,2023-12-01,1.37,e-faecalis
+434,London,Glycopeptides,2023-11-01,1.46,e-faecalis
+435,London,Glycopeptides,2023-10-01,1.44,e-faecalis
+436,London,Glycopeptides,2023-09-01,3.33,e-faecalis
+437,London,Glycopeptides,2023-08-01,2.36,e-faecalis
+438,London,Glycopeptides,2023-07-01,1.8,e-faecalis
+439,London,Glycopeptides,2023-06-01,0.85,e-faecalis
+440,London,Glycopeptides,2023-05-01,3.6,e-faecalis
+441,London,Glycopeptides,2023-04-01,3.91,e-faecalis
+442,London,Glycopeptides,2023-03-01,2.9,e-faecalis
+443,London,Glycopeptides,2023-02-01,1.4,e-faecalis
+444,London,Glycopeptides,2023-01-01,2.8,e-faecalis
+445,London,Glycopeptides,2022-12-01,2.94,e-faecalis
+446,London,Glycopeptides,2022-11-01,5.04,e-faecalis
+447,London,Glycopeptides,2022-10-01,3.73,e-faecalis
+448,London,Glycopeptides,2022-09-01,4.86,e-faecalis
+449,London,Glycopeptides,2022-08-01,2.84,e-faecalis
+450,London,Glycopeptides,2022-07-01,2.9,e-faecalis
+451,London,Glycopeptides,2022-06-01,1.54,e-faecalis
+452,London,Glycopeptides,2022-05-01,3.45,e-faecalis
+453,London,Glycopeptides,2022-04-01,4.42,e-faecalis
+454,London,Glycopeptides,2022-03-01,5.71,e-faecalis
+455,London,Glycopeptides,2022-02-01,6.19,e-faecalis
+456,London,Glycopeptides,2022-01-01,4.2,e-faecalis
+457,London,Glycopeptides,2021-12-01,4.1,e-faecalis
+458,London,Glycopeptides,2021-11-01,1.5,e-faecalis
+459,London,Glycopeptides,2021-10-01,3.73,e-faecalis
+460,London,Glycopeptides,2021-09-01,3.15,e-faecalis
+461,London,Glycopeptides,2021-08-01,4.5,e-faecalis
+462,London,Glycopeptides,2021-07-01,1.9,e-faecalis
+463,London,Glycopeptides,2021-06-01,2.02,e-faecalis
+464,London,Glycopeptides,2021-05-01,0.0,e-faecalis
+465,London,Glycopeptides,2021-04-01,0.0,e-faecalis
+466,London,Glycopeptides,2021-03-01,0.74,e-faecalis
+467,London,Glycopeptides,2021-02-01,2.38,e-faecalis
+468,London,Glycopeptides,2021-01-01,2.4,e-faecalis
+469,London,Glycopeptides,2020-12-01,4.72,e-faecalis
+470,London,Glycopeptides,2020-11-01,3.09,e-faecalis
+471,London,Glycopeptides,2020-10-01,4.0,e-faecalis
+474,North East,Glycopeptides,2025-06-01,0.0,e-faecalis
+475,North East,Glycopeptides,2025-05-01,0.0,e-faecalis
+476,North East,Glycopeptides,2025-04-01,0.0,e-faecalis
+477,North East,Glycopeptides,2025-03-01,0.0,e-faecalis
+478,North East,Glycopeptides,2025-02-01,0.0,e-faecalis
+479,North East,Glycopeptides,2025-01-01,0.0,e-faecalis
+480,North East,Glycopeptides,2024-12-01,1.85,e-faecalis
+481,North East,Glycopeptides,2024-11-01,2.13,e-faecalis
+482,North East,Glycopeptides,2024-10-01,2.44,e-faecalis
+483,North East,Glycopeptides,2024-09-01,0.0,e-faecalis
+484,North East,Glycopeptides,2024-08-01,0.0,e-faecalis
+485,North East,Glycopeptides,2024-07-01,0.0,e-faecalis
+486,North East,Glycopeptides,2024-06-01,0.0,e-faecalis
+487,North East,Glycopeptides,2024-05-01,0.0,e-faecalis
+488,North East,Glycopeptides,2024-04-01,0.0,e-faecalis
+489,North East,Glycopeptides,2024-03-01,0.0,e-faecalis
+490,North East,Glycopeptides,2024-02-01,3.23,e-faecalis
+491,North East,Glycopeptides,2024-01-01,3.23,e-faecalis
+492,North East,Glycopeptides,2023-12-01,3.23,e-faecalis
+493,North East,Glycopeptides,2023-11-01,0.0,e-faecalis
+494,North East,Glycopeptides,2023-10-01,2.56,e-faecalis
+495,North East,Glycopeptides,2023-09-01,2.94,e-faecalis
+496,North East,Glycopeptides,2023-08-01,3.23,e-faecalis
+497,North East,Glycopeptides,2023-07-01,0.0,e-faecalis
+498,North East,Glycopeptides,2023-06-01,2.38,e-faecalis
+499,North East,Glycopeptides,2023-05-01,1.64,e-faecalis
+500,North East,Glycopeptides,2023-04-01,2.0,e-faecalis
+501,North East,Glycopeptides,2023-03-01,0.0,e-faecalis
+502,North East,Glycopeptides,2023-02-01,0.0,e-faecalis
+503,North East,Glycopeptides,2023-01-01,0.0,e-faecalis
+504,North East,Glycopeptides,2022-12-01,0.0,e-faecalis
+505,North East,Glycopeptides,2022-11-01,0.0,e-faecalis
+506,North East,Glycopeptides,2022-10-01,1.89,e-faecalis
+507,North East,Glycopeptides,2022-09-01,1.85,e-faecalis
+508,North East,Glycopeptides,2022-08-01,6.67,e-faecalis
+509,North East,Glycopeptides,2022-07-01,5.41,e-faecalis
+510,North East,Glycopeptides,2022-06-01,6.12,e-faecalis
+511,North East,Glycopeptides,2022-05-01,1.89,e-faecalis
+512,North East,Glycopeptides,2022-04-01,1.67,e-faecalis
+513,North East,Glycopeptides,2022-03-01,0.0,e-faecalis
+514,North East,Glycopeptides,2022-02-01,0.0,e-faecalis
+515,North East,Glycopeptides,2022-01-01,0.0,e-faecalis
+516,North East,Glycopeptides,2021-12-01,0.0,e-faecalis
+517,North East,Glycopeptides,2021-11-01,0.0,e-faecalis
+518,North East,Glycopeptides,2021-10-01,0.0,e-faecalis
+519,North East,Glycopeptides,2021-09-01,2.08,e-faecalis
+520,North East,Glycopeptides,2021-08-01,4.35,e-faecalis
+521,North East,Glycopeptides,2021-07-01,6.25,e-faecalis
+522,North East,Glycopeptides,2021-06-01,4.55,e-faecalis
+523,North East,Glycopeptides,2021-05-01,2.27,e-faecalis
+524,North East,Glycopeptides,2021-04-01,0.0,e-faecalis
+525,North East,Glycopeptides,2021-03-01,0.0,e-faecalis
+526,North East,Glycopeptides,2021-02-01,0.0,e-faecalis
+527,North East,Glycopeptides,2021-01-01,0.0,e-faecalis
+528,North East,Glycopeptides,2020-12-01,0.0,e-faecalis
+529,North East,Glycopeptides,2020-11-01,2.17,e-faecalis
+530,North East,Glycopeptides,2020-10-01,4.17,e-faecalis

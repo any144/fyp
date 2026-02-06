@@ -1,0 +1,414 @@
+theme,sub_theme,topic,geography_type,geography,metric,sex,age,stratum,year,date,metric_value,in_reporting_delay_period
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2025,2025-08-01,2.4000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2025,2025-08-01,0.2400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2025,2025-08-01,20.6800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2025,2025-08-01,45.7100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2025,2025-08-01,12.7500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2025,2025-08-01,9.5200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2025,2025-08-01,18.4100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2025,2025-07-01,3.4800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2025,2025-07-01,0.2600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2025,2025-07-01,21.4900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2025,2025-07-01,45.5300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2025,2025-07-01,13.6400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2025,2025-07-01,9.4800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2025,2025-07-01,18.5800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2025,2025-06-01,3.5800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2025,2025-06-01,0.2000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2025,2025-06-01,21.4400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2025,2025-06-01,45.7900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2025,2025-06-01,12.7300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2025,2025-06-01,9.7600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2025,2025-06-01,18.3600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2025,2025-05-01,4.1800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2025,2025-05-01,0.1400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2025,2025-05-01,21.7400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2025,2025-05-01,46.8300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2025,2025-05-01,13.5100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2025,2025-05-01,11.0000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2025,2025-05-01,18.4100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2025,2025-04-01,3.3800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2025,2025-04-01,0.1500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2025,2025-04-01,21.3100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2025,2025-04-01,46.6800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2025,2025-04-01,14.1700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2025,2025-04-01,11.1400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2025,2025-04-01,18.1600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2025,2025-03-01,2.8100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2025,2025-03-01,0.0800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2025,2025-03-01,20.7800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2025,2025-03-01,46.9700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2025,2025-03-01,13.3100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2025,2025-03-01,11.1900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2025,2025-03-01,16.9800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2025,2025-02-01,3.1100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2025,2025-02-01,0.0800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2025,2025-02-01,21.2300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2025,2025-02-01,49.1900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2025,2025-02-01,13.4300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2025,2025-02-01,13.3600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2025,2025-02-01,17.1700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2025,2025-01-01,4.3000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2025,2025-01-01,0.0000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2025,2025-01-01,22.0500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2025,2025-01-01,49.8400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2025,2025-01-01,13.3400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2025,2025-01-01,13.4500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2025,2025-01-01,17.1200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2024,2024-12-01,4.7200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2024,2024-12-01,0.1500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2024,2024-12-01,23.3800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2024,2024-12-01,50.4700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2024,2024-12-01,13.9800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2024,2024-12-01,12.6800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2024,2024-12-01,17.6600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2024,2024-11-01,3.9900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2024,2024-11-01,0.1400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2024,2024-11-01,22.4800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2024,2024-11-01,49.2800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2024,2024-11-01,13.6600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2024,2024-11-01,10.4000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2024,2024-11-01,18.2400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2024,2024-10-01,3.1900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2024,2024-10-01,0.1300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2024,2024-10-01,20.3500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2024,2024-10-01,48.5800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2024,2024-10-01,12.7900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2024,2024-10-01,11.4600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2024,2024-10-01,17.3500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2024,2024-09-01,2.5000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2024,2024-09-01,0.0000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2024,2024-09-01,19.0300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2024,2024-09-01,47.6700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2024,2024-09-01,12.2900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2024,2024-09-01,11.0300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2024,2024-09-01,17.0300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2024,2024-08-01,2.7900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2024,2024-08-01,0.0700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2024,2024-08-01,19.6100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2024,2024-08-01,48.1100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2024,2024-08-01,12.6100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2024,2024-08-01,11.7000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2024,2024-08-01,15.3900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2024,2024-07-01,2.6600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2024,2024-07-01,0.1300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2024,2024-07-01,20.3700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2024,2024-07-01,48.8900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2024,2024-07-01,13.0200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2024,2024-07-01,11.1200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2024,2024-07-01,15.8100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2024,2024-06-01,3.2800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2024,2024-06-01,0.4100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2024,2024-06-01,20.8200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2024,2024-06-01,50.0400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2024,2024-06-01,13.7100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2024,2024-06-01,12.7400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2024,2024-06-01,15.5600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2024,2024-05-01,3.0800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2024,2024-05-01,0.3400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2024,2024-05-01,20.7800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2024,2024-05-01,49.7900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2024,2024-05-01,13.3600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2024,2024-05-01,12.4400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2024,2024-05-01,16.3800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2024,2024-04-01,3.5000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2024,2024-04-01,0.2900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2024,2024-04-01,21.0400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2024,2024-04-01,47.2500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2024,2024-04-01,13.4800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2024,2024-04-01,12.8400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2024,2024-04-01,15.5300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2024,2024-03-01,3.2700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2024,2024-03-01,0.0000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2024,2024-03-01,20.7900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2024,2024-03-01,46.6100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2024,2024-03-01,12.6200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2024,2024-03-01,12.0300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2024,2024-03-01,14.2400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2024,2024-02-01,3.8000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2024,2024-02-01,0.0000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2024,2024-02-01,20.2000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2024,2024-02-01,47.2700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2024,2024-02-01,12.4800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2024,2024-02-01,13.0300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2024,2024-02-01,13.8900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2024,2024-01-01,4.1200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2024,2024-01-01,0.0800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2024,2024-01-01,21.7200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2024,2024-01-01,49.8000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2024,2024-01-01,13.1700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2024,2024-01-01,12.6000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2024,2024-01-01,14.8600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2023,2023-12-01,4.5700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2023,2023-12-01,0.1500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2023,2023-12-01,21.7200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2023,2023-12-01,50.4400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2023,2023-12-01,14.4300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2023,2023-12-01,12.5100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2023,2023-12-01,16.9100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2023,2023-11-01,4.0900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2023,2023-11-01,0.1500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2023,2023-11-01,21.0400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2023,2023-11-01,48.9800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2023,2023-11-01,13.8100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2023,2023-11-01,12.2500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2023,2023-11-01,15.6800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2023,2023-10-01,3.3400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2023,2023-10-01,0.2000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2023,2023-10-01,19.5900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2023,2023-10-01,48.8200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2023,2023-10-01,12.3500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2023,2023-10-01,12.4600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2023,2023-10-01,15.2000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2023,2023-09-01,2.4300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2023,2023-09-01,0.1900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2023,2023-09-01,18.8400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2023,2023-09-01,46.7700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2023,2023-09-01,11.5300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2023,2023-09-01,12.1400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2023,2023-09-01,14.0800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2023,2023-08-01,2.6900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2023,2023-08-01,0.3200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2023,2023-08-01,19.5600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2023,2023-08-01,45.2800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2023,2023-08-01,12.4200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2023,2023-08-01,11.9300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2023,2023-08-01,14.9100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2023,2023-07-01,3.2300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2023,2023-07-01,0.3300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2023,2023-07-01,19.8100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2023,2023-07-01,44.8300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2023,2023-07-01,12.2800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2023,2023-07-01,11.7200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2023,2023-07-01,15.2300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2023,2023-06-01,3.4400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2023,2023-06-01,0.2700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2023,2023-06-01,19.9100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2023,2023-06-01,47.2400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2023,2023-06-01,11.7000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2023,2023-06-01,12.6200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2023,2023-06-01,14.9200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2023,2023-05-01,2.9100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2023,2023-05-01,0.1400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2023,2023-05-01,18.6400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2023,2023-05-01,49.5600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2023,2023-05-01,11.2000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2023,2023-05-01,11.4400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2023,2023-05-01,14.2200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2023,2023-04-01,2.4600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2023,2023-04-01,0.0000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2023,2023-04-01,18.5400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2023,2023-04-01,49.2300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2023,2023-04-01,11.2100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2023,2023-04-01,10.6200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2023,2023-04-01,13.3200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2023,2023-03-01,2.8000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2023,2023-03-01,0.0800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2023,2023-03-01,18.3600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2023,2023-03-01,49.7100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2023,2023-03-01,11.5200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2023,2023-03-01,9.8100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2023,2023-03-01,13.5600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2023,2023-02-01,4.4500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2023,2023-02-01,0.0900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2023,2023-02-01,19.2200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2023,2023-02-01,50.7500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2023,2023-02-01,11.7900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2023,2023-02-01,10.5100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2023,2023-02-01,14.3000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2023,2023-01-01,4.7700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2023,2023-01-01,0.0800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2023,2023-01-01,18.8200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2023,2023-01-01,50.7900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2023,2023-01-01,12.2500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2023,2023-01-01,10.5700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2023,2023-01-01,13.4000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2022,2022-12-01,4.2500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2022,2022-12-01,0.0000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2022,2022-12-01,19.0400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2022,2022-12-01,50.7900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2022,2022-12-01,13.8400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2022,2022-12-01,11.5200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2022,2022-12-01,13.8900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2022,2022-11-01,3.0000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2022,2022-11-01,0.1500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2022,2022-11-01,19.1900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2022,2022-11-01,49.6800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2022,2022-11-01,13.5700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2022,2022-11-01,12.0600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2022,2022-11-01,13.3200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2022,2022-10-01,2.7800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2022,2022-10-01,0.1500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2022,2022-10-01,19.7700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2022,2022-10-01,50.5700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2022,2022-10-01,14.4600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2022,2022-10-01,12.0600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2022,2022-10-01,15.1900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2022,2022-09-01,3.2400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2022,2022-09-01,0.3700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2022,2022-09-01,19.4000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2022,2022-09-01,47.9200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2022,2022-09-01,13.4000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2022,2022-09-01,11.4900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2022,2022-09-01,15.5100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2022,2022-08-01,3.7900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2022,2022-08-01,0.3900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2022,2022-08-01,17.8500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2022,2022-08-01,46.1400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2022,2022-08-01,12.9300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2022,2022-08-01,10.4900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2022,2022-08-01,16.3000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2022,2022-07-01,2.9100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2022,2022-07-01,0.5100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2022,2022-07-01,17.7700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2022,2022-07-01,45.4000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2022,2022-07-01,11.2900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2022,2022-07-01,10.1800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2022,2022-07-01,16.3200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2022,2022-06-01,2.4800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2022,2022-06-01,0.3500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2022,2022-06-01,18.4900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2022,2022-06-01,45.7800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2022,2022-06-01,11.4500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2022,2022-06-01,10.2800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2022,2022-06-01,15.4300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2022,2022-05-01,1.8300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2022,2022-05-01,0.1800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2022,2022-05-01,20.3400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2022,2022-05-01,47.4500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2022,2022-05-01,10.9600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2022,2022-05-01,10.9500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2022,2022-05-01,15.9600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2022,2022-04-01,2.1200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2022,2022-04-01,0.2700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2022,2022-04-01,19.3500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2022,2022-04-01,46.0500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2022,2022-04-01,11.4600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2022,2022-04-01,11.1800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2022,2022-04-01,15.7300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2022,2022-03-01,2.3400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2022,2022-03-01,0.3600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2022,2022-03-01,18.8400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2022,2022-03-01,45.7300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2022,2022-03-01,10.9900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2022,2022-03-01,9.7500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2022,2022-03-01,15.7900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2022,2022-02-01,2.9000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2022,2022-02-01,0.5400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2022,2022-02-01,19.1500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2022,2022-02-01,45.5100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2022,2022-02-01,12.0700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2022,2022-02-01,8.6900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2022,2022-02-01,16.0600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2022,2022-01-01,2.8600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2022,2022-01-01,0.4500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2022,2022-01-01,18.8500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2022,2022-01-01,47.1600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2022,2022-01-01,10.8500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2022,2022-01-01,9.2400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2022,2022-01-01,16.6400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2021,2021-12-01,2.5800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2021,2021-12-01,0.2800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2021,2021-12-01,18.1000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2021,2021-12-01,46.3600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2021,2021-12-01,10.2900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2021,2021-12-01,9.7900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2021,2021-12-01,15.3100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2021,2021-11-01,1.8500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2021,2021-11-01,0.1900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2021,2021-11-01,16.9500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2021,2021-11-01,46.2700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2021,2021-11-01,8.9100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2021,2021-11-01,10.5600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2021,2021-11-01,13.9300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2021,2021-10-01,1.6100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2021,2021-10-01,0.0900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2021,2021-10-01,17.2900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2021,2021-10-01,47.3500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2021,2021-10-01,9.8700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2021,2021-10-01,10.0900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2021,2021-10-01,13.5300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2021,2021-09-01,1.0500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2021,2021-09-01,0.4200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2021,2021-09-01,18.0000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2021,2021-09-01,48.9800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2021,2021-09-01,10.5800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2021,2021-09-01,9.9300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2021,2021-09-01,15.5100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2021,2021-08-01,0.7400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2021,2021-08-01,0.4000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2021,2021-08-01,17.5000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2021,2021-08-01,46.7300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2021,2021-08-01,10.6200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2021,2021-08-01,10.1300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2021,2021-08-01,15.3300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2021,2021-07-01,1.3700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2021,2021-07-01,0.4000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2021,2021-07-01,16.0800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2021,2021-07-01,42.0900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2021,2021-07-01,10.1100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2021,2021-07-01,10.2200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2021,2021-07-01,14.4700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2021,2021-06-01,1.3200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2021,2021-06-01,0.2500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2021,2021-06-01,16.1900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2021,2021-06-01,39.5700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2021,2021-06-01,9.8100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2021,2021-06-01,10.3800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2021,2021-06-01,13.0200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2021,2021-05-01,1.2100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2021,2021-05-01,0.1700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2021,2021-05-01,16.4900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2021,2021-05-01,39.6800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2021,2021-05-01,9.9800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2021,2021-05-01,9.3800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2021,2021-05-01,12.5000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2021,2021-04-01,0.2900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2021,2021-04-01,0.1800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2021,2021-04-01,18.9600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2021,2021-04-01,41.5200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2021,2021-04-01,10.3500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2021,2021-04-01,9.6600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2021,2021-04-01,12.5200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2021,2021-03-01,0.4600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2021,2021-03-01,0.0900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2021,2021-03-01,19.2200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2021,2021-03-01,43.6700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2021,2021-03-01,9.7500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2021,2021-03-01,10.4000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2021,2021-03-01,13.2300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2021,2021-02-01,0.6200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2021,2021-02-01,0.2800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2021,2021-02-01,20.4600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2021,2021-02-01,45.7600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2021,2021-02-01,9.8900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2021,2021-02-01,11.8600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2021,2021-02-01,14.7700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2021,2021-01-01,1.1600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2021,2021-01-01,0.4400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2021,2021-01-01,19.0900,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2021,2021-01-01,46.7200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2021,2021-01-01,9.8800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2021,2021-01-01,10.9100,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2021,2021-01-01,14.7500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2020,2020-12-01,0.8200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2020,2020-12-01,0.5000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2020,2020-12-01,18.0500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2020,2020-12-01,46.0600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2020,2020-12-01,10.0500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2020,2020-12-01,11.5000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2020,2020-12-01,14.6200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2020,2020-11-01,0.7800,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2020,2020-11-01,0.3200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2020,2020-11-01,16.6000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2020,2020-11-01,45.3000,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2020,2020-11-01,10.2500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2020,2020-11-01,10.5400,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2020,2020-11-01,13.3700,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Amikacin,2020,2020-10-01,0.2500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Carbapenems,2020,2020-10-01,0.2300,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Ciprofloxacin,2020,2020-10-01,16.9600,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Co-amoxiclav,2020,2020-10-01,44.8500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Gentamicin,2020,2020-10-01,10.9500,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Piperacillin with tazobactam,2020,2020-10-01,10.6200,False
+infectious_disease,antimicrobial_resistance,E-coli,UKHSA Region,North West,e-coli_testing_bacteraemiaPercentResistantRollingMonth,all,all,Third Generation Cephalosporins,2020,2020-10-01,13.7100,False

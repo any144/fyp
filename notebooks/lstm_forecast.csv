@@ -1,0 +1,1243 @@
+,geography,organism,stratum,date,forecast_resistance_pct
+0,East Midlands,E-coli,Amikacin,2025-07-01,4.1321607
+1,East Midlands,E-coli,Amikacin,2025-08-01,4.1890864
+2,East Midlands,E-coli,Amikacin,2025-09-01,3.992555
+3,East Midlands,E-coli,Amikacin,2025-10-01,3.9695227
+4,East Midlands,E-coli,Amikacin,2025-11-01,3.7582989
+5,East Midlands,E-coli,Amikacin,2025-12-01,3.8250556
+6,East Midlands,E-coli,Carbapenems,2025-07-01,0.28117448
+7,East Midlands,E-coli,Carbapenems,2025-08-01,0.24181068
+8,East Midlands,E-coli,Carbapenems,2025-09-01,0.17767356
+9,East Midlands,E-coli,Carbapenems,2025-10-01,0.14284137
+10,East Midlands,E-coli,Carbapenems,2025-11-01,0.122471265
+11,East Midlands,E-coli,Carbapenems,2025-12-01,0.0800197
+12,East Midlands,E-coli,Ciprofloxacin,2025-07-01,5.5163774
+13,East Midlands,E-coli,Ciprofloxacin,2025-08-01,5.627154
+14,East Midlands,E-coli,Ciprofloxacin,2025-09-01,5.5029407
+15,East Midlands,E-coli,Ciprofloxacin,2025-10-01,5.3968997
+16,East Midlands,E-coli,Ciprofloxacin,2025-11-01,4.9258466
+17,East Midlands,E-coli,Ciprofloxacin,2025-12-01,5.3738337
+18,East Midlands,E-coli,Co-amoxiclav,2025-07-01,4.1740413
+19,East Midlands,E-coli,Co-amoxiclav,2025-08-01,4.065371
+20,East Midlands,E-coli,Co-amoxiclav,2025-09-01,3.8588142
+21,East Midlands,E-coli,Co-amoxiclav,2025-10-01,4.2856755
+22,East Midlands,E-coli,Co-amoxiclav,2025-11-01,3.399664
+23,East Midlands,E-coli,Co-amoxiclav,2025-12-01,4.033891
+24,East Midlands,E-coli,Gentamicin,2025-07-01,5.7473373
+25,East Midlands,E-coli,Gentamicin,2025-08-01,5.856263
+26,East Midlands,E-coli,Gentamicin,2025-09-01,5.6850467
+27,East Midlands,E-coli,Gentamicin,2025-10-01,5.531671
+28,East Midlands,E-coli,Gentamicin,2025-11-01,5.1983466
+29,East Midlands,E-coli,Gentamicin,2025-12-01,5.5234375
+30,East Midlands,E-coli,Piperacillin with tazobactam,2025-07-01,5.7468686
+31,East Midlands,E-coli,Piperacillin with tazobactam,2025-08-01,5.8403034
+32,East Midlands,E-coli,Piperacillin with tazobactam,2025-09-01,5.692725
+33,East Midlands,E-coli,Piperacillin with tazobactam,2025-10-01,5.511556
+34,East Midlands,E-coli,Piperacillin with tazobactam,2025-11-01,5.1310678
+35,East Midlands,E-coli,Piperacillin with tazobactam,2025-12-01,5.496202
+36,East Midlands,E-coli,Third Generation Cephalosporins,2025-07-01,5.6027107
+37,East Midlands,E-coli,Third Generation Cephalosporins,2025-08-01,5.7036304
+38,East Midlands,E-coli,Third Generation Cephalosporins,2025-09-01,5.579544
+39,East Midlands,E-coli,Third Generation Cephalosporins,2025-10-01,5.436706
+40,East Midlands,E-coli,Third Generation Cephalosporins,2025-11-01,4.987047
+41,East Midlands,E-coli,Third Generation Cephalosporins,2025-12-01,5.417344
+42,East Midlands,K-pneumoniae,Amikacin,2025-07-01,0.63450366
+43,East Midlands,K-pneumoniae,Amikacin,2025-08-01,0.53865266
+44,East Midlands,K-pneumoniae,Amikacin,2025-09-01,0.5268808
+45,East Midlands,K-pneumoniae,Amikacin,2025-10-01,0.41808757
+46,East Midlands,K-pneumoniae,Amikacin,2025-11-01,0.4457026
+47,East Midlands,K-pneumoniae,Amikacin,2025-12-01,0.22302562
+48,East Midlands,K-pneumoniae,Carbapenems,2025-07-01,0.8158223
+49,East Midlands,K-pneumoniae,Carbapenems,2025-08-01,0.8358033
+50,East Midlands,K-pneumoniae,Carbapenems,2025-09-01,0.8147534
+51,East Midlands,K-pneumoniae,Carbapenems,2025-10-01,0.7557876
+52,East Midlands,K-pneumoniae,Carbapenems,2025-11-01,0.796728
+53,East Midlands,K-pneumoniae,Carbapenems,2025-12-01,0.7720444
+54,East Midlands,K-pneumoniae,Ciprofloxacin,2025-07-01,5.7193522
+55,East Midlands,K-pneumoniae,Ciprofloxacin,2025-08-01,5.834154
+56,East Midlands,K-pneumoniae,Ciprofloxacin,2025-09-01,5.6794105
+57,East Midlands,K-pneumoniae,Ciprofloxacin,2025-10-01,5.5298743
+58,East Midlands,K-pneumoniae,Ciprofloxacin,2025-11-01,5.1235075
+59,East Midlands,K-pneumoniae,Ciprofloxacin,2025-12-01,5.5073037
+60,East Midlands,K-pneumoniae,Co-amoxiclav,2025-07-01,4.968826
+61,East Midlands,K-pneumoniae,Co-amoxiclav,2025-08-01,4.928404
+62,East Midlands,K-pneumoniae,Co-amoxiclav,2025-09-01,4.70434
+63,East Midlands,K-pneumoniae,Co-amoxiclav,2025-10-01,5.0872555
+64,East Midlands,K-pneumoniae,Co-amoxiclav,2025-11-01,4.295308
+65,East Midlands,K-pneumoniae,Co-amoxiclav,2025-12-01,4.8895793
+66,East Midlands,K-pneumoniae,Gentamicin,2025-07-01,5.490561
+67,East Midlands,K-pneumoniae,Gentamicin,2025-08-01,5.6338844
+68,East Midlands,K-pneumoniae,Gentamicin,2025-09-01,5.4301085
+69,East Midlands,K-pneumoniae,Gentamicin,2025-10-01,5.4000664
+70,East Midlands,K-pneumoniae,Gentamicin,2025-11-01,5.182413
+71,East Midlands,K-pneumoniae,Gentamicin,2025-12-01,5.3739395
+72,East Midlands,K-pneumoniae,Piperacillin with tazobactam,2025-07-01,5.5240135
+73,East Midlands,K-pneumoniae,Piperacillin with tazobactam,2025-08-01,5.6411366
+74,East Midlands,K-pneumoniae,Piperacillin with tazobactam,2025-09-01,5.517523
+75,East Midlands,K-pneumoniae,Piperacillin with tazobactam,2025-10-01,5.4249053
+76,East Midlands,K-pneumoniae,Piperacillin with tazobactam,2025-11-01,4.9468703
+77,East Midlands,K-pneumoniae,Piperacillin with tazobactam,2025-12-01,5.398158
+78,East Midlands,K-pneumoniae,Third Generation Cephalosporins,2025-07-01,5.663124
+79,East Midlands,K-pneumoniae,Third Generation Cephalosporins,2025-08-01,5.7583833
+80,East Midlands,K-pneumoniae,Third Generation Cephalosporins,2025-09-01,5.6311116
+81,East Midlands,K-pneumoniae,Third Generation Cephalosporins,2025-10-01,5.465755
+82,East Midlands,K-pneumoniae,Third Generation Cephalosporins,2025-11-01,5.03415
+83,East Midlands,K-pneumoniae,Third Generation Cephalosporins,2025-12-01,5.447468
+84,East Midlands,P-aeruginosa,Amikacin,2025-07-01,0.787926
+85,East Midlands,P-aeruginosa,Amikacin,2025-08-01,0.6508573
+86,East Midlands,P-aeruginosa,Amikacin,2025-09-01,0.5850943
+87,East Midlands,P-aeruginosa,Amikacin,2025-10-01,0.46941024
+88,East Midlands,P-aeruginosa,Amikacin,2025-11-01,0.4443513
+89,East Midlands,P-aeruginosa,Amikacin,2025-12-01,0.1228398
+90,East Midlands,P-aeruginosa,Carbapenems,2025-07-01,5.0755715
+91,East Midlands,P-aeruginosa,Carbapenems,2025-08-01,5.1259403
+92,East Midlands,P-aeruginosa,Carbapenems,2025-09-01,4.9808817
+93,East Midlands,P-aeruginosa,Carbapenems,2025-10-01,4.8846936
+94,East Midlands,P-aeruginosa,Carbapenems,2025-11-01,4.6607738
+95,East Midlands,P-aeruginosa,Carbapenems,2025-12-01,4.76968
+96,East Midlands,P-aeruginosa,Ceftazidime,2025-07-01,5.3552885
+97,East Midlands,P-aeruginosa,Ceftazidime,2025-08-01,5.4529123
+98,East Midlands,P-aeruginosa,Ceftazidime,2025-09-01,5.2898836
+99,East Midlands,P-aeruginosa,Ceftazidime,2025-10-01,5.2212114
+100,East Midlands,P-aeruginosa,Ceftazidime,2025-11-01,5.0121856
+101,East Midlands,P-aeruginosa,Ceftazidime,2025-12-01,5.1721764
+102,East Midlands,P-aeruginosa,Ciprofloxacin,2025-07-01,5.727462
+103,East Midlands,P-aeruginosa,Ciprofloxacin,2025-08-01,5.8286595
+104,East Midlands,P-aeruginosa,Ciprofloxacin,2025-09-01,5.6563787
+105,East Midlands,P-aeruginosa,Ciprofloxacin,2025-10-01,5.5171785
+106,East Midlands,P-aeruginosa,Ciprofloxacin,2025-11-01,5.2153754
+107,East Midlands,P-aeruginosa,Ciprofloxacin,2025-12-01,5.5164003
+108,East Midlands,P-aeruginosa,Piperacillin with tazobactam,2025-07-01,4.7696934
+109,East Midlands,P-aeruginosa,Piperacillin with tazobactam,2025-08-01,4.7928095
+110,East Midlands,P-aeruginosa,Piperacillin with tazobactam,2025-09-01,4.6309466
+111,East Midlands,P-aeruginosa,Piperacillin with tazobactam,2025-10-01,4.530523
+112,East Midlands,P-aeruginosa,Piperacillin with tazobactam,2025-11-01,4.2772274
+113,East Midlands,P-aeruginosa,Piperacillin with tazobactam,2025-12-01,4.3603096
+114,East Midlands,S-pneumoniae,Macrolides,2025-07-01,5.5654025
+115,East Midlands,S-pneumoniae,Macrolides,2025-08-01,5.6455555
+116,East Midlands,S-pneumoniae,Macrolides,2025-09-01,5.479428
+117,East Midlands,S-pneumoniae,Macrolides,2025-10-01,5.3747005
+118,East Midlands,S-pneumoniae,Macrolides,2025-11-01,5.130657
+119,East Midlands,S-pneumoniae,Macrolides,2025-12-01,5.350391
+120,East Midlands,S-pneumoniae,Penicillin,2025-07-01,3.3754814
+121,East Midlands,S-pneumoniae,Penicillin,2025-08-01,3.3961616
+122,East Midlands,S-pneumoniae,Penicillin,2025-09-01,3.131162
+123,East Midlands,S-pneumoniae,Penicillin,2025-10-01,3.145706
+124,East Midlands,S-pneumoniae,Penicillin,2025-11-01,2.9200034
+125,East Midlands,S-pneumoniae,Penicillin,2025-12-01,2.9982553
+126,East Midlands,e-faecalis,Glycopeptides,2025-07-01,2.6754246
+127,East Midlands,e-faecalis,Glycopeptides,2025-08-01,2.5845144
+128,East Midlands,e-faecalis,Glycopeptides,2025-09-01,2.594906
+129,East Midlands,e-faecalis,Glycopeptides,2025-10-01,2.476044
+130,East Midlands,e-faecalis,Glycopeptides,2025-11-01,2.3501801
+131,East Midlands,e-faecalis,Glycopeptides,2025-12-01,2.1934874
+132,East Midlands,e-faecium,Glycopeptides,2025-07-01,5.749442
+133,East Midlands,e-faecium,Glycopeptides,2025-08-01,5.857257
+134,East Midlands,e-faecium,Glycopeptides,2025-09-01,5.6956363
+135,East Midlands,e-faecium,Glycopeptides,2025-10-01,5.5285654
+136,East Midlands,e-faecium,Glycopeptides,2025-11-01,5.1578946
+137,East Midlands,e-faecium,Glycopeptides,2025-12-01,5.513752
+138,East of England,E-coli,Amikacin,2025-07-01,3.276422
+139,East of England,E-coli,Amikacin,2025-08-01,3.2769644
+140,East of England,E-coli,Amikacin,2025-09-01,3.1491492
+141,East of England,E-coli,Amikacin,2025-10-01,3.0923402
+142,East of England,E-coli,Amikacin,2025-11-01,2.9295876
+143,East of England,E-coli,Amikacin,2025-12-01,2.9026072
+144,East of England,E-coli,Carbapenems,2025-07-01,0.042632442
+145,East of England,E-coli,Carbapenems,2025-08-01,0.008629404
+146,East of England,E-coli,Carbapenems,2025-09-01,-0.042879574
+147,East of England,E-coli,Carbapenems,2025-10-01,-0.07293496
+148,East of England,E-coli,Carbapenems,2025-11-01,-0.083144724
+149,East of England,E-coli,Carbapenems,2025-12-01,-0.11404022
+150,East of England,E-coli,Ciprofloxacin,2025-07-01,5.610583
+151,East of England,E-coli,Ciprofloxacin,2025-08-01,5.7325325
+152,East of England,E-coli,Ciprofloxacin,2025-09-01,5.588124
+153,East of England,E-coli,Ciprofloxacin,2025-10-01,5.473246
+154,East of England,E-coli,Ciprofloxacin,2025-11-01,5.014974
+155,East of England,E-coli,Ciprofloxacin,2025-12-01,5.443049
+156,East of England,E-coli,Co-amoxiclav,2025-07-01,4.2481666
+157,East of England,E-coli,Co-amoxiclav,2025-08-01,4.16266
+158,East of England,E-coli,Co-amoxiclav,2025-09-01,3.9588885
+159,East of England,E-coli,Co-amoxiclav,2025-10-01,4.363466
+160,East of England,E-coli,Co-amoxiclav,2025-11-01,3.4914653
+161,East of England,E-coli,Co-amoxiclav,2025-12-01,4.13485
+162,East of England,E-coli,Gentamicin,2025-07-01,5.7433577
+163,East of England,E-coli,Gentamicin,2025-08-01,5.848912
+164,East of England,E-coli,Gentamicin,2025-09-01,5.6823416
+165,East of England,E-coli,Gentamicin,2025-10-01,5.5367446
+166,East of England,E-coli,Gentamicin,2025-11-01,5.206994
+167,East of England,E-coli,Gentamicin,2025-12-01,5.537177
+168,East of England,E-coli,Piperacillin with tazobactam,2025-07-01,5.710565
+169,East of England,E-coli,Piperacillin with tazobactam,2025-08-01,5.794
+170,East of England,E-coli,Piperacillin with tazobactam,2025-09-01,5.6645083
+171,East of England,E-coli,Piperacillin with tazobactam,2025-10-01,5.4724483
+172,East of England,E-coli,Piperacillin with tazobactam,2025-11-01,5.063128
+173,East of England,E-coli,Piperacillin with tazobactam,2025-12-01,5.4559197
+174,East of England,E-coli,Third Generation Cephalosporins,2025-07-01,5.631062
+175,East of England,E-coli,Third Generation Cephalosporins,2025-08-01,5.7376666
+176,East of England,E-coli,Third Generation Cephalosporins,2025-09-01,5.6032596
+177,East of England,E-coli,Third Generation Cephalosporins,2025-10-01,5.4589934
+178,East of England,E-coli,Third Generation Cephalosporins,2025-11-01,5.013753
+179,East of England,E-coli,Third Generation Cephalosporins,2025-12-01,5.435799
+180,East of England,K-pneumoniae,Amikacin,2025-07-01,3.1344948
+181,East of England,K-pneumoniae,Amikacin,2025-08-01,3.0933018
+182,East of England,K-pneumoniae,Amikacin,2025-09-01,2.964003
+183,East of England,K-pneumoniae,Amikacin,2025-10-01,2.8744607
+184,East of England,K-pneumoniae,Amikacin,2025-11-01,2.6748307
+185,East of England,K-pneumoniae,Amikacin,2025-12-01,2.6237416
+186,East of England,K-pneumoniae,Carbapenems,2025-07-01,0.8642447
+187,East of England,K-pneumoniae,Carbapenems,2025-08-01,0.7729121
+188,East of England,K-pneumoniae,Carbapenems,2025-09-01,0.729276
+189,East of England,K-pneumoniae,Carbapenems,2025-10-01,0.60324645
+190,East of England,K-pneumoniae,Carbapenems,2025-11-01,0.6071972
+191,East of England,K-pneumoniae,Carbapenems,2025-12-01,0.41867018
+192,East of England,K-pneumoniae,Ciprofloxacin,2025-07-01,5.2644176
+193,East of England,K-pneumoniae,Ciprofloxacin,2025-08-01,5.3061566
+194,East of England,K-pneumoniae,Ciprofloxacin,2025-09-01,5.134314
+195,East of England,K-pneumoniae,Ciprofloxacin,2025-10-01,5.264487
+196,East of England,K-pneumoniae,Ciprofloxacin,2025-11-01,4.649243
+197,East of England,K-pneumoniae,Ciprofloxacin,2025-12-01,5.1722727
+198,East of England,K-pneumoniae,Co-amoxiclav,2025-07-01,4.5779715
+199,East of England,K-pneumoniae,Co-amoxiclav,2025-08-01,4.5167847
+200,East of England,K-pneumoniae,Co-amoxiclav,2025-09-01,4.30793
+201,East of England,K-pneumoniae,Co-amoxiclav,2025-10-01,4.710851
+202,East of England,K-pneumoniae,Co-amoxiclav,2025-11-01,3.869364
+203,East of England,K-pneumoniae,Co-amoxiclav,2025-12-01,4.5031166
+204,East of England,K-pneumoniae,Gentamicin,2025-07-01,5.709711
+205,East of England,K-pneumoniae,Gentamicin,2025-08-01,5.812293
+206,East of England,K-pneumoniae,Gentamicin,2025-09-01,5.6711087
+207,East of England,K-pneumoniae,Gentamicin,2025-10-01,5.5071735
+208,East of England,K-pneumoniae,Gentamicin,2025-11-01,5.0982475
+209,East of England,K-pneumoniae,Gentamicin,2025-12-01,5.4919195
+210,East of England,K-pneumoniae,Piperacillin with tazobactam,2025-07-01,5.0341573
+211,East of England,K-pneumoniae,Piperacillin with tazobactam,2025-08-01,5.005175
+212,East of England,K-pneumoniae,Piperacillin with tazobactam,2025-09-01,4.772742
+213,East of England,K-pneumoniae,Piperacillin with tazobactam,2025-10-01,5.147277
+214,East of England,K-pneumoniae,Piperacillin with tazobactam,2025-11-01,4.35915
+215,East of England,K-pneumoniae,Piperacillin with tazobactam,2025-12-01,4.945457
+216,East of England,K-pneumoniae,Third Generation Cephalosporins,2025-07-01,5.4337177
+217,East of England,K-pneumoniae,Third Generation Cephalosporins,2025-08-01,5.533979
+218,East of England,K-pneumoniae,Third Generation Cephalosporins,2025-09-01,5.378792
+219,East of England,K-pneumoniae,Third Generation Cephalosporins,2025-10-01,5.367468
+220,East of England,K-pneumoniae,Third Generation Cephalosporins,2025-11-01,4.8399687
+221,East of England,K-pneumoniae,Third Generation Cephalosporins,2025-12-01,5.3168864
+222,East of England,P-aeruginosa,Amikacin,2025-07-01,0.78256416
+223,East of England,P-aeruginosa,Amikacin,2025-08-01,0.72077376
+224,East of England,P-aeruginosa,Amikacin,2025-09-01,0.71945465
+225,East of England,P-aeruginosa,Amikacin,2025-10-01,0.67397916
+226,East of England,P-aeruginosa,Amikacin,2025-11-01,0.68610114
+227,East of England,P-aeruginosa,Amikacin,2025-12-01,0.5768318
+228,East of England,P-aeruginosa,Carbapenems,2025-07-01,5.2207866
+229,East of England,P-aeruginosa,Carbapenems,2025-08-01,5.389478
+230,East of England,P-aeruginosa,Carbapenems,2025-09-01,5.1760345
+231,East of England,P-aeruginosa,Carbapenems,2025-10-01,5.150356
+232,East of England,P-aeruginosa,Carbapenems,2025-11-01,4.9466677
+233,East of England,P-aeruginosa,Carbapenems,2025-12-01,5.063283
+234,East of England,P-aeruginosa,Ceftazidime,2025-07-01,5.0841937
+235,East of England,P-aeruginosa,Ceftazidime,2025-08-01,5.223104
+236,East of England,P-aeruginosa,Ceftazidime,2025-09-01,5.058679
+237,East of England,P-aeruginosa,Ceftazidime,2025-10-01,5.0332446
+238,East of England,P-aeruginosa,Ceftazidime,2025-11-01,4.8383527
+239,East of England,P-aeruginosa,Ceftazidime,2025-12-01,4.9226923
+240,East of England,P-aeruginosa,Ciprofloxacin,2025-07-01,5.68489
+241,East of England,P-aeruginosa,Ciprofloxacin,2025-08-01,5.7915287
+242,East of England,P-aeruginosa,Ciprofloxacin,2025-09-01,5.615955
+243,East of England,P-aeruginosa,Ciprofloxacin,2025-10-01,5.518627
+244,East of England,P-aeruginosa,Ciprofloxacin,2025-11-01,5.2375927
+245,East of England,P-aeruginosa,Ciprofloxacin,2025-12-01,5.521381
+246,East of England,P-aeruginosa,Piperacillin with tazobactam,2025-07-01,4.839988
+247,East of England,P-aeruginosa,Piperacillin with tazobactam,2025-08-01,4.9763894
+248,East of England,P-aeruginosa,Piperacillin with tazobactam,2025-09-01,4.859736
+249,East of England,P-aeruginosa,Piperacillin with tazobactam,2025-10-01,4.81679
+250,East of England,P-aeruginosa,Piperacillin with tazobactam,2025-11-01,4.656058
+251,East of England,P-aeruginosa,Piperacillin with tazobactam,2025-12-01,4.681558
+252,East of England,S-pneumoniae,Macrolides,2025-07-01,5.7287645
+253,East of England,S-pneumoniae,Macrolides,2025-08-01,5.7714753
+254,East of England,S-pneumoniae,Macrolides,2025-09-01,5.663904
+255,East of England,S-pneumoniae,Macrolides,2025-10-01,5.438294
+256,East of England,S-pneumoniae,Macrolides,2025-11-01,5.0716586
+257,East of England,S-pneumoniae,Macrolides,2025-12-01,5.4368424
+258,East of England,S-pneumoniae,Penicillin,2025-07-01,4.6239057
+259,East of England,S-pneumoniae,Penicillin,2025-08-01,4.648847
+260,East of England,S-pneumoniae,Penicillin,2025-09-01,4.4453588
+261,East of England,S-pneumoniae,Penicillin,2025-10-01,4.33594
+262,East of England,S-pneumoniae,Penicillin,2025-11-01,4.057402
+263,East of England,S-pneumoniae,Penicillin,2025-12-01,4.1432004
+264,East of England,e-faecalis,Glycopeptides,2025-07-01,4.6746736
+265,East of England,e-faecalis,Glycopeptides,2025-08-01,4.7214937
+266,East of England,e-faecalis,Glycopeptides,2025-09-01,4.4869504
+267,East of England,e-faecalis,Glycopeptides,2025-10-01,4.456918
+268,East of England,e-faecalis,Glycopeptides,2025-11-01,4.2114344
+269,East of England,e-faecalis,Glycopeptides,2025-12-01,4.3710904
+270,East of England,e-faecium,Glycopeptides,2025-07-01,4.8690095
+271,East of England,e-faecium,Glycopeptides,2025-08-01,4.8239217
+272,East of England,e-faecium,Glycopeptides,2025-09-01,4.599378
+273,East of England,e-faecium,Glycopeptides,2025-10-01,4.964808
+274,East of England,e-faecium,Glycopeptides,2025-11-01,4.1960225
+275,East of England,e-faecium,Glycopeptides,2025-12-01,4.777322
+276,London,E-coli,Amikacin,2025-07-01,2.072813
+277,London,E-coli,Amikacin,2025-08-01,2.0263739
+278,London,E-coli,Amikacin,2025-09-01,2.031733
+279,London,E-coli,Amikacin,2025-10-01,1.9657753
+280,London,E-coli,Amikacin,2025-11-01,1.9512391
+281,London,E-coli,Amikacin,2025-12-01,1.9016851
+282,London,E-coli,Carbapenems,2025-07-01,0.52252465
+283,London,E-coli,Carbapenems,2025-08-01,0.4795584
+284,London,E-coli,Carbapenems,2025-09-01,0.42165703
+285,London,E-coli,Carbapenems,2025-10-01,0.3858434
+286,London,E-coli,Carbapenems,2025-11-01,0.36731845
+287,London,E-coli,Carbapenems,2025-12-01,0.33559883
+288,London,E-coli,Ciprofloxacin,2025-07-01,4.8842607
+289,London,E-coli,Ciprofloxacin,2025-08-01,4.853286
+290,London,E-coli,Ciprofloxacin,2025-09-01,4.621062
+291,London,E-coli,Ciprofloxacin,2025-10-01,5.020145
+292,London,E-coli,Ciprofloxacin,2025-11-01,4.2272286
+293,London,E-coli,Ciprofloxacin,2025-12-01,4.8105903
+294,London,E-coli,Co-amoxiclav,2025-07-01,4.07252
+295,London,E-coli,Co-amoxiclav,2025-08-01,3.9684474
+296,London,E-coli,Co-amoxiclav,2025-09-01,3.7656665
+297,London,E-coli,Co-amoxiclav,2025-10-01,4.188362
+298,London,E-coli,Co-amoxiclav,2025-11-01,3.2994072
+299,London,E-coli,Co-amoxiclav,2025-12-01,3.9283571
+300,London,E-coli,Gentamicin,2025-07-01,5.657584
+301,London,E-coli,Gentamicin,2025-08-01,5.770872
+302,London,E-coli,Gentamicin,2025-09-01,5.6318946
+303,London,E-coli,Gentamicin,2025-10-01,5.4908442
+304,London,E-coli,Gentamicin,2025-11-01,5.053693
+305,London,E-coli,Gentamicin,2025-12-01,5.4641795
+306,London,E-coli,Piperacillin with tazobactam,2025-07-01,5.686477
+307,London,E-coli,Piperacillin with tazobactam,2025-08-01,5.807418
+308,London,E-coli,Piperacillin with tazobactam,2025-09-01,5.6565104
+309,London,E-coli,Piperacillin with tazobactam,2025-10-01,5.5185676
+310,London,E-coli,Piperacillin with tazobactam,2025-11-01,5.0888224
+311,London,E-coli,Piperacillin with tazobactam,2025-12-01,5.4866858
+312,London,E-coli,Third Generation Cephalosporins,2025-07-01,5.051079
+313,London,E-coli,Third Generation Cephalosporins,2025-08-01,5.031663
+314,London,E-coli,Third Generation Cephalosporins,2025-09-01,4.793557
+315,London,E-coli,Third Generation Cephalosporins,2025-10-01,5.1566377
+316,London,E-coli,Third Generation Cephalosporins,2025-11-01,4.3914795
+317,London,E-coli,Third Generation Cephalosporins,2025-12-01,4.96004
+318,London,K-pneumoniae,Amikacin,2025-07-01,2.805209
+319,London,K-pneumoniae,Amikacin,2025-08-01,2.7089376
+320,London,K-pneumoniae,Amikacin,2025-09-01,2.7682247
+321,London,K-pneumoniae,Amikacin,2025-10-01,2.623798
+322,London,K-pneumoniae,Amikacin,2025-11-01,2.5131
+323,London,K-pneumoniae,Amikacin,2025-12-01,2.3141954
+324,London,K-pneumoniae,Carbapenems,2025-07-01,2.9692972
+325,London,K-pneumoniae,Carbapenems,2025-08-01,2.9517379
+326,London,K-pneumoniae,Carbapenems,2025-09-01,2.9263468
+327,London,K-pneumoniae,Carbapenems,2025-10-01,2.8986347
+328,London,K-pneumoniae,Carbapenems,2025-11-01,2.8344727
+329,London,K-pneumoniae,Carbapenems,2025-12-01,2.8025033
+330,London,K-pneumoniae,Ciprofloxacin,2025-07-01,5.1870823
+331,London,K-pneumoniae,Ciprofloxacin,2025-08-01,5.17661
+332,London,K-pneumoniae,Ciprofloxacin,2025-09-01,4.9410157
+333,London,K-pneumoniae,Ciprofloxacin,2025-10-01,5.2739906
+334,London,K-pneumoniae,Ciprofloxacin,2025-11-01,4.5259933
+335,London,K-pneumoniae,Ciprofloxacin,2025-12-01,5.0879416
+336,London,K-pneumoniae,Co-amoxiclav,2025-07-01,4.6244965
+337,London,K-pneumoniae,Co-amoxiclav,2025-08-01,4.5708637
+338,London,K-pneumoniae,Co-amoxiclav,2025-09-01,4.3629713
+339,London,K-pneumoniae,Co-amoxiclav,2025-10-01,4.7818785
+340,London,K-pneumoniae,Co-amoxiclav,2025-11-01,3.945486
+341,London,K-pneumoniae,Co-amoxiclav,2025-12-01,4.5672984
+342,London,K-pneumoniae,Gentamicin,2025-07-01,5.665889
+343,London,K-pneumoniae,Gentamicin,2025-08-01,5.803176
+344,London,K-pneumoniae,Gentamicin,2025-09-01,5.6420693
+345,London,K-pneumoniae,Gentamicin,2025-10-01,5.530009
+346,London,K-pneumoniae,Gentamicin,2025-11-01,5.087745
+347,London,K-pneumoniae,Gentamicin,2025-12-01,5.490298
+348,London,K-pneumoniae,Piperacillin with tazobactam,2025-07-01,5.01919
+349,London,K-pneumoniae,Piperacillin with tazobactam,2025-08-01,5.00428
+350,London,K-pneumoniae,Piperacillin with tazobactam,2025-09-01,4.777783
+351,London,K-pneumoniae,Piperacillin with tazobactam,2025-10-01,5.1467886
+352,London,K-pneumoniae,Piperacillin with tazobactam,2025-11-01,4.369825
+353,London,K-pneumoniae,Piperacillin with tazobactam,2025-12-01,4.951895
+354,London,K-pneumoniae,Third Generation Cephalosporins,2025-07-01,5.086545
+355,London,K-pneumoniae,Third Generation Cephalosporins,2025-08-01,5.072945
+356,London,K-pneumoniae,Third Generation Cephalosporins,2025-09-01,4.846938
+357,London,K-pneumoniae,Third Generation Cephalosporins,2025-10-01,5.1964064
+358,London,K-pneumoniae,Third Generation Cephalosporins,2025-11-01,4.4350176
+359,London,K-pneumoniae,Third Generation Cephalosporins,2025-12-01,5.010122
+360,London,P-aeruginosa,Amikacin,2025-07-01,-0.27160245
+361,London,P-aeruginosa,Amikacin,2025-08-01,-0.27429542
+362,London,P-aeruginosa,Amikacin,2025-09-01,-0.29770342
+363,London,P-aeruginosa,Amikacin,2025-10-01,-0.36238787
+364,London,P-aeruginosa,Amikacin,2025-11-01,-0.2946509
+365,London,P-aeruginosa,Amikacin,2025-12-01,-0.36099374
+366,London,P-aeruginosa,Carbapenems,2025-07-01,5.734571
+367,London,P-aeruginosa,Carbapenems,2025-08-01,5.8601456
+368,London,P-aeruginosa,Carbapenems,2025-09-01,5.674344
+369,London,P-aeruginosa,Carbapenems,2025-10-01,5.574531
+370,London,P-aeruginosa,Carbapenems,2025-11-01,5.2475514
+371,London,P-aeruginosa,Carbapenems,2025-12-01,5.576816
+372,London,P-aeruginosa,Ceftazidime,2025-07-01,5.6370893
+373,London,P-aeruginosa,Ceftazidime,2025-08-01,5.7862573
+374,London,P-aeruginosa,Ceftazidime,2025-09-01,5.5632067
+375,London,P-aeruginosa,Ceftazidime,2025-10-01,5.522046
+376,London,P-aeruginosa,Ceftazidime,2025-11-01,5.2650595
+377,London,P-aeruginosa,Ceftazidime,2025-12-01,5.526413
+378,London,P-aeruginosa,Ciprofloxacin,2025-07-01,4.4129844
+379,London,P-aeruginosa,Ciprofloxacin,2025-08-01,4.5068536
+380,London,P-aeruginosa,Ciprofloxacin,2025-09-01,4.4628987
+381,London,P-aeruginosa,Ciprofloxacin,2025-10-01,4.395837
+382,London,P-aeruginosa,Ciprofloxacin,2025-11-01,4.286638
+383,London,P-aeruginosa,Ciprofloxacin,2025-12-01,4.2228007
+384,London,P-aeruginosa,Piperacillin with tazobactam,2025-07-01,5.73102
+385,London,P-aeruginosa,Piperacillin with tazobactam,2025-08-01,5.8643284
+386,London,P-aeruginosa,Piperacillin with tazobactam,2025-09-01,5.6682267
+387,London,P-aeruginosa,Piperacillin with tazobactam,2025-10-01,5.564233
+388,London,P-aeruginosa,Piperacillin with tazobactam,2025-11-01,5.2410536
+389,London,P-aeruginosa,Piperacillin with tazobactam,2025-12-01,5.55755
+390,London,S-pneumoniae,Macrolides,2025-07-01,5.6663256
+391,London,S-pneumoniae,Macrolides,2025-08-01,5.773296
+392,London,S-pneumoniae,Macrolides,2025-09-01,5.6416235
+393,London,S-pneumoniae,Macrolides,2025-10-01,5.494
+394,London,S-pneumoniae,Macrolides,2025-11-01,5.063552
+395,London,S-pneumoniae,Macrolides,2025-12-01,5.4735208
+396,London,S-pneumoniae,Penicillin,2025-07-01,4.270016
+397,London,S-pneumoniae,Penicillin,2025-08-01,4.276453
+398,London,S-pneumoniae,Penicillin,2025-09-01,4.2827234
+399,London,S-pneumoniae,Penicillin,2025-10-01,4.1896114
+400,London,S-pneumoniae,Penicillin,2025-11-01,4.012778
+401,London,S-pneumoniae,Penicillin,2025-12-01,3.9442823
+402,London,e-faecalis,Glycopeptides,2025-07-01,3.1344726
+403,London,e-faecalis,Glycopeptides,2025-08-01,3.1415007
+404,London,e-faecalis,Glycopeptides,2025-09-01,3.0513372
+405,London,e-faecalis,Glycopeptides,2025-10-01,3.1324642
+406,London,e-faecalis,Glycopeptides,2025-11-01,2.9963052
+407,London,e-faecalis,Glycopeptides,2025-12-01,3.1964147
+408,London,e-faecium,Glycopeptides,2025-07-01,5.645454
+409,London,e-faecium,Glycopeptides,2025-08-01,5.7822394
+410,London,e-faecium,Glycopeptides,2025-09-01,5.6157007
+411,London,e-faecium,Glycopeptides,2025-10-01,5.51411
+412,London,e-faecium,Glycopeptides,2025-11-01,5.0604587
+413,London,e-faecium,Glycopeptides,2025-12-01,5.471564
+414,North East,E-coli,Amikacin,2025-07-01,2.1480124
+415,North East,E-coli,Amikacin,2025-08-01,2.031036
+416,North East,E-coli,Amikacin,2025-09-01,1.9411942
+417,North East,E-coli,Amikacin,2025-10-01,1.8062868
+418,North East,E-coli,Amikacin,2025-11-01,1.653392
+419,North East,E-coli,Amikacin,2025-12-01,1.4539318
+420,North East,E-coli,Carbapenems,2025-07-01,0.07388847
+421,North East,E-coli,Carbapenems,2025-08-01,0.036142662
+422,North East,E-coli,Carbapenems,2025-09-01,-0.013680967
+423,North East,E-coli,Carbapenems,2025-10-01,-0.045099303
+424,North East,E-coli,Carbapenems,2025-11-01,-0.06033951
+425,North East,E-coli,Carbapenems,2025-12-01,-0.09745883
+426,North East,E-coli,Ciprofloxacin,2025-07-01,5.744491
+427,North East,E-coli,Ciprofloxacin,2025-08-01,5.8384414
+428,North East,E-coli,Ciprofloxacin,2025-09-01,5.6909695
+429,North East,E-coli,Ciprofloxacin,2025-10-01,5.5070443
+430,North East,E-coli,Ciprofloxacin,2025-11-01,5.1247406
+431,North East,E-coli,Ciprofloxacin,2025-12-01,5.4919567
+432,North East,E-coli,Co-amoxiclav,2025-07-01,4.8555713
+433,North East,E-coli,Co-amoxiclav,2025-08-01,4.8082523
+434,North East,E-coli,Co-amoxiclav,2025-09-01,4.580752
+435,North East,E-coli,Co-amoxiclav,2025-10-01,4.981408
+436,North East,E-coli,Co-amoxiclav,2025-11-01,4.1812696
+437,North East,E-coli,Co-amoxiclav,2025-12-01,4.7761555
+438,North East,E-coli,Gentamicin,2025-07-01,5.755563
+439,North East,E-coli,Gentamicin,2025-08-01,5.8378224
+440,North East,E-coli,Gentamicin,2025-09-01,5.691193
+441,North East,E-coli,Gentamicin,2025-10-01,5.498685
+442,North East,E-coli,Gentamicin,2025-11-01,5.1438427
+443,North East,E-coli,Gentamicin,2025-12-01,5.487303
+444,North East,E-coli,Piperacillin with tazobactam,2025-07-01,5.753357
+445,North East,E-coli,Piperacillin with tazobactam,2025-08-01,5.855517
+446,North East,E-coli,Piperacillin with tazobactam,2025-09-01,5.69605
+447,North East,E-coli,Piperacillin with tazobactam,2025-10-01,5.518858
+448,North East,E-coli,Piperacillin with tazobactam,2025-11-01,5.1490107
+449,North East,E-coli,Piperacillin with tazobactam,2025-12-01,5.500412
+450,North East,E-coli,Third Generation Cephalosporins,2025-07-01,5.7356625
+451,North East,E-coli,Third Generation Cephalosporins,2025-08-01,5.81827
+452,North East,E-coli,Third Generation Cephalosporins,2025-09-01,5.683639
+453,North East,E-coli,Third Generation Cephalosporins,2025-10-01,5.4907236
+454,North East,E-coli,Third Generation Cephalosporins,2025-11-01,5.1010003
+455,North East,E-coli,Third Generation Cephalosporins,2025-12-01,5.478474
+456,North East,K-pneumoniae,Amikacin,2025-07-01,4.174088
+457,North East,K-pneumoniae,Amikacin,2025-08-01,4.208158
+458,North East,K-pneumoniae,Amikacin,2025-09-01,4.0442224
+459,North East,K-pneumoniae,Amikacin,2025-10-01,3.9724982
+460,North East,K-pneumoniae,Amikacin,2025-11-01,3.7306004
+461,North East,K-pneumoniae,Amikacin,2025-12-01,3.768072
+462,North East,K-pneumoniae,Carbapenems,2025-07-01,2.075547
+463,North East,K-pneumoniae,Carbapenems,2025-08-01,2.0544953
+464,North East,K-pneumoniae,Carbapenems,2025-09-01,1.8763715
+465,North East,K-pneumoniae,Carbapenems,2025-10-01,1.863261
+466,North East,K-pneumoniae,Carbapenems,2025-11-01,1.726819
+467,North East,K-pneumoniae,Carbapenems,2025-12-01,1.6178786
+468,North East,K-pneumoniae,Ciprofloxacin,2025-07-01,5.4453397
+469,North East,K-pneumoniae,Ciprofloxacin,2025-08-01,5.552208
+470,North East,K-pneumoniae,Ciprofloxacin,2025-09-01,5.429104
+471,North East,K-pneumoniae,Ciprofloxacin,2025-10-01,5.342706
+472,North East,K-pneumoniae,Ciprofloxacin,2025-11-01,4.8585677
+473,North East,K-pneumoniae,Ciprofloxacin,2025-12-01,5.3165464
+474,North East,K-pneumoniae,Co-amoxiclav,2025-07-01,4.7254643
+475,North East,K-pneumoniae,Co-amoxiclav,2025-08-01,4.6622
+476,North East,K-pneumoniae,Co-amoxiclav,2025-09-01,4.4511385
+477,North East,K-pneumoniae,Co-amoxiclav,2025-10-01,4.8675423
+478,North East,K-pneumoniae,Co-amoxiclav,2025-11-01,4.0203857
+479,North East,K-pneumoniae,Co-amoxiclav,2025-12-01,4.6455173
+480,North East,K-pneumoniae,Gentamicin,2025-07-01,5.6955094
+481,North East,K-pneumoniae,Gentamicin,2025-08-01,5.7983503
+482,North East,K-pneumoniae,Gentamicin,2025-09-01,5.653631
+483,North East,K-pneumoniae,Gentamicin,2025-10-01,5.489075
+484,North East,K-pneumoniae,Gentamicin,2025-11-01,5.0632176
+485,North East,K-pneumoniae,Gentamicin,2025-12-01,5.4598975
+486,North East,K-pneumoniae,Piperacillin with tazobactam,2025-07-01,5.0927267
+487,North East,K-pneumoniae,Piperacillin with tazobactam,2025-08-01,5.0581417
+488,North East,K-pneumoniae,Piperacillin with tazobactam,2025-09-01,4.836627
+489,North East,K-pneumoniae,Piperacillin with tazobactam,2025-10-01,5.182263
+490,North East,K-pneumoniae,Piperacillin with tazobactam,2025-11-01,4.421143
+491,North East,K-pneumoniae,Piperacillin with tazobactam,2025-12-01,4.996505
+492,North East,K-pneumoniae,Third Generation Cephalosporins,2025-07-01,5.255509
+493,North East,K-pneumoniae,Third Generation Cephalosporins,2025-08-01,5.2398868
+494,North East,K-pneumoniae,Third Generation Cephalosporins,2025-09-01,4.9815993
+495,North East,K-pneumoniae,Third Generation Cephalosporins,2025-10-01,5.3200526
+496,North East,K-pneumoniae,Third Generation Cephalosporins,2025-11-01,4.5531154
+497,North East,K-pneumoniae,Third Generation Cephalosporins,2025-12-01,5.1013107
+498,North East,P-aeruginosa,Amikacin,2025-07-01,-0.10942194
+499,North East,P-aeruginosa,Amikacin,2025-08-01,-0.11219381
+500,North East,P-aeruginosa,Amikacin,2025-09-01,-0.15207247
+501,North East,P-aeruginosa,Amikacin,2025-10-01,-0.17497827
+502,North East,P-aeruginosa,Amikacin,2025-11-01,-0.10269207
+503,North East,P-aeruginosa,Amikacin,2025-12-01,-0.090942495
+504,North East,P-aeruginosa,Carbapenems,2025-07-01,4.8474674
+505,North East,P-aeruginosa,Carbapenems,2025-08-01,4.9884043
+506,North East,P-aeruginosa,Carbapenems,2025-09-01,4.770398
+507,North East,P-aeruginosa,Carbapenems,2025-10-01,4.7681956
+508,North East,P-aeruginosa,Carbapenems,2025-11-01,4.512916
+509,North East,P-aeruginosa,Carbapenems,2025-12-01,4.627254
+510,North East,P-aeruginosa,Ceftazidime,2025-07-01,3.5152662
+511,North East,P-aeruginosa,Ceftazidime,2025-08-01,3.5031877
+512,North East,P-aeruginosa,Ceftazidime,2025-09-01,3.3680756
+513,North East,P-aeruginosa,Ceftazidime,2025-10-01,3.3758302
+514,North East,P-aeruginosa,Ceftazidime,2025-11-01,3.1914444
+515,North East,P-aeruginosa,Ceftazidime,2025-12-01,3.231123
+516,North East,P-aeruginosa,Ciprofloxacin,2025-07-01,4.801278
+517,North East,P-aeruginosa,Ciprofloxacin,2025-08-01,5.028226
+518,North East,P-aeruginosa,Ciprofloxacin,2025-09-01,4.727926
+519,North East,P-aeruginosa,Ciprofloxacin,2025-10-01,4.7688665
+520,North East,P-aeruginosa,Ciprofloxacin,2025-11-01,4.583609
+521,North East,P-aeruginosa,Ciprofloxacin,2025-12-01,4.6653743
+522,North East,P-aeruginosa,Piperacillin with tazobactam,2025-07-01,2.58643
+523,North East,P-aeruginosa,Piperacillin with tazobactam,2025-08-01,2.5073025
+524,North East,P-aeruginosa,Piperacillin with tazobactam,2025-09-01,2.5515437
+525,North East,P-aeruginosa,Piperacillin with tazobactam,2025-10-01,2.3783243
+526,North East,P-aeruginosa,Piperacillin with tazobactam,2025-11-01,2.24981
+527,North East,P-aeruginosa,Piperacillin with tazobactam,2025-12-01,1.9981027
+528,North East,S-pneumoniae,Macrolides,2025-07-01,5.3929734
+529,North East,S-pneumoniae,Macrolides,2025-08-01,5.5312586
+530,North East,S-pneumoniae,Macrolides,2025-09-01,5.334215
+531,North East,S-pneumoniae,Macrolides,2025-10-01,5.2764516
+532,North East,S-pneumoniae,Macrolides,2025-11-01,5.0522113
+533,North East,S-pneumoniae,Macrolides,2025-12-01,5.2245255
+534,North East,S-pneumoniae,Penicillin,2025-07-01,2.3678741
+535,North East,S-pneumoniae,Penicillin,2025-08-01,2.4006903
+536,North East,S-pneumoniae,Penicillin,2025-09-01,2.2357228
+537,North East,S-pneumoniae,Penicillin,2025-10-01,2.2541165
+538,North East,S-pneumoniae,Penicillin,2025-11-01,2.1892037
+539,North East,S-pneumoniae,Penicillin,2025-12-01,2.3350835
+540,North East,e-faecalis,Glycopeptides,2025-07-01,-0.17019823
+541,North East,e-faecalis,Glycopeptides,2025-08-01,-0.18781072
+542,North East,e-faecalis,Glycopeptides,2025-09-01,-0.23648205
+543,North East,e-faecalis,Glycopeptides,2025-10-01,-0.2744154
+544,North East,e-faecalis,Glycopeptides,2025-11-01,-0.22961824
+545,North East,e-faecalis,Glycopeptides,2025-12-01,-0.23846328
+546,North East,e-faecium,Glycopeptides,2025-07-01,5.6222897
+547,North East,e-faecium,Glycopeptides,2025-08-01,5.692285
+548,North East,e-faecium,Glycopeptides,2025-09-01,5.5758505
+549,North East,e-faecium,Glycopeptides,2025-10-01,5.386431
+550,North East,e-faecium,Glycopeptides,2025-11-01,4.946077
+551,North East,e-faecium,Glycopeptides,2025-12-01,5.359756
+552,North West,E-coli,Amikacin,2025-07-01,3.4959068
+553,North West,E-coli,Amikacin,2025-08-01,3.4912841
+554,North West,E-coli,Amikacin,2025-09-01,3.339177
+555,North West,E-coli,Amikacin,2025-10-01,3.2639365
+556,North West,E-coli,Amikacin,2025-11-01,3.0496848
+557,North West,E-coli,Amikacin,2025-12-01,3.0254521
+558,North West,E-coli,Carbapenems,2025-07-01,0.14924978
+559,North West,E-coli,Carbapenems,2025-08-01,0.11976653
+560,North West,E-coli,Carbapenems,2025-09-01,0.05751887
+561,North West,E-coli,Carbapenems,2025-10-01,0.029585952
+562,North West,E-coli,Carbapenems,2025-11-01,0.015654888
+563,North West,E-coli,Carbapenems,2025-12-01,-0.0059487657
+564,North West,E-coli,Ciprofloxacin,2025-07-01,5.3968506
+565,North West,E-coli,Ciprofloxacin,2025-08-01,5.5083804
+566,North West,E-coli,Ciprofloxacin,2025-09-01,5.378359
+567,North West,E-coli,Ciprofloxacin,2025-10-01,5.338506
+568,North West,E-coli,Ciprofloxacin,2025-11-01,4.829336
+569,North West,E-coli,Ciprofloxacin,2025-12-01,5.3025317
+570,North West,E-coli,Co-amoxiclav,2025-07-01,3.953074
+571,North West,E-coli,Co-amoxiclav,2025-08-01,3.9003894
+572,North West,E-coli,Co-amoxiclav,2025-09-01,3.7071452
+573,North West,E-coli,Co-amoxiclav,2025-10-01,4.0507708
+574,North West,E-coli,Co-amoxiclav,2025-11-01,3.1706338
+575,North West,E-coli,Co-amoxiclav,2025-12-01,3.8125694
+576,North West,E-coli,Gentamicin,2025-07-01,5.7310233
+577,North West,E-coli,Gentamicin,2025-08-01,5.829779
+578,North West,E-coli,Gentamicin,2025-09-01,5.6823387
+579,North West,E-coli,Gentamicin,2025-10-01,5.5029407
+580,North West,E-coli,Gentamicin,2025-11-01,5.1015334
+581,North West,E-coli,Gentamicin,2025-12-01,5.480774
+582,North West,E-coli,Piperacillin with tazobactam,2025-07-01,5.7469683
+583,North West,E-coli,Piperacillin with tazobactam,2025-08-01,5.8661594
+584,North West,E-coli,Piperacillin with tazobactam,2025-09-01,5.689534
+585,North West,E-coli,Piperacillin with tazobactam,2025-10-01,5.542505
+586,North West,E-coli,Piperacillin with tazobactam,2025-11-01,5.1951056
+587,North West,E-coli,Piperacillin with tazobactam,2025-12-01,5.531125
+588,North West,E-coli,Third Generation Cephalosporins,2025-07-01,5.5580835
+589,North West,E-coli,Third Generation Cephalosporins,2025-08-01,5.6618195
+590,North West,E-coli,Third Generation Cephalosporins,2025-09-01,5.5387955
+591,North West,E-coli,Third Generation Cephalosporins,2025-10-01,5.410526
+592,North West,E-coli,Third Generation Cephalosporins,2025-11-01,4.950374
+593,North West,E-coli,Third Generation Cephalosporins,2025-12-01,5.389463
+594,North West,K-pneumoniae,Amikacin,2025-07-01,3.5323565
+595,North West,K-pneumoniae,Amikacin,2025-08-01,3.5475106
+596,North West,K-pneumoniae,Amikacin,2025-09-01,3.33362
+597,North West,K-pneumoniae,Amikacin,2025-10-01,3.3380258
+598,North West,K-pneumoniae,Amikacin,2025-11-01,3.1533937
+599,North West,K-pneumoniae,Amikacin,2025-12-01,3.2965345
+600,North West,K-pneumoniae,Carbapenems,2025-07-01,2.124666
+601,North West,K-pneumoniae,Carbapenems,2025-08-01,2.1222155
+602,North West,K-pneumoniae,Carbapenems,2025-09-01,1.937592
+603,North West,K-pneumoniae,Carbapenems,2025-10-01,1.9265454
+604,North West,K-pneumoniae,Carbapenems,2025-11-01,1.8410053
+605,North West,K-pneumoniae,Carbapenems,2025-12-01,1.8657479
+606,North West,K-pneumoniae,Ciprofloxacin,2025-07-01,5.488258
+607,North West,K-pneumoniae,Ciprofloxacin,2025-08-01,5.590331
+608,North West,K-pneumoniae,Ciprofloxacin,2025-09-01,5.4753942
+609,North West,K-pneumoniae,Ciprofloxacin,2025-10-01,5.3581476
+610,North West,K-pneumoniae,Ciprofloxacin,2025-11-01,4.890713
+611,North West,K-pneumoniae,Ciprofloxacin,2025-12-01,5.3421865
+612,North West,K-pneumoniae,Co-amoxiclav,2025-07-01,4.305267
+613,North West,K-pneumoniae,Co-amoxiclav,2025-08-01,4.1925826
+614,North West,K-pneumoniae,Co-amoxiclav,2025-09-01,3.9890866
+615,North West,K-pneumoniae,Co-amoxiclav,2025-10-01,4.420031
+616,North West,K-pneumoniae,Co-amoxiclav,2025-11-01,3.5369403
+617,North West,K-pneumoniae,Co-amoxiclav,2025-12-01,4.173083
+618,North West,K-pneumoniae,Gentamicin,2025-07-01,5.7371125
+619,North West,K-pneumoniae,Gentamicin,2025-08-01,5.85688
+620,North West,K-pneumoniae,Gentamicin,2025-09-01,5.677967
+621,North West,K-pneumoniae,Gentamicin,2025-10-01,5.545371
+622,North West,K-pneumoniae,Gentamicin,2025-11-01,5.2195
+623,North West,K-pneumoniae,Gentamicin,2025-12-01,5.5432405
+624,North West,K-pneumoniae,Piperacillin with tazobactam,2025-07-01,5.0215154
+625,North West,K-pneumoniae,Piperacillin with tazobactam,2025-08-01,4.9851956
+626,North West,K-pneumoniae,Piperacillin with tazobactam,2025-09-01,4.756458
+627,North West,K-pneumoniae,Piperacillin with tazobactam,2025-10-01,5.0975895
+628,North West,K-pneumoniae,Piperacillin with tazobactam,2025-11-01,4.341955
+629,North West,K-pneumoniae,Piperacillin with tazobactam,2025-12-01,4.904739
+630,North West,K-pneumoniae,Third Generation Cephalosporins,2025-07-01,5.450368
+631,North West,K-pneumoniae,Third Generation Cephalosporins,2025-08-01,5.560867
+632,North West,K-pneumoniae,Third Generation Cephalosporins,2025-09-01,5.4226217
+633,North West,K-pneumoniae,Third Generation Cephalosporins,2025-10-01,5.3653717
+634,North West,K-pneumoniae,Third Generation Cephalosporins,2025-11-01,4.8651776
+635,North West,K-pneumoniae,Third Generation Cephalosporins,2025-12-01,5.330075
+636,North West,P-aeruginosa,Amikacin,2025-07-01,2.5116196
+637,North West,P-aeruginosa,Amikacin,2025-08-01,2.4790735
+638,North West,P-aeruginosa,Amikacin,2025-09-01,2.255689
+639,North West,P-aeruginosa,Amikacin,2025-10-01,2.1896803
+640,North West,P-aeruginosa,Amikacin,2025-11-01,2.0422528
+641,North West,P-aeruginosa,Amikacin,2025-12-01,1.931729
+642,North West,P-aeruginosa,Carbapenems,2025-07-01,5.698282
+643,North West,P-aeruginosa,Carbapenems,2025-08-01,5.7678227
+644,North West,P-aeruginosa,Carbapenems,2025-09-01,5.6149964
+645,North West,P-aeruginosa,Carbapenems,2025-10-01,5.4541316
+646,North West,P-aeruginosa,Carbapenems,2025-11-01,5.1623816
+647,North West,P-aeruginosa,Carbapenems,2025-12-01,5.449081
+648,North West,P-aeruginosa,Ceftazidime,2025-07-01,5.497887
+649,North West,P-aeruginosa,Ceftazidime,2025-08-01,5.544372
+650,North West,P-aeruginosa,Ceftazidime,2025-09-01,5.387523
+651,North West,P-aeruginosa,Ceftazidime,2025-10-01,5.254723
+652,North West,P-aeruginosa,Ceftazidime,2025-11-01,4.99518
+653,North West,P-aeruginosa,Ceftazidime,2025-12-01,5.2215905
+654,North West,P-aeruginosa,Ciprofloxacin,2025-07-01,5.649818
+655,North West,P-aeruginosa,Ciprofloxacin,2025-08-01,5.780385
+656,North West,P-aeruginosa,Ciprofloxacin,2025-09-01,5.5808744
+657,North West,P-aeruginosa,Ciprofloxacin,2025-10-01,5.498811
+658,North West,P-aeruginosa,Ciprofloxacin,2025-11-01,5.2443776
+659,North West,P-aeruginosa,Ciprofloxacin,2025-12-01,5.4986463
+660,North West,P-aeruginosa,Piperacillin with tazobactam,2025-07-01,5.7066264
+661,North West,P-aeruginosa,Piperacillin with tazobactam,2025-08-01,5.7649503
+662,North West,P-aeruginosa,Piperacillin with tazobactam,2025-09-01,5.627763
+663,North West,P-aeruginosa,Piperacillin with tazobactam,2025-10-01,5.4508243
+664,North West,P-aeruginosa,Piperacillin with tazobactam,2025-11-01,5.149804
+665,North West,P-aeruginosa,Piperacillin with tazobactam,2025-12-01,5.449814
+666,North West,S-pneumoniae,Macrolides,2025-07-01,5.59166
+667,North West,S-pneumoniae,Macrolides,2025-08-01,5.690021
+668,North West,S-pneumoniae,Macrolides,2025-09-01,5.5045977
+669,North West,S-pneumoniae,Macrolides,2025-10-01,5.413995
+670,North West,S-pneumoniae,Macrolides,2025-11-01,5.1060033
+671,North West,S-pneumoniae,Macrolides,2025-12-01,5.393777
+672,North West,S-pneumoniae,Penicillin,2025-07-01,2.284259
+673,North West,S-pneumoniae,Penicillin,2025-08-01,2.2633536
+674,North West,S-pneumoniae,Penicillin,2025-09-01,2.0607831
+675,North West,S-pneumoniae,Penicillin,2025-10-01,2.0570893
+676,North West,S-pneumoniae,Penicillin,2025-11-01,1.9321697
+677,North West,S-pneumoniae,Penicillin,2025-12-01,1.9599531
+678,North West,e-faecalis,Glycopeptides,2025-07-01,2.368029
+679,North West,e-faecalis,Glycopeptides,2025-08-01,2.284309
+680,North West,e-faecalis,Glycopeptides,2025-09-01,2.338419
+681,North West,e-faecalis,Glycopeptides,2025-10-01,2.2121062
+682,North West,e-faecalis,Glycopeptides,2025-11-01,2.1366086
+683,North West,e-faecalis,Glycopeptides,2025-12-01,1.9444613
+684,North West,e-faecium,Glycopeptides,2025-07-01,5.6234875
+685,North West,e-faecium,Glycopeptides,2025-08-01,5.748068
+686,North West,e-faecium,Glycopeptides,2025-09-01,5.597938
+687,North West,e-faecium,Glycopeptides,2025-10-01,5.4901185
+688,North West,e-faecium,Glycopeptides,2025-11-01,5.028124
+689,North West,e-faecium,Glycopeptides,2025-12-01,5.4482493
+690,South East,E-coli,Amikacin,2025-07-01,0.71317774
+691,South East,E-coli,Amikacin,2025-08-01,0.6599344
+692,South East,E-coli,Amikacin,2025-09-01,0.4854116
+693,South East,E-coli,Amikacin,2025-10-01,0.2640339
+694,South East,E-coli,Amikacin,2025-11-01,0.46506506
+695,South East,E-coli,Amikacin,2025-12-01,0.5635045
+696,South East,E-coli,Carbapenems,2025-07-01,-0.21993352
+697,South East,E-coli,Carbapenems,2025-08-01,-0.34104028
+698,South East,E-coli,Carbapenems,2025-09-01,-0.4154588
+699,South East,E-coli,Carbapenems,2025-10-01,-0.5685835
+700,South East,E-coli,Carbapenems,2025-11-01,-0.37044036
+701,South East,E-coli,Carbapenems,2025-12-01,-0.2775164
+702,South East,E-coli,Ciprofloxacin,2025-07-01,4.7893934
+703,South East,E-coli,Ciprofloxacin,2025-08-01,4.695593
+704,South East,E-coli,Ciprofloxacin,2025-09-01,4.7935233
+705,South East,E-coli,Ciprofloxacin,2025-10-01,4.7643604
+706,South East,E-coli,Ciprofloxacin,2025-11-01,4.643035
+707,South East,E-coli,Ciprofloxacin,2025-12-01,4.8103733
+708,South East,E-coli,Co-amoxiclav,2025-07-01,4.1495986
+709,South East,E-coli,Co-amoxiclav,2025-08-01,3.9492736
+710,South East,E-coli,Co-amoxiclav,2025-09-01,3.9849217
+711,South East,E-coli,Co-amoxiclav,2025-10-01,4.157618
+712,South East,E-coli,Co-amoxiclav,2025-11-01,3.4710336
+713,South East,E-coli,Co-amoxiclav,2025-12-01,4.081616
+714,South East,E-coli,Gentamicin,2025-07-01,4.5193534
+715,South East,E-coli,Gentamicin,2025-08-01,4.5323544
+716,South East,E-coli,Gentamicin,2025-09-01,4.5259166
+717,South East,E-coli,Gentamicin,2025-10-01,4.430639
+718,South East,E-coli,Gentamicin,2025-11-01,4.549854
+719,South East,E-coli,Gentamicin,2025-12-01,4.782421
+720,South East,E-coli,Piperacillin with tazobactam,2025-07-01,4.292235
+721,South East,E-coli,Piperacillin with tazobactam,2025-08-01,4.3778973
+722,South East,E-coli,Piperacillin with tazobactam,2025-09-01,4.3268723
+723,South East,E-coli,Piperacillin with tazobactam,2025-10-01,4.192186
+724,South East,E-coli,Piperacillin with tazobactam,2025-11-01,4.443262
+725,South East,E-coli,Piperacillin with tazobactam,2025-12-01,4.702725
+726,South East,E-coli,Third Generation Cephalosporins,2025-07-01,4.7453766
+727,South East,E-coli,Third Generation Cephalosporins,2025-08-01,4.678403
+728,South East,E-coli,Third Generation Cephalosporins,2025-09-01,4.7571054
+729,South East,E-coli,Third Generation Cephalosporins,2025-10-01,4.7399783
+730,South East,E-coli,Third Generation Cephalosporins,2025-11-01,4.6451945
+731,South East,E-coli,Third Generation Cephalosporins,2025-12-01,4.81658
+732,South East,K-pneumoniae,Amikacin,2025-07-01,0.1610381
+733,South East,K-pneumoniae,Amikacin,2025-08-01,0.11071171
+734,South East,K-pneumoniae,Amikacin,2025-09-01,-0.030568024
+735,South East,K-pneumoniae,Amikacin,2025-10-01,-0.22002788
+736,South East,K-pneumoniae,Amikacin,2025-11-01,-0.031860627
+737,South East,K-pneumoniae,Amikacin,2025-12-01,0.044725478
+738,South East,K-pneumoniae,Carbapenems,2025-07-01,-0.37773532
+739,South East,K-pneumoniae,Carbapenems,2025-08-01,-0.49613598
+740,South East,K-pneumoniae,Carbapenems,2025-09-01,-0.59209234
+741,South East,K-pneumoniae,Carbapenems,2025-10-01,-0.77500355
+742,South East,K-pneumoniae,Carbapenems,2025-11-01,-0.56442636
+743,South East,K-pneumoniae,Carbapenems,2025-12-01,-0.5205215
+744,South East,K-pneumoniae,Ciprofloxacin,2025-07-01,4.381076
+745,South East,K-pneumoniae,Ciprofloxacin,2025-08-01,4.433739
+746,South East,K-pneumoniae,Ciprofloxacin,2025-09-01,4.40687
+747,South East,K-pneumoniae,Ciprofloxacin,2025-10-01,4.312362
+748,South East,K-pneumoniae,Ciprofloxacin,2025-11-01,4.476673
+749,South East,K-pneumoniae,Ciprofloxacin,2025-12-01,4.75224
+750,South East,K-pneumoniae,Co-amoxiclav,2025-07-01,4.3213983
+751,South East,K-pneumoniae,Co-amoxiclav,2025-08-01,4.082315
+752,South East,K-pneumoniae,Co-amoxiclav,2025-09-01,4.1095195
+753,South East,K-pneumoniae,Co-amoxiclav,2025-10-01,4.3876114
+754,South East,K-pneumoniae,Co-amoxiclav,2025-11-01,3.7552984
+755,South East,K-pneumoniae,Co-amoxiclav,2025-12-01,4.2517424
+756,South East,K-pneumoniae,Gentamicin,2025-07-01,3.7332547
+757,South East,K-pneumoniae,Gentamicin,2025-08-01,3.9218013
+758,South East,K-pneumoniae,Gentamicin,2025-09-01,3.8210232
+759,South East,K-pneumoniae,Gentamicin,2025-10-01,3.6671107
+760,South East,K-pneumoniae,Gentamicin,2025-11-01,4.066896
+761,South East,K-pneumoniae,Gentamicin,2025-12-01,4.3609223
+762,South East,K-pneumoniae,Piperacillin with tazobactam,2025-07-01,4.7341413
+763,South East,K-pneumoniae,Piperacillin with tazobactam,2025-08-01,4.6582212
+764,South East,K-pneumoniae,Piperacillin with tazobactam,2025-09-01,4.7536983
+765,South East,K-pneumoniae,Piperacillin with tazobactam,2025-10-01,4.7735715
+766,South East,K-pneumoniae,Piperacillin with tazobactam,2025-11-01,4.6149616
+767,South East,K-pneumoniae,Piperacillin with tazobactam,2025-12-01,4.8027177
+768,South East,K-pneumoniae,Third Generation Cephalosporins,2025-07-01,4.6018558
+769,South East,K-pneumoniae,Third Generation Cephalosporins,2025-08-01,4.5798516
+770,South East,K-pneumoniae,Third Generation Cephalosporins,2025-09-01,4.609838
+771,South East,K-pneumoniae,Third Generation Cephalosporins,2025-10-01,4.6068826
+772,South East,K-pneumoniae,Third Generation Cephalosporins,2025-11-01,4.5907884
+773,South East,K-pneumoniae,Third Generation Cephalosporins,2025-12-01,4.8161736
+774,South East,P-aeruginosa,Amikacin,2025-07-01,0.09241758
+775,South East,P-aeruginosa,Amikacin,2025-08-01,0.01372534
+776,South East,P-aeruginosa,Amikacin,2025-09-01,-0.12021484
+777,South East,P-aeruginosa,Amikacin,2025-10-01,-0.28268477
+778,South East,P-aeruginosa,Amikacin,2025-11-01,-0.10655721
+779,South East,P-aeruginosa,Amikacin,2025-12-01,0.0052852924
+780,South East,P-aeruginosa,Carbapenems,2025-07-01,2.031753
+781,South East,P-aeruginosa,Carbapenems,2025-08-01,2.3805695
+782,South East,P-aeruginosa,Carbapenems,2025-09-01,2.3349676
+783,South East,P-aeruginosa,Carbapenems,2025-10-01,1.9223115
+784,South East,P-aeruginosa,Carbapenems,2025-11-01,2.3032138
+785,South East,P-aeruginosa,Carbapenems,2025-12-01,2.357353
+786,South East,P-aeruginosa,Ceftazidime,2025-07-01,1.4998496
+787,South East,P-aeruginosa,Ceftazidime,2025-08-01,1.5127848
+788,South East,P-aeruginosa,Ceftazidime,2025-09-01,1.3701805
+789,South East,P-aeruginosa,Ceftazidime,2025-10-01,1.0620307
+790,South East,P-aeruginosa,Ceftazidime,2025-11-01,1.3233443
+791,South East,P-aeruginosa,Ceftazidime,2025-12-01,1.4510835
+792,South East,P-aeruginosa,Ciprofloxacin,2025-07-01,3.9635124
+793,South East,P-aeruginosa,Ciprofloxacin,2025-08-01,4.1025076
+794,South East,P-aeruginosa,Ciprofloxacin,2025-09-01,4.031103
+795,South East,P-aeruginosa,Ciprofloxacin,2025-10-01,3.881898
+796,South East,P-aeruginosa,Ciprofloxacin,2025-11-01,4.2066092
+797,South East,P-aeruginosa,Ciprofloxacin,2025-12-01,4.4956183
+798,South East,P-aeruginosa,Piperacillin with tazobactam,2025-07-01,3.0752645
+799,South East,P-aeruginosa,Piperacillin with tazobactam,2025-08-01,3.2884622
+800,South East,P-aeruginosa,Piperacillin with tazobactam,2025-09-01,3.2455657
+801,South East,P-aeruginosa,Piperacillin with tazobactam,2025-10-01,2.974548
+802,South East,P-aeruginosa,Piperacillin with tazobactam,2025-11-01,3.3684037
+803,South East,P-aeruginosa,Piperacillin with tazobactam,2025-12-01,3.6449287
+804,South East,S-pneumoniae,Macrolides,2025-07-01,3.039916
+805,South East,S-pneumoniae,Macrolides,2025-08-01,3.2142584
+806,South East,S-pneumoniae,Macrolides,2025-09-01,3.1502237
+807,South East,S-pneumoniae,Macrolides,2025-10-01,2.9113767
+808,South East,S-pneumoniae,Macrolides,2025-11-01,3.315344
+809,South East,S-pneumoniae,Macrolides,2025-12-01,3.643099
+810,South East,S-pneumoniae,Penicillin,2025-07-01,0.4388863
+811,South East,S-pneumoniae,Penicillin,2025-08-01,0.34887972
+812,South East,S-pneumoniae,Penicillin,2025-09-01,0.19269793
+813,South East,S-pneumoniae,Penicillin,2025-10-01,-0.01597138
+814,South East,S-pneumoniae,Penicillin,2025-11-01,0.1707001
+815,South East,S-pneumoniae,Penicillin,2025-12-01,0.25444847
+816,South East,e-faecalis,Glycopeptides,2025-07-01,2.695831
+817,South East,e-faecalis,Glycopeptides,2025-08-01,2.9296145
+818,South East,e-faecalis,Glycopeptides,2025-09-01,2.8830976
+819,South East,e-faecalis,Glycopeptides,2025-10-01,2.5358434
+820,South East,e-faecalis,Glycopeptides,2025-11-01,2.9154477
+821,South East,e-faecalis,Glycopeptides,2025-12-01,3.0917027
+822,South East,e-faecium,Glycopeptides,2025-07-01,4.8648667
+823,South East,e-faecium,Glycopeptides,2025-08-01,4.685277
+824,South East,e-faecium,Glycopeptides,2025-09-01,4.817869
+825,South East,e-faecium,Glycopeptides,2025-10-01,4.7577395
+826,South East,e-faecium,Glycopeptides,2025-11-01,4.4953437
+827,South East,e-faecium,Glycopeptides,2025-12-01,4.743567
+828,South West,E-coli,Amikacin,2025-07-01,2.0217595
+829,South West,E-coli,Amikacin,2025-08-01,1.9833404
+830,South West,E-coli,Amikacin,2025-09-01,1.9786545
+831,South West,E-coli,Amikacin,2025-10-01,1.9129815
+832,South West,E-coli,Amikacin,2025-11-01,1.8878734
+833,South West,E-coli,Amikacin,2025-12-01,1.8233101
+834,South West,E-coli,Carbapenems,2025-07-01,0.033784937
+835,South West,E-coli,Carbapenems,2025-08-01,0.001648292
+836,South West,E-coli,Carbapenems,2025-09-01,-0.033276647
+837,South West,E-coli,Carbapenems,2025-10-01,-0.06011267
+838,South West,E-coli,Carbapenems,2025-11-01,-0.068961166
+839,South West,E-coli,Carbapenems,2025-12-01,-0.094745725
+840,South West,E-coli,Ciprofloxacin,2025-07-01,5.6769795
+841,South West,E-coli,Ciprofloxacin,2025-08-01,5.7651677
+842,South West,E-coli,Ciprofloxacin,2025-09-01,5.6421866
+843,South West,E-coli,Ciprofloxacin,2025-10-01,5.468151
+844,South West,E-coli,Ciprofloxacin,2025-11-01,5.046546
+845,South West,E-coli,Ciprofloxacin,2025-12-01,5.452937
+846,South West,E-coli,Co-amoxiclav,2025-07-01,4.329446
+847,South West,E-coli,Co-amoxiclav,2025-08-01,4.2318034
+848,South West,E-coli,Co-amoxiclav,2025-09-01,4.018875
+849,South West,E-coli,Co-amoxiclav,2025-10-01,4.455428
+850,South West,E-coli,Co-amoxiclav,2025-11-01,3.5867174
+851,South West,E-coli,Co-amoxiclav,2025-12-01,4.215126
+852,South West,E-coli,Gentamicin,2025-07-01,5.751867
+853,South West,E-coli,Gentamicin,2025-08-01,5.8523755
+854,South West,E-coli,Gentamicin,2025-09-01,5.692877
+855,South West,E-coli,Gentamicin,2025-10-01,5.5339127
+856,South West,E-coli,Gentamicin,2025-11-01,5.176159
+857,South West,E-coli,Gentamicin,2025-12-01,5.522887
+858,South West,E-coli,Piperacillin with tazobactam,2025-07-01,5.7493443
+859,South West,E-coli,Piperacillin with tazobactam,2025-08-01,5.8567796
+860,South West,E-coli,Piperacillin with tazobactam,2025-09-01,5.6880283
+861,South West,E-coli,Piperacillin with tazobactam,2025-10-01,5.547336
+862,South West,E-coli,Piperacillin with tazobactam,2025-11-01,5.2077284
+863,South West,E-coli,Piperacillin with tazobactam,2025-12-01,5.5439243
+864,South West,E-coli,Third Generation Cephalosporins,2025-07-01,5.73667
+865,South West,E-coli,Third Generation Cephalosporins,2025-08-01,5.829015
+866,South West,E-coli,Third Generation Cephalosporins,2025-09-01,5.6858854
+867,South West,E-coli,Third Generation Cephalosporins,2025-10-01,5.509323
+868,South West,E-coli,Third Generation Cephalosporins,2025-11-01,5.119053
+869,South West,E-coli,Third Generation Cephalosporins,2025-12-01,5.4930983
+870,South West,K-pneumoniae,Amikacin,2025-07-01,0.9898635
+871,South West,K-pneumoniae,Amikacin,2025-08-01,0.96872383
+872,South West,K-pneumoniae,Amikacin,2025-09-01,0.86087865
+873,South West,K-pneumoniae,Amikacin,2025-10-01,0.8498356
+874,South West,K-pneumoniae,Amikacin,2025-11-01,0.7857205
+875,South West,K-pneumoniae,Amikacin,2025-12-01,0.7882901
+876,South West,K-pneumoniae,Carbapenems,2025-07-01,-0.121684775
+877,South West,K-pneumoniae,Carbapenems,2025-08-01,-0.13921924
+878,South West,K-pneumoniae,Carbapenems,2025-09-01,-0.17405283
+879,South West,K-pneumoniae,Carbapenems,2025-10-01,-0.20647886
+880,South West,K-pneumoniae,Carbapenems,2025-11-01,-0.17452797
+881,South West,K-pneumoniae,Carbapenems,2025-12-01,-0.18302837
+882,South West,K-pneumoniae,Ciprofloxacin,2025-07-01,5.6545343
+883,South West,K-pneumoniae,Ciprofloxacin,2025-08-01,5.7415547
+884,South West,K-pneumoniae,Ciprofloxacin,2025-09-01,5.624678
+885,South West,K-pneumoniae,Ciprofloxacin,2025-10-01,5.4537606
+886,South West,K-pneumoniae,Ciprofloxacin,2025-11-01,5.025395
+887,South West,K-pneumoniae,Ciprofloxacin,2025-12-01,5.4387965
+888,South West,K-pneumoniae,Co-amoxiclav,2025-07-01,5.077811
+889,South West,K-pneumoniae,Co-amoxiclav,2025-08-01,5.0528164
+890,South West,K-pneumoniae,Co-amoxiclav,2025-09-01,4.813126
+891,South West,K-pneumoniae,Co-amoxiclav,2025-10-01,5.1683416
+892,South West,K-pneumoniae,Co-amoxiclav,2025-11-01,4.403344
+893,South West,K-pneumoniae,Co-amoxiclav,2025-12-01,4.9689384
+894,South West,K-pneumoniae,Gentamicin,2025-07-01,5.5883355
+895,South West,K-pneumoniae,Gentamicin,2025-08-01,5.772668
+896,South West,K-pneumoniae,Gentamicin,2025-09-01,5.5244117
+897,South West,K-pneumoniae,Gentamicin,2025-10-01,5.5008793
+898,South West,K-pneumoniae,Gentamicin,2025-11-01,5.262369
+899,South West,K-pneumoniae,Gentamicin,2025-12-01,5.501143
+900,South West,K-pneumoniae,Piperacillin with tazobactam,2025-07-01,5.5005608
+901,South West,K-pneumoniae,Piperacillin with tazobactam,2025-08-01,5.6155553
+902,South West,K-pneumoniae,Piperacillin with tazobactam,2025-09-01,5.4937196
+903,South West,K-pneumoniae,Piperacillin with tazobactam,2025-10-01,5.3945513
+904,South West,K-pneumoniae,Piperacillin with tazobactam,2025-11-01,4.922824
+905,South West,K-pneumoniae,Piperacillin with tazobactam,2025-12-01,5.3710876
+906,South West,K-pneumoniae,Third Generation Cephalosporins,2025-07-01,5.675721
+907,South West,K-pneumoniae,Third Generation Cephalosporins,2025-08-01,5.7894993
+908,South West,K-pneumoniae,Third Generation Cephalosporins,2025-09-01,5.6459947
+909,South West,K-pneumoniae,Third Generation Cephalosporins,2025-10-01,5.5027585
+910,South West,K-pneumoniae,Third Generation Cephalosporins,2025-11-01,5.0695825
+911,South West,K-pneumoniae,Third Generation Cephalosporins,2025-12-01,5.473544
+912,South West,P-aeruginosa,Amikacin,2025-07-01,-0.26465675
+913,South West,P-aeruginosa,Amikacin,2025-08-01,-0.3008301
+914,South West,P-aeruginosa,Amikacin,2025-09-01,-0.33133945
+915,South West,P-aeruginosa,Amikacin,2025-10-01,-0.3965312
+916,South West,P-aeruginosa,Amikacin,2025-11-01,-0.3430378
+917,South West,P-aeruginosa,Amikacin,2025-12-01,-0.41333383
+918,South West,P-aeruginosa,Carbapenems,2025-07-01,5.533002
+919,South West,P-aeruginosa,Carbapenems,2025-08-01,5.6297035
+920,South West,P-aeruginosa,Carbapenems,2025-09-01,5.4601665
+921,South West,P-aeruginosa,Carbapenems,2025-10-01,5.402587
+922,South West,P-aeruginosa,Carbapenems,2025-11-01,5.180064
+923,South West,P-aeruginosa,Carbapenems,2025-12-01,5.3896527
+924,South West,P-aeruginosa,Ceftazidime,2025-07-01,1.8506005
+925,South West,P-aeruginosa,Ceftazidime,2025-08-01,1.7332715
+926,South West,P-aeruginosa,Ceftazidime,2025-09-01,1.7275054
+927,South West,P-aeruginosa,Ceftazidime,2025-10-01,1.6442543
+928,South West,P-aeruginosa,Ceftazidime,2025-11-01,1.6597066
+929,South West,P-aeruginosa,Ceftazidime,2025-12-01,1.5430402
+930,South West,P-aeruginosa,Ciprofloxacin,2025-07-01,5.078047
+931,South West,P-aeruginosa,Ciprofloxacin,2025-08-01,5.2326117
+932,South West,P-aeruginosa,Ciprofloxacin,2025-09-01,5.0344377
+933,South West,P-aeruginosa,Ciprofloxacin,2025-10-01,5.0269256
+934,South West,P-aeruginosa,Ciprofloxacin,2025-11-01,4.8272567
+935,South West,P-aeruginosa,Ciprofloxacin,2025-12-01,4.9254785
+936,South West,P-aeruginosa,Piperacillin with tazobactam,2025-07-01,4.4886293
+937,South West,P-aeruginosa,Piperacillin with tazobactam,2025-08-01,4.518342
+938,South West,P-aeruginosa,Piperacillin with tazobactam,2025-09-01,4.441991
+939,South West,P-aeruginosa,Piperacillin with tazobactam,2025-10-01,4.3966136
+940,South West,P-aeruginosa,Piperacillin with tazobactam,2025-11-01,4.2368445
+941,South West,P-aeruginosa,Piperacillin with tazobactam,2025-12-01,4.2488112
+942,South West,S-pneumoniae,Macrolides,2025-07-01,5.504139
+943,South West,S-pneumoniae,Macrolides,2025-08-01,5.6135864
+944,South West,S-pneumoniae,Macrolides,2025-09-01,5.424355
+945,South West,S-pneumoniae,Macrolides,2025-10-01,5.3634014
+946,South West,S-pneumoniae,Macrolides,2025-11-01,5.1438556
+947,South West,S-pneumoniae,Macrolides,2025-12-01,5.3392296
+948,South West,S-pneumoniae,Penicillin,2025-07-01,0.8944719
+949,South West,S-pneumoniae,Penicillin,2025-08-01,0.8092325
+950,South West,S-pneumoniae,Penicillin,2025-09-01,0.7261455
+951,South West,S-pneumoniae,Penicillin,2025-10-01,0.65882677
+952,South West,S-pneumoniae,Penicillin,2025-11-01,0.61537826
+953,South West,S-pneumoniae,Penicillin,2025-12-01,0.50589335
+954,South West,e-faecalis,Glycopeptides,2025-07-01,2.6716077
+955,South West,e-faecalis,Glycopeptides,2025-08-01,2.6526062
+956,South West,e-faecalis,Glycopeptides,2025-09-01,2.4384143
+957,South West,e-faecalis,Glycopeptides,2025-10-01,2.4126358
+958,South West,e-faecalis,Glycopeptides,2025-11-01,2.274424
+959,South West,e-faecalis,Glycopeptides,2025-12-01,2.2987483
+960,South West,e-faecium,Glycopeptides,2025-07-01,4.9896317
+961,South West,e-faecium,Glycopeptides,2025-08-01,4.9638066
+962,South West,e-faecium,Glycopeptides,2025-09-01,4.7375636
+963,South West,e-faecium,Glycopeptides,2025-10-01,5.113036
+964,South West,e-faecium,Glycopeptides,2025-11-01,4.334701
+965,South West,e-faecium,Glycopeptides,2025-12-01,4.916307
+966,West Midlands,E-coli,Amikacin,2025-07-01,4.166987
+967,West Midlands,E-coli,Amikacin,2025-08-01,4.1836743
+968,West Midlands,E-coli,Amikacin,2025-09-01,4.0380135
+969,West Midlands,E-coli,Amikacin,2025-10-01,3.9558227
+970,West Midlands,E-coli,Amikacin,2025-11-01,3.6877677
+971,West Midlands,E-coli,Amikacin,2025-12-01,3.698166
+972,West Midlands,E-coli,Carbapenems,2025-07-01,0.3539548
+973,West Midlands,E-coli,Carbapenems,2025-08-01,0.31791654
+974,West Midlands,E-coli,Carbapenems,2025-09-01,0.24213657
+975,West Midlands,E-coli,Carbapenems,2025-10-01,0.21369793
+976,West Midlands,E-coli,Carbapenems,2025-11-01,0.18531089
+977,West Midlands,E-coli,Carbapenems,2025-12-01,0.15536
+978,West Midlands,E-coli,Ciprofloxacin,2025-07-01,5.3654513
+979,West Midlands,E-coli,Ciprofloxacin,2025-08-01,5.464727
+980,West Midlands,E-coli,Ciprofloxacin,2025-09-01,5.315776
+981,West Midlands,E-coli,Ciprofloxacin,2025-10-01,5.3354588
+982,West Midlands,E-coli,Ciprofloxacin,2025-11-01,4.7872744
+983,West Midlands,E-coli,Ciprofloxacin,2025-12-01,5.274134
+984,West Midlands,E-coli,Co-amoxiclav,2025-07-01,3.9385798
+985,West Midlands,E-coli,Co-amoxiclav,2025-08-01,3.8591647
+986,West Midlands,E-coli,Co-amoxiclav,2025-09-01,3.6593184
+987,West Midlands,E-coli,Co-amoxiclav,2025-10-01,4.035734
+988,West Midlands,E-coli,Co-amoxiclav,2025-11-01,3.148222
+989,West Midlands,E-coli,Co-amoxiclav,2025-12-01,3.7834456
+990,West Midlands,E-coli,Gentamicin,2025-07-01,5.7467117
+991,West Midlands,E-coli,Gentamicin,2025-08-01,5.854987
+992,West Midlands,E-coli,Gentamicin,2025-09-01,5.6943297
+993,West Midlands,E-coli,Gentamicin,2025-10-01,5.525534
+994,West Midlands,E-coli,Gentamicin,2025-11-01,5.143368
+995,West Midlands,E-coli,Gentamicin,2025-12-01,5.505503
+996,West Midlands,E-coli,Piperacillin with tazobactam,2025-07-01,5.6796765
+997,West Midlands,E-coli,Piperacillin with tazobactam,2025-08-01,5.7673974
+998,West Midlands,E-coli,Piperacillin with tazobactam,2025-09-01,5.6405478
+999,West Midlands,E-coli,Piperacillin with tazobactam,2025-10-01,5.4597483
+1000,West Midlands,E-coli,Piperacillin with tazobactam,2025-11-01,5.0354147
+1001,West Midlands,E-coli,Piperacillin with tazobactam,2025-12-01,5.44079
+1002,West Midlands,E-coli,Third Generation Cephalosporins,2025-07-01,5.6214623
+1003,West Midlands,E-coli,Third Generation Cephalosporins,2025-08-01,5.730678
+1004,West Midlands,E-coli,Third Generation Cephalosporins,2025-09-01,5.5951157
+1005,West Midlands,E-coli,Third Generation Cephalosporins,2025-10-01,5.46045
+1006,West Midlands,E-coli,Third Generation Cephalosporins,2025-11-01,5.0094676
+1007,West Midlands,E-coli,Third Generation Cephalosporins,2025-12-01,5.433121
+1008,West Midlands,K-pneumoniae,Amikacin,2025-07-01,1.2610542
+1009,West Midlands,K-pneumoniae,Amikacin,2025-08-01,1.176619
+1010,West Midlands,K-pneumoniae,Amikacin,2025-09-01,1.0488812
+1011,West Midlands,K-pneumoniae,Amikacin,2025-10-01,0.9650853
+1012,West Midlands,K-pneumoniae,Amikacin,2025-11-01,0.9224676
+1013,West Midlands,K-pneumoniae,Amikacin,2025-12-01,0.8165882
+1014,West Midlands,K-pneumoniae,Carbapenems,2025-07-01,1.2871549
+1015,West Midlands,K-pneumoniae,Carbapenems,2025-08-01,1.1697396
+1016,West Midlands,K-pneumoniae,Carbapenems,2025-09-01,1.0682566
+1017,West Midlands,K-pneumoniae,Carbapenems,2025-10-01,0.95314354
+1018,West Midlands,K-pneumoniae,Carbapenems,2025-11-01,0.90108585
+1019,West Midlands,K-pneumoniae,Carbapenems,2025-12-01,0.72067404
+1020,West Midlands,K-pneumoniae,Ciprofloxacin,2025-07-01,5.6807995
+1021,West Midlands,K-pneumoniae,Ciprofloxacin,2025-08-01,5.776347
+1022,West Midlands,K-pneumoniae,Ciprofloxacin,2025-09-01,5.646899
+1023,West Midlands,K-pneumoniae,Ciprofloxacin,2025-10-01,5.4780927
+1024,West Midlands,K-pneumoniae,Ciprofloxacin,2025-11-01,5.053958
+1025,West Midlands,K-pneumoniae,Ciprofloxacin,2025-12-01,5.46114
+1026,West Midlands,K-pneumoniae,Co-amoxiclav,2025-07-01,5.1009583
+1027,West Midlands,K-pneumoniae,Co-amoxiclav,2025-08-01,5.0704265
+1028,West Midlands,K-pneumoniae,Co-amoxiclav,2025-09-01,4.8579354
+1029,West Midlands,K-pneumoniae,Co-amoxiclav,2025-10-01,5.170583
+1030,West Midlands,K-pneumoniae,Co-amoxiclav,2025-11-01,4.4371037
+1031,West Midlands,K-pneumoniae,Co-amoxiclav,2025-12-01,5.007395
+1032,West Midlands,K-pneumoniae,Gentamicin,2025-07-01,5.650049
+1033,West Midlands,K-pneumoniae,Gentamicin,2025-08-01,5.7482023
+1034,West Midlands,K-pneumoniae,Gentamicin,2025-09-01,5.577256
+1035,West Midlands,K-pneumoniae,Gentamicin,2025-10-01,5.4764667
+1036,West Midlands,K-pneumoniae,Gentamicin,2025-11-01,5.2036285
+1037,West Midlands,K-pneumoniae,Gentamicin,2025-12-01,5.4678435
+1038,West Midlands,K-pneumoniae,Piperacillin with tazobactam,2025-07-01,5.35373
+1039,West Midlands,K-pneumoniae,Piperacillin with tazobactam,2025-08-01,5.451925
+1040,West Midlands,K-pneumoniae,Piperacillin with tazobactam,2025-09-01,5.3077006
+1041,West Midlands,K-pneumoniae,Piperacillin with tazobactam,2025-10-01,5.321747
+1042,West Midlands,K-pneumoniae,Piperacillin with tazobactam,2025-11-01,4.7779603
+1043,West Midlands,K-pneumoniae,Piperacillin with tazobactam,2025-12-01,5.2654386
+1044,West Midlands,K-pneumoniae,Third Generation Cephalosporins,2025-07-01,5.7449503
+1045,West Midlands,K-pneumoniae,Third Generation Cephalosporins,2025-08-01,5.848786
+1046,West Midlands,K-pneumoniae,Third Generation Cephalosporins,2025-09-01,5.6920834
+1047,West Midlands,K-pneumoniae,Third Generation Cephalosporins,2025-10-01,5.5311937
+1048,West Midlands,K-pneumoniae,Third Generation Cephalosporins,2025-11-01,5.159771
+1049,West Midlands,K-pneumoniae,Third Generation Cephalosporins,2025-12-01,5.519589
+1050,West Midlands,P-aeruginosa,Amikacin,2025-07-01,1.54458
+1051,West Midlands,P-aeruginosa,Amikacin,2025-08-01,1.4666595
+1052,West Midlands,P-aeruginosa,Amikacin,2025-09-01,1.4448056
+1053,West Midlands,P-aeruginosa,Amikacin,2025-10-01,1.3595897
+1054,West Midlands,P-aeruginosa,Amikacin,2025-11-01,1.3397802
+1055,West Midlands,P-aeruginosa,Amikacin,2025-12-01,1.1196365
+1056,West Midlands,P-aeruginosa,Carbapenems,2025-07-01,5.743278
+1057,West Midlands,P-aeruginosa,Carbapenems,2025-08-01,5.837703
+1058,West Midlands,P-aeruginosa,Carbapenems,2025-09-01,5.6732945
+1059,West Midlands,P-aeruginosa,Carbapenems,2025-10-01,5.4898615
+1060,West Midlands,P-aeruginosa,Carbapenems,2025-11-01,5.151745
+1061,West Midlands,P-aeruginosa,Carbapenems,2025-12-01,5.4696875
+1062,West Midlands,P-aeruginosa,Ceftazidime,2025-07-01,5.6938896
+1063,West Midlands,P-aeruginosa,Ceftazidime,2025-08-01,5.7662864
+1064,West Midlands,P-aeruginosa,Ceftazidime,2025-09-01,5.607255
+1065,West Midlands,P-aeruginosa,Ceftazidime,2025-10-01,5.421292
+1066,West Midlands,P-aeruginosa,Ceftazidime,2025-11-01,5.0890646
+1067,West Midlands,P-aeruginosa,Ceftazidime,2025-12-01,5.39681
+1068,West Midlands,P-aeruginosa,Ciprofloxacin,2025-07-01,5.708827
+1069,West Midlands,P-aeruginosa,Ciprofloxacin,2025-08-01,5.7430363
+1070,West Midlands,P-aeruginosa,Ciprofloxacin,2025-09-01,5.642454
+1071,West Midlands,P-aeruginosa,Ciprofloxacin,2025-10-01,5.396243
+1072,West Midlands,P-aeruginosa,Ciprofloxacin,2025-11-01,5.0118017
+1073,West Midlands,P-aeruginosa,Ciprofloxacin,2025-12-01,5.3837824
+1074,West Midlands,P-aeruginosa,Piperacillin with tazobactam,2025-07-01,5.7421355
+1075,West Midlands,P-aeruginosa,Piperacillin with tazobactam,2025-08-01,5.8591533
+1076,West Midlands,P-aeruginosa,Piperacillin with tazobactam,2025-09-01,5.6765223
+1077,West Midlands,P-aeruginosa,Piperacillin with tazobactam,2025-10-01,5.5090823
+1078,West Midlands,P-aeruginosa,Piperacillin with tazobactam,2025-11-01,5.1675286
+1079,West Midlands,P-aeruginosa,Piperacillin with tazobactam,2025-12-01,5.482904
+1080,West Midlands,S-pneumoniae,Macrolides,2025-07-01,5.6353016
+1081,West Midlands,S-pneumoniae,Macrolides,2025-08-01,5.676952
+1082,West Midlands,S-pneumoniae,Macrolides,2025-09-01,5.543951
+1083,West Midlands,S-pneumoniae,Macrolides,2025-10-01,5.398797
+1084,West Midlands,S-pneumoniae,Macrolides,2025-11-01,5.127125
+1085,West Midlands,S-pneumoniae,Macrolides,2025-12-01,5.386864
+1086,West Midlands,S-pneumoniae,Penicillin,2025-07-01,3.1516838
+1087,West Midlands,S-pneumoniae,Penicillin,2025-08-01,3.128392
+1088,West Midlands,S-pneumoniae,Penicillin,2025-09-01,3.0098171
+1089,West Midlands,S-pneumoniae,Penicillin,2025-10-01,3.004502
+1090,West Midlands,S-pneumoniae,Penicillin,2025-11-01,2.8645017
+1091,West Midlands,S-pneumoniae,Penicillin,2025-12-01,2.8946722
+1092,West Midlands,e-faecalis,Glycopeptides,2025-07-01,-0.21848837
+1093,West Midlands,e-faecalis,Glycopeptides,2025-08-01,-0.2542139
+1094,West Midlands,e-faecalis,Glycopeptides,2025-09-01,-0.2930771
+1095,West Midlands,e-faecalis,Glycopeptides,2025-10-01,-0.3518523
+1096,West Midlands,e-faecalis,Glycopeptides,2025-11-01,-0.30614305
+1097,West Midlands,e-faecalis,Glycopeptides,2025-12-01,-0.36397883
+1098,West Midlands,e-faecium,Glycopeptides,2025-07-01,5.562827
+1099,West Midlands,e-faecium,Glycopeptides,2025-08-01,5.666375
+1100,West Midlands,e-faecium,Glycopeptides,2025-09-01,5.5496964
+1101,West Midlands,e-faecium,Glycopeptides,2025-10-01,5.4245
+1102,West Midlands,e-faecium,Glycopeptides,2025-11-01,4.962402
+1103,West Midlands,e-faecium,Glycopeptides,2025-12-01,5.4021316
+1104,Yorkshire and Humber,E-coli,Amikacin,2025-07-01,3.2801278
+1105,Yorkshire and Humber,E-coli,Amikacin,2025-08-01,3.2257447
+1106,Yorkshire and Humber,E-coli,Amikacin,2025-09-01,3.1802313
+1107,Yorkshire and Humber,E-coli,Amikacin,2025-10-01,3.050424
+1108,Yorkshire and Humber,E-coli,Amikacin,2025-11-01,2.8306737
+1109,Yorkshire and Humber,E-coli,Amikacin,2025-12-01,2.734378
+1110,Yorkshire and Humber,E-coli,Carbapenems,2025-07-01,0.15664582
+1111,Yorkshire and Humber,E-coli,Carbapenems,2025-08-01,0.11712471
+1112,Yorkshire and Humber,E-coli,Carbapenems,2025-09-01,0.0662059
+1113,Yorkshire and Humber,E-coli,Carbapenems,2025-10-01,0.030675493
+1114,Yorkshire and Humber,E-coli,Carbapenems,2025-11-01,0.01737354
+1115,Yorkshire and Humber,E-coli,Carbapenems,2025-12-01,-0.027551137
+1116,Yorkshire and Humber,E-coli,Ciprofloxacin,2025-07-01,5.4746428
+1117,Yorkshire and Humber,E-coli,Ciprofloxacin,2025-08-01,5.577992
+1118,Yorkshire and Humber,E-coli,Ciprofloxacin,2025-09-01,5.466054
+1119,Yorkshire and Humber,E-coli,Ciprofloxacin,2025-10-01,5.3580475
+1120,Yorkshire and Humber,E-coli,Ciprofloxacin,2025-11-01,4.886573
+1121,Yorkshire and Humber,E-coli,Ciprofloxacin,2025-12-01,5.342078
+1122,Yorkshire and Humber,E-coli,Co-amoxiclav,2025-07-01,3.9262352
+1123,Yorkshire and Humber,E-coli,Co-amoxiclav,2025-08-01,3.869469
+1124,Yorkshire and Humber,E-coli,Co-amoxiclav,2025-09-01,3.6738944
+1125,Yorkshire and Humber,E-coli,Co-amoxiclav,2025-10-01,4.0262566
+1126,Yorkshire and Humber,E-coli,Co-amoxiclav,2025-11-01,3.142423
+1127,Yorkshire and Humber,E-coli,Co-amoxiclav,2025-12-01,3.7822843
+1128,Yorkshire and Humber,E-coli,Gentamicin,2025-07-01,5.751263
+1129,Yorkshire and Humber,E-coli,Gentamicin,2025-08-01,5.8546195
+1130,Yorkshire and Humber,E-coli,Gentamicin,2025-09-01,5.689903
+1131,Yorkshire and Humber,E-coli,Gentamicin,2025-10-01,5.5264897
+1132,Yorkshire and Humber,E-coli,Gentamicin,2025-11-01,5.1849794
+1133,Yorkshire and Humber,E-coli,Gentamicin,2025-12-01,5.5176606
+1134,Yorkshire and Humber,E-coli,Piperacillin with tazobactam,2025-07-01,5.741531
+1135,Yorkshire and Humber,E-coli,Piperacillin with tazobactam,2025-08-01,5.8255405
+1136,Yorkshire and Humber,E-coli,Piperacillin with tazobactam,2025-09-01,5.6872935
+1137,Yorkshire and Humber,E-coli,Piperacillin with tazobactam,2025-10-01,5.502098
+1138,Yorkshire and Humber,E-coli,Piperacillin with tazobactam,2025-11-01,5.1232877
+1139,Yorkshire and Humber,E-coli,Piperacillin with tazobactam,2025-12-01,5.494155
+1140,Yorkshire and Humber,E-coli,Third Generation Cephalosporins,2025-07-01,5.6027966
+1141,Yorkshire and Humber,E-coli,Third Generation Cephalosporins,2025-08-01,5.7036653
+1142,Yorkshire and Humber,E-coli,Third Generation Cephalosporins,2025-09-01,5.5764704
+1143,Yorkshire and Humber,E-coli,Third Generation Cephalosporins,2025-10-01,5.4329243
+1144,Yorkshire and Humber,E-coli,Third Generation Cephalosporins,2025-11-01,4.981717
+1145,Yorkshire and Humber,E-coli,Third Generation Cephalosporins,2025-12-01,5.410728
+1146,Yorkshire and Humber,K-pneumoniae,Amikacin,2025-07-01,3.903702
+1147,Yorkshire and Humber,K-pneumoniae,Amikacin,2025-08-01,3.9542856
+1148,Yorkshire and Humber,K-pneumoniae,Amikacin,2025-09-01,3.8890774
+1149,Yorkshire and Humber,K-pneumoniae,Amikacin,2025-10-01,3.8382547
+1150,Yorkshire and Humber,K-pneumoniae,Amikacin,2025-11-01,3.652941
+1151,Yorkshire and Humber,K-pneumoniae,Amikacin,2025-12-01,3.5802975
+1152,Yorkshire and Humber,K-pneumoniae,Carbapenems,2025-07-01,0.47917396
+1153,Yorkshire and Humber,K-pneumoniae,Carbapenems,2025-08-01,0.41058263
+1154,Yorkshire and Humber,K-pneumoniae,Carbapenems,2025-09-01,0.33849487
+1155,Yorkshire and Humber,K-pneumoniae,Carbapenems,2025-10-01,0.27911586
+1156,Yorkshire and Humber,K-pneumoniae,Carbapenems,2025-11-01,0.25242558
+1157,Yorkshire and Humber,K-pneumoniae,Carbapenems,2025-12-01,0.14807971
+1158,Yorkshire and Humber,K-pneumoniae,Ciprofloxacin,2025-07-01,5.505078
+1159,Yorkshire and Humber,K-pneumoniae,Ciprofloxacin,2025-08-01,5.6223993
+1160,Yorkshire and Humber,K-pneumoniae,Ciprofloxacin,2025-09-01,5.4879546
+1161,Yorkshire and Humber,K-pneumoniae,Ciprofloxacin,2025-10-01,5.403444
+1162,Yorkshire and Humber,K-pneumoniae,Ciprofloxacin,2025-11-01,4.91959
+1163,Yorkshire and Humber,K-pneumoniae,Ciprofloxacin,2025-12-01,5.3703127
+1164,Yorkshire and Humber,K-pneumoniae,Co-amoxiclav,2025-07-01,4.738498
+1165,Yorkshire and Humber,K-pneumoniae,Co-amoxiclav,2025-08-01,4.690649
+1166,Yorkshire and Humber,K-pneumoniae,Co-amoxiclav,2025-09-01,4.463707
+1167,Yorkshire and Humber,K-pneumoniae,Co-amoxiclav,2025-10-01,4.872371
+1168,Yorkshire and Humber,K-pneumoniae,Co-amoxiclav,2025-11-01,4.052482
+1169,Yorkshire and Humber,K-pneumoniae,Co-amoxiclav,2025-12-01,4.65623
+1170,Yorkshire and Humber,K-pneumoniae,Gentamicin,2025-07-01,5.7184405
+1171,Yorkshire and Humber,K-pneumoniae,Gentamicin,2025-08-01,5.851814
+1172,Yorkshire and Humber,K-pneumoniae,Gentamicin,2025-09-01,5.6581635
+1173,Yorkshire and Humber,K-pneumoniae,Gentamicin,2025-10-01,5.5426307
+1174,Yorkshire and Humber,K-pneumoniae,Gentamicin,2025-11-01,5.2369847
+1175,Yorkshire and Humber,K-pneumoniae,Gentamicin,2025-12-01,5.540945
+1176,Yorkshire and Humber,K-pneumoniae,Piperacillin with tazobactam,2025-07-01,5.014348
+1177,Yorkshire and Humber,K-pneumoniae,Piperacillin with tazobactam,2025-08-01,4.9745727
+1178,Yorkshire and Humber,K-pneumoniae,Piperacillin with tazobactam,2025-09-01,4.7352085
+1179,Yorkshire and Humber,K-pneumoniae,Piperacillin with tazobactam,2025-10-01,5.0915685
+1180,Yorkshire and Humber,K-pneumoniae,Piperacillin with tazobactam,2025-11-01,4.3236423
+1181,Yorkshire and Humber,K-pneumoniae,Piperacillin with tazobactam,2025-12-01,4.891738
+1182,Yorkshire and Humber,K-pneumoniae,Third Generation Cephalosporins,2025-07-01,5.566397
+1183,Yorkshire and Humber,K-pneumoniae,Third Generation Cephalosporins,2025-08-01,5.6924095
+1184,Yorkshire and Humber,K-pneumoniae,Third Generation Cephalosporins,2025-09-01,5.538861
+1185,Yorkshire and Humber,K-pneumoniae,Third Generation Cephalosporins,2025-10-01,5.454073
+1186,Yorkshire and Humber,K-pneumoniae,Third Generation Cephalosporins,2025-11-01,4.974469
+1187,Yorkshire and Humber,K-pneumoniae,Third Generation Cephalosporins,2025-12-01,5.4092336
+1188,Yorkshire and Humber,P-aeruginosa,Amikacin,2025-07-01,-0.018338708
+1189,Yorkshire and Humber,P-aeruginosa,Amikacin,2025-08-01,-0.049083564
+1190,Yorkshire and Humber,P-aeruginosa,Amikacin,2025-09-01,-0.099563636
+1191,Yorkshire and Humber,P-aeruginosa,Amikacin,2025-10-01,-0.1283698
+1192,Yorkshire and Humber,P-aeruginosa,Amikacin,2025-11-01,-0.13525404
+1193,Yorkshire and Humber,P-aeruginosa,Amikacin,2025-12-01,-0.1604639
+1194,Yorkshire and Humber,P-aeruginosa,Carbapenems,2025-07-01,5.549385
+1195,Yorkshire and Humber,P-aeruginosa,Carbapenems,2025-08-01,5.6750736
+1196,Yorkshire and Humber,P-aeruginosa,Carbapenems,2025-09-01,5.4636545
+1197,Yorkshire and Humber,P-aeruginosa,Carbapenems,2025-10-01,5.3992004
+1198,Yorkshire and Humber,P-aeruginosa,Carbapenems,2025-11-01,5.1280723
+1199,Yorkshire and Humber,P-aeruginosa,Carbapenems,2025-12-01,5.377303
+1200,Yorkshire and Humber,P-aeruginosa,Ceftazidime,2025-07-01,5.605343
+1201,Yorkshire and Humber,P-aeruginosa,Ceftazidime,2025-08-01,5.652773
+1202,Yorkshire and Humber,P-aeruginosa,Ceftazidime,2025-09-01,5.514894
+1203,Yorkshire and Humber,P-aeruginosa,Ceftazidime,2025-10-01,5.3450985
+1204,Yorkshire and Humber,P-aeruginosa,Ceftazidime,2025-11-01,4.945402
+1205,Yorkshire and Humber,P-aeruginosa,Ceftazidime,2025-12-01,5.2987013
+1206,Yorkshire and Humber,P-aeruginosa,Ciprofloxacin,2025-07-01,5.678315
+1207,Yorkshire and Humber,P-aeruginosa,Ciprofloxacin,2025-08-01,5.7869077
+1208,Yorkshire and Humber,P-aeruginosa,Ciprofloxacin,2025-09-01,5.6398983
+1209,Yorkshire and Humber,P-aeruginosa,Ciprofloxacin,2025-10-01,5.4857893
+1210,Yorkshire and Humber,P-aeruginosa,Ciprofloxacin,2025-11-01,5.053491
+1211,Yorkshire and Humber,P-aeruginosa,Ciprofloxacin,2025-12-01,5.457391
+1212,Yorkshire and Humber,P-aeruginosa,Piperacillin with tazobactam,2025-07-01,5.7483883
+1213,Yorkshire and Humber,P-aeruginosa,Piperacillin with tazobactam,2025-08-01,5.842377
+1214,Yorkshire and Humber,P-aeruginosa,Piperacillin with tazobactam,2025-09-01,5.6822433
+1215,Yorkshire and Humber,P-aeruginosa,Piperacillin with tazobactam,2025-10-01,5.502008
+1216,Yorkshire and Humber,P-aeruginosa,Piperacillin with tazobactam,2025-11-01,5.164045
+1217,Yorkshire and Humber,P-aeruginosa,Piperacillin with tazobactam,2025-12-01,5.489109
+1218,Yorkshire and Humber,S-pneumoniae,Macrolides,2025-07-01,5.202055
+1219,Yorkshire and Humber,S-pneumoniae,Macrolides,2025-08-01,5.226671
+1220,Yorkshire and Humber,S-pneumoniae,Macrolides,2025-09-01,5.054049
+1221,Yorkshire and Humber,S-pneumoniae,Macrolides,2025-10-01,4.9301653
+1222,Yorkshire and Humber,S-pneumoniae,Macrolides,2025-11-01,4.663397
+1223,Yorkshire and Humber,S-pneumoniae,Macrolides,2025-12-01,4.841187
+1224,Yorkshire and Humber,S-pneumoniae,Penicillin,2025-07-01,3.220426
+1225,Yorkshire and Humber,S-pneumoniae,Penicillin,2025-08-01,3.241673
+1226,Yorkshire and Humber,S-pneumoniae,Penicillin,2025-09-01,2.9663749
+1227,Yorkshire and Humber,S-pneumoniae,Penicillin,2025-10-01,2.9716132
+1228,Yorkshire and Humber,S-pneumoniae,Penicillin,2025-11-01,2.7609944
+1229,Yorkshire and Humber,S-pneumoniae,Penicillin,2025-12-01,2.8218105
+1230,Yorkshire and Humber,e-faecalis,Glycopeptides,2025-07-01,5.017246
+1231,Yorkshire and Humber,e-faecalis,Glycopeptides,2025-08-01,5.2102532
+1232,Yorkshire and Humber,e-faecalis,Glycopeptides,2025-09-01,4.954393
+1233,Yorkshire and Humber,e-faecalis,Glycopeptides,2025-10-01,4.9496346
+1234,Yorkshire and Humber,e-faecalis,Glycopeptides,2025-11-01,4.726961
+1235,Yorkshire and Humber,e-faecalis,Glycopeptides,2025-12-01,4.847359
+1236,Yorkshire and Humber,e-faecium,Glycopeptides,2025-07-01,5.448768
+1237,Yorkshire and Humber,e-faecium,Glycopeptides,2025-08-01,5.5472865
+1238,Yorkshire and Humber,e-faecium,Glycopeptides,2025-09-01,5.425609
+1239,Yorkshire and Humber,e-faecium,Glycopeptides,2025-10-01,5.3238544
+1240,Yorkshire and Humber,e-faecium,Glycopeptides,2025-11-01,4.843941
+1241,Yorkshire and Humber,e-faecium,Glycopeptides,2025-12-01,5.294672
