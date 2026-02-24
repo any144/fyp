@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>AMR Forecast Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+
+</head>
+<body>
+
+
+    <h1>AMR Forecast Dashboard</h1>
+
+    <div class="controls">
+        <label for="seriesSelect">Series:</label>
+        <select id="seriesSelect"></select>
+
+        <label for="modelSelect">Model:</label>
+        <select id="modelSelect">
+            <option value="xgb">XGBoost</option>
+            <option value="tcn">TCN</option>
+        </select>
+
+        <label for="scenarioSelect">Scenario:</label>
+        <select id="scenarioSelect">
+            <option value="baseline">Baseline</option>
+            <option value="minus20">-20% Prescribing</option>
+            <option value="plus20">+20% Prescribing</option>
+        </select>
+    </div>
+
+    <div id="chart"></div>
+
+    <h2>Scenario table</h2>
+    <div id="scenarioTable"></div>
+
+    
+    <script src="app.js"></script>
+</body>
+</html>
+

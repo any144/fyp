@@ -11046,12 +11046,12 @@ date,value,series_id,is_forecast,model
 2025-04-01,6.2,S-pneumoniae__Macrolides__East Midlands,False,tcn
 2025-05-01,7.52,S-pneumoniae__Macrolides__East Midlands,False,tcn
 2025-06-01,7.69,S-pneumoniae__Macrolides__East Midlands,False,tcn
-2025-07-01,,S-pneumoniae__Macrolides__East Midlands,True,tcn
-2025-08-01,,S-pneumoniae__Macrolides__East Midlands,True,tcn
-2025-09-01,,S-pneumoniae__Macrolides__East Midlands,True,tcn
-2025-10-01,,S-pneumoniae__Macrolides__East Midlands,True,tcn
-2025-11-01,,S-pneumoniae__Macrolides__East Midlands,True,tcn
-2025-12-01,,S-pneumoniae__Macrolides__East Midlands,True,tcn
+2025-07-01,7.69,S-pneumoniae__Macrolides__East Midlands,True,tcn
+2025-08-01,7.69,S-pneumoniae__Macrolides__East Midlands,True,tcn
+2025-09-01,7.69,S-pneumoniae__Macrolides__East Midlands,True,tcn
+2025-10-01,7.69,S-pneumoniae__Macrolides__East Midlands,True,tcn
+2025-11-01,7.69,S-pneumoniae__Macrolides__East Midlands,True,tcn
+2025-12-01,7.69,S-pneumoniae__Macrolides__East Midlands,True,tcn
 2020-08-01,0.0,S-pneumoniae__Macrolides__East of England,False,tcn
 2020-09-01,4.35,S-pneumoniae__Macrolides__East of England,False,tcn
 2020-10-01,8.82,S-pneumoniae__Macrolides__East of England,False,tcn
@@ -11239,12 +11239,12 @@ date,value,series_id,is_forecast,model
 2025-04-01,6.67,S-pneumoniae__Macrolides__North East,False,tcn
 2025-05-01,7.69,S-pneumoniae__Macrolides__North East,False,tcn
 2025-06-01,5.77,S-pneumoniae__Macrolides__North East,False,tcn
-2025-07-01,,S-pneumoniae__Macrolides__North East,True,tcn
-2025-08-01,,S-pneumoniae__Macrolides__North East,True,tcn
-2025-09-01,,S-pneumoniae__Macrolides__North East,True,tcn
-2025-10-01,,S-pneumoniae__Macrolides__North East,True,tcn
-2025-11-01,,S-pneumoniae__Macrolides__North East,True,tcn
-2025-12-01,,S-pneumoniae__Macrolides__North East,True,tcn
+2025-07-01,5.77,S-pneumoniae__Macrolides__North East,True,tcn
+2025-08-01,5.77,S-pneumoniae__Macrolides__North East,True,tcn
+2025-09-01,5.77,S-pneumoniae__Macrolides__North East,True,tcn
+2025-10-01,5.77,S-pneumoniae__Macrolides__North East,True,tcn
+2025-11-01,5.77,S-pneumoniae__Macrolides__North East,True,tcn
+2025-12-01,5.77,S-pneumoniae__Macrolides__North East,True,tcn
 2020-08-01,16.22,S-pneumoniae__Macrolides__North West,False,tcn
 2020-09-01,15.0,S-pneumoniae__Macrolides__North West,False,tcn
 2020-10-01,11.76,S-pneumoniae__Macrolides__North West,False,tcn
@@ -11628,12 +11628,12 @@ date,value,series_id,is_forecast,model
 2025-04-01,2.54,S-pneumoniae__Penicillin__East Midlands,False,tcn
 2025-05-01,3.33,S-pneumoniae__Penicillin__East Midlands,False,tcn
 2025-06-01,3.92,S-pneumoniae__Penicillin__East Midlands,False,tcn
-2025-07-01,,S-pneumoniae__Penicillin__East Midlands,True,tcn
-2025-08-01,,S-pneumoniae__Penicillin__East Midlands,True,tcn
-2025-09-01,,S-pneumoniae__Penicillin__East Midlands,True,tcn
-2025-10-01,,S-pneumoniae__Penicillin__East Midlands,True,tcn
-2025-11-01,,S-pneumoniae__Penicillin__East Midlands,True,tcn
-2025-12-01,,S-pneumoniae__Penicillin__East Midlands,True,tcn
+2025-07-01,3.92,S-pneumoniae__Penicillin__East Midlands,True,tcn
+2025-08-01,3.92,S-pneumoniae__Penicillin__East Midlands,True,tcn
+2025-09-01,3.92,S-pneumoniae__Penicillin__East Midlands,True,tcn
+2025-10-01,3.92,S-pneumoniae__Penicillin__East Midlands,True,tcn
+2025-11-01,3.92,S-pneumoniae__Penicillin__East Midlands,True,tcn
+2025-12-01,3.92,S-pneumoniae__Penicillin__East Midlands,True,tcn
 2020-08-01,5.88,S-pneumoniae__Penicillin__East of England,False,tcn
 2020-09-01,5.0,S-pneumoniae__Penicillin__East of England,False,tcn
 2020-10-01,3.33,S-pneumoniae__Penicillin__East of England,False,tcn
@@ -11821,12 +11821,12 @@ date,value,series_id,is_forecast,model
 2025-04-01,0.0,S-pneumoniae__Penicillin__North East,False,tcn
 2025-05-01,3.23,S-pneumoniae__Penicillin__North East,False,tcn
 2025-06-01,3.23,S-pneumoniae__Penicillin__North East,False,tcn
-2025-07-01,,S-pneumoniae__Penicillin__North East,True,tcn
-2025-08-01,,S-pneumoniae__Penicillin__North East,True,tcn
-2025-09-01,,S-pneumoniae__Penicillin__North East,True,tcn
-2025-10-01,,S-pneumoniae__Penicillin__North East,True,tcn
-2025-11-01,,S-pneumoniae__Penicillin__North East,True,tcn
-2025-12-01,,S-pneumoniae__Penicillin__North East,True,tcn
+2025-07-01,3.23,S-pneumoniae__Penicillin__North East,True,tcn
+2025-08-01,3.23,S-pneumoniae__Penicillin__North East,True,tcn
+2025-09-01,3.23,S-pneumoniae__Penicillin__North East,True,tcn
+2025-10-01,3.23,S-pneumoniae__Penicillin__North East,True,tcn
+2025-11-01,3.23,S-pneumoniae__Penicillin__North East,True,tcn
+2025-12-01,3.23,S-pneumoniae__Penicillin__North East,True,tcn
 2020-08-01,8.82,S-pneumoniae__Penicillin__North West,False,tcn
 2020-09-01,8.82,S-pneumoniae__Penicillin__North West,False,tcn
 2020-10-01,4.35,S-pneumoniae__Penicillin__North West,False,tcn

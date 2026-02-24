@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.controls {
+    margin-bottom: 20px;
+}
+
+.controls label {
+    margin-right: 8px;
+}
+
+.controls select {
+    margin-right: 20px;
+    padding: 4px 6px;
+}
+
+#chart {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table th, table td {
+    border: 1px solid #ccc;
+    padding: 6px 10px;
+    text-align: right;
+}
+
+table th:first-child,
+table td:first-child {
+    text-align: left;
+}
+
