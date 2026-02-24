@@ -1,0 +1,1243 @@
+,organism,antibiotic,region,date,forecast
+0,E-coli,Amikacin,East Midlands,2025-07-01,4.4864097
+1,E-coli,Amikacin,East Midlands,2025-08-01,4.2902613
+2,E-coli,Amikacin,East Midlands,2025-09-01,3.4263818
+3,E-coli,Amikacin,East Midlands,2025-10-01,3.493703
+4,E-coli,Amikacin,East Midlands,2025-11-01,3.6687949
+5,E-coli,Amikacin,East Midlands,2025-12-01,3.993684
+6,E-coli,Amikacin,East of England,2025-07-01,3.8133469
+7,E-coli,Amikacin,East of England,2025-08-01,3.474652
+8,E-coli,Amikacin,East of England,2025-09-01,3.3156471
+9,E-coli,Amikacin,East of England,2025-10-01,3.2159193
+10,E-coli,Amikacin,East of England,2025-11-01,3.3306344
+11,E-coli,Amikacin,East of England,2025-12-01,3.4721594
+12,E-coli,Amikacin,London,2025-07-01,2.0799
+13,E-coli,Amikacin,London,2025-08-01,2.2047377
+14,E-coli,Amikacin,London,2025-09-01,2.3143032
+15,E-coli,Amikacin,London,2025-10-01,2.3957
+16,E-coli,Amikacin,London,2025-11-01,2.3756065
+17,E-coli,Amikacin,London,2025-12-01,2.3148024
+18,E-coli,Amikacin,North East,2025-07-01,1.6760583
+19,E-coli,Amikacin,North East,2025-08-01,2.0378096
+20,E-coli,Amikacin,North East,2025-09-01,2.3779075
+21,E-coli,Amikacin,North East,2025-10-01,2.595752
+22,E-coli,Amikacin,North East,2025-11-01,2.6539059
+23,E-coli,Amikacin,North East,2025-12-01,2.9097927
+24,E-coli,Amikacin,North West,2025-07-01,4.2837353
+25,E-coli,Amikacin,North West,2025-08-01,4.100645
+26,E-coli,Amikacin,North West,2025-09-01,3.902352
+27,E-coli,Amikacin,North West,2025-10-01,3.6364324
+28,E-coli,Amikacin,North West,2025-11-01,3.525147
+29,E-coli,Amikacin,North West,2025-12-01,3.5594964
+30,E-coli,Amikacin,South East,2025-07-01,1.7788363
+31,E-coli,Amikacin,South East,2025-08-01,1.7793375
+32,E-coli,Amikacin,South East,2025-09-01,1.7804699
+33,E-coli,Amikacin,South East,2025-10-01,1.8009238
+34,E-coli,Amikacin,South East,2025-11-01,1.7950804
+35,E-coli,Amikacin,South East,2025-12-01,1.8125249
+36,E-coli,Amikacin,South West,2025-07-01,1.9543958
+37,E-coli,Amikacin,South West,2025-08-01,2.2452347
+38,E-coli,Amikacin,South West,2025-09-01,2.0596893
+39,E-coli,Amikacin,South West,2025-10-01,2.1950493
+40,E-coli,Amikacin,South West,2025-11-01,2.0130806
+41,E-coli,Amikacin,South West,2025-12-01,2.1524487
+42,E-coli,Amikacin,West Midlands,2025-07-01,4.7605224
+43,E-coli,Amikacin,West Midlands,2025-08-01,4.8374205
+44,E-coli,Amikacin,West Midlands,2025-09-01,4.4309874
+45,E-coli,Amikacin,West Midlands,2025-10-01,4.2837253
+46,E-coli,Amikacin,West Midlands,2025-11-01,4.065234
+47,E-coli,Amikacin,West Midlands,2025-12-01,4.3598075
+48,E-coli,Amikacin,Yorkshire and Humber,2025-07-01,3.803669
+49,E-coli,Amikacin,Yorkshire and Humber,2025-08-01,4.1460767
+50,E-coli,Amikacin,Yorkshire and Humber,2025-09-01,4.555987
+51,E-coli,Amikacin,Yorkshire and Humber,2025-10-01,4.58501
+52,E-coli,Amikacin,Yorkshire and Humber,2025-11-01,4.9075646
+53,E-coli,Amikacin,Yorkshire and Humber,2025-12-01,5.163769
+54,E-coli,Carbapenems,East Midlands,2025-07-01,0.26052672
+55,E-coli,Carbapenems,East Midlands,2025-08-01,0.21908647
+56,E-coli,Carbapenems,East Midlands,2025-09-01,0.24070452
+57,E-coli,Carbapenems,East Midlands,2025-10-01,0.25128633
+58,E-coli,Carbapenems,East Midlands,2025-11-01,0.22017549
+59,E-coli,Carbapenems,East Midlands,2025-12-01,0.24047796
+60,E-coli,Carbapenems,East of England,2025-07-01,0.14245969
+61,E-coli,Carbapenems,East of England,2025-08-01,0.16537379
+62,E-coli,Carbapenems,East of England,2025-09-01,0.18400268
+63,E-coli,Carbapenems,East of England,2025-10-01,0.19515252
+64,E-coli,Carbapenems,East of England,2025-11-01,0.19674435
+65,E-coli,Carbapenems,East of England,2025-12-01,0.20851664
+66,E-coli,Carbapenems,London,2025-07-01,0.4506118
+67,E-coli,Carbapenems,London,2025-08-01,0.2959475
+68,E-coli,Carbapenems,London,2025-09-01,0.28754592
+69,E-coli,Carbapenems,London,2025-10-01,0.30330744
+70,E-coli,Carbapenems,London,2025-11-01,0.3333127
+71,E-coli,Carbapenems,London,2025-12-01,0.3564758
+72,E-coli,Carbapenems,North East,2025-07-01,0.1471906
+73,E-coli,Carbapenems,North East,2025-08-01,0.1460108
+74,E-coli,Carbapenems,North East,2025-09-01,0.15882067
+75,E-coli,Carbapenems,North East,2025-10-01,0.18485859
+76,E-coli,Carbapenems,North East,2025-11-01,0.19138308
+77,E-coli,Carbapenems,North East,2025-12-01,0.21347871
+78,E-coli,Carbapenems,North West,2025-07-01,0.1657651
+79,E-coli,Carbapenems,North West,2025-08-01,0.15342106
+80,E-coli,Carbapenems,North West,2025-09-01,0.16623093
+81,E-coli,Carbapenems,North West,2025-10-01,0.18398827
+82,E-coli,Carbapenems,North West,2025-11-01,0.19674435
+83,E-coli,Carbapenems,North West,2025-12-01,0.2204694
+84,E-coli,Carbapenems,South East,2025-07-01,0.16356821
+85,E-coli,Carbapenems,South East,2025-08-01,0.16890752
+86,E-coli,Carbapenems,South East,2025-09-01,0.16514842
+87,E-coli,Carbapenems,South East,2025-10-01,0.18433695
+88,E-coli,Carbapenems,South East,2025-11-01,0.16842577
+89,E-coli,Carbapenems,South East,2025-12-01,0.17918766
+90,E-coli,Carbapenems,South West,2025-07-01,0.12503666
+91,E-coli,Carbapenems,South West,2025-08-01,0.12185158
+92,E-coli,Carbapenems,South West,2025-09-01,0.14809097
+93,E-coli,Carbapenems,South West,2025-10-01,0.18953556
+94,E-coli,Carbapenems,South West,2025-11-01,0.18101536
+95,E-coli,Carbapenems,South West,2025-12-01,0.16804731
+96,E-coli,Carbapenems,West Midlands,2025-07-01,0.22758676
+97,E-coli,Carbapenems,West Midlands,2025-08-01,0.22811058
+98,E-coli,Carbapenems,West Midlands,2025-09-01,0.2357943
+99,E-coli,Carbapenems,West Midlands,2025-10-01,0.20205441
+100,E-coli,Carbapenems,West Midlands,2025-11-01,0.20822276
+101,E-coli,Carbapenems,West Midlands,2025-12-01,0.23212732
+102,E-coli,Carbapenems,Yorkshire and Humber,2025-07-01,0.16421561
+103,E-coli,Carbapenems,Yorkshire and Humber,2025-08-01,0.19904864
+104,E-coli,Carbapenems,Yorkshire and Humber,2025-09-01,0.22470444
+105,E-coli,Carbapenems,Yorkshire and Humber,2025-10-01,0.23239379
+106,E-coli,Carbapenems,Yorkshire and Humber,2025-11-01,0.20974632
+107,E-coli,Carbapenems,Yorkshire and Humber,2025-12-01,0.2198892
+108,E-coli,Ciprofloxacin,East Midlands,2025-07-01,19.3544
+109,E-coli,Ciprofloxacin,East Midlands,2025-08-01,18.861755
+110,E-coli,Ciprofloxacin,East Midlands,2025-09-01,19.263374
+111,E-coli,Ciprofloxacin,East Midlands,2025-10-01,19.396242
+112,E-coli,Ciprofloxacin,East Midlands,2025-11-01,19.41575
+113,E-coli,Ciprofloxacin,East Midlands,2025-12-01,19.496809
+114,E-coli,Ciprofloxacin,East of England,2025-07-01,16.357779
+115,E-coli,Ciprofloxacin,East of England,2025-08-01,16.603373
+116,E-coli,Ciprofloxacin,East of England,2025-09-01,17.187737
+117,E-coli,Ciprofloxacin,East of England,2025-10-01,17.706923
+118,E-coli,Ciprofloxacin,East of England,2025-11-01,18.22474
+119,E-coli,Ciprofloxacin,East of England,2025-12-01,18.77342
+120,E-coli,Ciprofloxacin,London,2025-07-01,28.698715
+121,E-coli,Ciprofloxacin,London,2025-08-01,28.23566
+122,E-coli,Ciprofloxacin,London,2025-09-01,27.900013
+123,E-coli,Ciprofloxacin,London,2025-10-01,27.827414
+124,E-coli,Ciprofloxacin,London,2025-11-01,27.987099
+125,E-coli,Ciprofloxacin,London,2025-12-01,28.838614
+126,E-coli,Ciprofloxacin,North East,2025-07-01,11.706578
+127,E-coli,Ciprofloxacin,North East,2025-08-01,11.753461
+128,E-coli,Ciprofloxacin,North East,2025-09-01,12.178932
+129,E-coli,Ciprofloxacin,North East,2025-10-01,12.081306
+130,E-coli,Ciprofloxacin,North East,2025-11-01,12.052922
+131,E-coli,Ciprofloxacin,North East,2025-12-01,11.985834
+132,E-coli,Ciprofloxacin,North West,2025-07-01,21.684547
+133,E-coli,Ciprofloxacin,North West,2025-08-01,20.768799
+134,E-coli,Ciprofloxacin,North West,2025-09-01,20.552488
+135,E-coli,Ciprofloxacin,North West,2025-10-01,20.612637
+136,E-coli,Ciprofloxacin,North West,2025-11-01,20.826069
+137,E-coli,Ciprofloxacin,North West,2025-12-01,20.63696
+138,E-coli,Ciprofloxacin,South East,2025-07-01,17.034592
+139,E-coli,Ciprofloxacin,South East,2025-08-01,16.922571
+140,E-coli,Ciprofloxacin,South East,2025-09-01,16.985813
+141,E-coli,Ciprofloxacin,South East,2025-10-01,17.068026
+142,E-coli,Ciprofloxacin,South East,2025-11-01,17.097641
+143,E-coli,Ciprofloxacin,South East,2025-12-01,17.111057
+144,E-coli,Ciprofloxacin,South West,2025-07-01,14.012522
+145,E-coli,Ciprofloxacin,South West,2025-08-01,14.273585
+146,E-coli,Ciprofloxacin,South West,2025-09-01,14.317913
+147,E-coli,Ciprofloxacin,South West,2025-10-01,14.54096
+148,E-coli,Ciprofloxacin,South West,2025-11-01,14.689633
+149,E-coli,Ciprofloxacin,South West,2025-12-01,14.611035
+150,E-coli,Ciprofloxacin,West Midlands,2025-07-01,21.779747
+151,E-coli,Ciprofloxacin,West Midlands,2025-08-01,21.771189
+152,E-coli,Ciprofloxacin,West Midlands,2025-09-01,22.247742
+153,E-coli,Ciprofloxacin,West Midlands,2025-10-01,22.475307
+154,E-coli,Ciprofloxacin,West Midlands,2025-11-01,22.719683
+155,E-coli,Ciprofloxacin,West Midlands,2025-12-01,23.69159
+156,E-coli,Ciprofloxacin,Yorkshire and Humber,2025-07-01,18.68804
+157,E-coli,Ciprofloxacin,Yorkshire and Humber,2025-08-01,18.303734
+158,E-coli,Ciprofloxacin,Yorkshire and Humber,2025-09-01,18.44812
+159,E-coli,Ciprofloxacin,Yorkshire and Humber,2025-10-01,18.622017
+160,E-coli,Ciprofloxacin,Yorkshire and Humber,2025-11-01,18.928259
+161,E-coli,Ciprofloxacin,Yorkshire and Humber,2025-12-01,19.061565
+162,E-coli,Co-amoxiclav,East Midlands,2025-07-01,42.895145
+163,E-coli,Co-amoxiclav,East Midlands,2025-08-01,42.09986
+164,E-coli,Co-amoxiclav,East Midlands,2025-09-01,41.925304
+165,E-coli,Co-amoxiclav,East Midlands,2025-10-01,41.24061
+166,E-coli,Co-amoxiclav,East Midlands,2025-11-01,40.768295
+167,E-coli,Co-amoxiclav,East Midlands,2025-12-01,41.138966
+168,E-coli,Co-amoxiclav,East of England,2025-07-01,39.64033
+169,E-coli,Co-amoxiclav,East of England,2025-08-01,40.654945
+170,E-coli,Co-amoxiclav,East of England,2025-09-01,41.729588
+171,E-coli,Co-amoxiclav,East of England,2025-10-01,42.729176
+172,E-coli,Co-amoxiclav,East of England,2025-11-01,43.289257
+173,E-coli,Co-amoxiclav,East of England,2025-12-01,43.5294
+174,E-coli,Co-amoxiclav,London,2025-07-01,44.24516
+175,E-coli,Co-amoxiclav,London,2025-08-01,44.665047
+176,E-coli,Co-amoxiclav,London,2025-09-01,44.40698
+177,E-coli,Co-amoxiclav,London,2025-10-01,44.632683
+178,E-coli,Co-amoxiclav,London,2025-11-01,43.959957
+179,E-coli,Co-amoxiclav,London,2025-12-01,44.567543
+180,E-coli,Co-amoxiclav,North East,2025-07-01,29.205376
+181,E-coli,Co-amoxiclav,North East,2025-08-01,28.091667
+182,E-coli,Co-amoxiclav,North East,2025-09-01,28.038034
+183,E-coli,Co-amoxiclav,North East,2025-10-01,28.14583
+184,E-coli,Co-amoxiclav,North East,2025-11-01,29.094
+185,E-coli,Co-amoxiclav,North East,2025-12-01,29.848127
+186,E-coli,Co-amoxiclav,North West,2025-07-01,46.451313
+187,E-coli,Co-amoxiclav,North West,2025-08-01,46.77636
+188,E-coli,Co-amoxiclav,North West,2025-09-01,46.7461
+189,E-coli,Co-amoxiclav,North West,2025-10-01,46.834602
+190,E-coli,Co-amoxiclav,North West,2025-11-01,46.674026
+191,E-coli,Co-amoxiclav,North West,2025-12-01,47.14506
+192,E-coli,Co-amoxiclav,South East,2025-07-01,42.22893
+193,E-coli,Co-amoxiclav,South East,2025-08-01,42.12193
+194,E-coli,Co-amoxiclav,South East,2025-09-01,42.13362
+195,E-coli,Co-amoxiclav,South East,2025-10-01,42.112
+196,E-coli,Co-amoxiclav,South East,2025-11-01,42.100872
+197,E-coli,Co-amoxiclav,South East,2025-12-01,42.33297
+198,E-coli,Co-amoxiclav,South West,2025-07-01,39.00159
+199,E-coli,Co-amoxiclav,South West,2025-08-01,39.689316
+200,E-coli,Co-amoxiclav,South West,2025-09-01,39.611526
+201,E-coli,Co-amoxiclav,South West,2025-10-01,39.578587
+202,E-coli,Co-amoxiclav,South West,2025-11-01,39.251457
+203,E-coli,Co-amoxiclav,South West,2025-12-01,39.688984
+204,E-coli,Co-amoxiclav,West Midlands,2025-07-01,47.943554
+205,E-coli,Co-amoxiclav,West Midlands,2025-08-01,47.753395
+206,E-coli,Co-amoxiclav,West Midlands,2025-09-01,47.70303
+207,E-coli,Co-amoxiclav,West Midlands,2025-10-01,47.572464
+208,E-coli,Co-amoxiclav,West Midlands,2025-11-01,47.67402
+209,E-coli,Co-amoxiclav,West Midlands,2025-12-01,48.03751
+210,E-coli,Co-amoxiclav,Yorkshire and Humber,2025-07-01,46.824802
+211,E-coli,Co-amoxiclav,Yorkshire and Humber,2025-08-01,46.275517
+212,E-coli,Co-amoxiclav,Yorkshire and Humber,2025-09-01,46.5889
+213,E-coli,Co-amoxiclav,Yorkshire and Humber,2025-10-01,46.67516
+214,E-coli,Co-amoxiclav,Yorkshire and Humber,2025-11-01,46.72222
+215,E-coli,Co-amoxiclav,Yorkshire and Humber,2025-12-01,47.063263
+216,E-coli,Gentamicin,East Midlands,2025-07-01,10.45238
+217,E-coli,Gentamicin,East Midlands,2025-08-01,10.633587
+218,E-coli,Gentamicin,East Midlands,2025-09-01,11.160128
+219,E-coli,Gentamicin,East Midlands,2025-10-01,11.301221
+220,E-coli,Gentamicin,East Midlands,2025-11-01,11.380563
+221,E-coli,Gentamicin,East Midlands,2025-12-01,11.575356
+222,E-coli,Gentamicin,East of England,2025-07-01,9.922455
+223,E-coli,Gentamicin,East of England,2025-08-01,9.620693
+224,E-coli,Gentamicin,East of England,2025-09-01,9.681953
+225,E-coli,Gentamicin,East of England,2025-10-01,9.470129
+226,E-coli,Gentamicin,East of England,2025-11-01,9.656737
+227,E-coli,Gentamicin,East of England,2025-12-01,9.801335
+228,E-coli,Gentamicin,London,2025-07-01,14.738466
+229,E-coli,Gentamicin,London,2025-08-01,14.953223
+230,E-coli,Gentamicin,London,2025-09-01,15.034351
+231,E-coli,Gentamicin,London,2025-10-01,15.094859
+232,E-coli,Gentamicin,London,2025-11-01,15.2591
+233,E-coli,Gentamicin,London,2025-12-01,15.3796625
+234,E-coli,Gentamicin,North East,2025-07-01,11.257577
+235,E-coli,Gentamicin,North East,2025-08-01,10.803941
+236,E-coli,Gentamicin,North East,2025-09-01,11.022342
+237,E-coli,Gentamicin,North East,2025-10-01,11.201896
+238,E-coli,Gentamicin,North East,2025-11-01,11.662047
+239,E-coli,Gentamicin,North East,2025-12-01,11.890825
+240,E-coli,Gentamicin,North West,2025-07-01,13.732398
+241,E-coli,Gentamicin,North West,2025-08-01,13.535573
+242,E-coli,Gentamicin,North West,2025-09-01,13.83958
+243,E-coli,Gentamicin,North West,2025-10-01,13.924172
+244,E-coli,Gentamicin,North West,2025-11-01,13.931676
+245,E-coli,Gentamicin,North West,2025-12-01,14.134564
+246,E-coli,Gentamicin,South East,2025-07-01,11.6674
+247,E-coli,Gentamicin,South East,2025-08-01,11.638929
+248,E-coli,Gentamicin,South East,2025-09-01,11.6820345
+249,E-coli,Gentamicin,South East,2025-10-01,11.7449875
+250,E-coli,Gentamicin,South East,2025-11-01,11.807646
+251,E-coli,Gentamicin,South East,2025-12-01,11.835285
+252,E-coli,Gentamicin,South West,2025-07-01,11.112703
+253,E-coli,Gentamicin,South West,2025-08-01,10.895193
+254,E-coli,Gentamicin,South West,2025-09-01,10.898131
+255,E-coli,Gentamicin,South West,2025-10-01,11.025193
+256,E-coli,Gentamicin,South West,2025-11-01,11.25419
+257,E-coli,Gentamicin,South West,2025-12-01,11.606209
+258,E-coli,Gentamicin,West Midlands,2025-07-01,12.43752
+259,E-coli,Gentamicin,West Midlands,2025-08-01,12.683526
+260,E-coli,Gentamicin,West Midlands,2025-09-01,12.564435
+261,E-coli,Gentamicin,West Midlands,2025-10-01,12.52344
+262,E-coli,Gentamicin,West Midlands,2025-11-01,12.335138
+263,E-coli,Gentamicin,West Midlands,2025-12-01,12.57438
+264,E-coli,Gentamicin,Yorkshire and Humber,2025-07-01,10.533339
+265,E-coli,Gentamicin,Yorkshire and Humber,2025-08-01,11.240422
+266,E-coli,Gentamicin,Yorkshire and Humber,2025-09-01,11.941158
+267,E-coli,Gentamicin,Yorkshire and Humber,2025-10-01,12.270742
+268,E-coli,Gentamicin,Yorkshire and Humber,2025-11-01,12.558814
+269,E-coli,Gentamicin,Yorkshire and Humber,2025-12-01,12.493488
+270,E-coli,Piperacillin with tazobactam,East Midlands,2025-07-01,11.632994
+271,E-coli,Piperacillin with tazobactam,East Midlands,2025-08-01,11.797021
+272,E-coli,Piperacillin with tazobactam,East Midlands,2025-09-01,12.086683
+273,E-coli,Piperacillin with tazobactam,East Midlands,2025-10-01,11.941615
+274,E-coli,Piperacillin with tazobactam,East Midlands,2025-11-01,11.921233
+275,E-coli,Piperacillin with tazobactam,East Midlands,2025-12-01,12.028388
+276,E-coli,Piperacillin with tazobactam,East of England,2025-07-01,13.354514
+277,E-coli,Piperacillin with tazobactam,East of England,2025-08-01,13.118848
+278,E-coli,Piperacillin with tazobactam,East of England,2025-09-01,12.916813
+279,E-coli,Piperacillin with tazobactam,East of England,2025-10-01,12.910586
+280,E-coli,Piperacillin with tazobactam,East of England,2025-11-01,12.931462
+281,E-coli,Piperacillin with tazobactam,East of England,2025-12-01,13.152779
+282,E-coli,Piperacillin with tazobactam,London,2025-07-01,13.498491
+283,E-coli,Piperacillin with tazobactam,London,2025-08-01,13.905307
+284,E-coli,Piperacillin with tazobactam,London,2025-09-01,14.464249
+285,E-coli,Piperacillin with tazobactam,London,2025-10-01,15.107697
+286,E-coli,Piperacillin with tazobactam,London,2025-11-01,15.653998
+287,E-coli,Piperacillin with tazobactam,London,2025-12-01,16.13657
+288,E-coli,Piperacillin with tazobactam,North East,2025-07-01,11.502977
+289,E-coli,Piperacillin with tazobactam,North East,2025-08-01,11.476661
+290,E-coli,Piperacillin with tazobactam,North East,2025-09-01,11.901905
+291,E-coli,Piperacillin with tazobactam,North East,2025-10-01,11.953341
+292,E-coli,Piperacillin with tazobactam,North East,2025-11-01,12.000863
+293,E-coli,Piperacillin with tazobactam,North East,2025-12-01,12.065299
+294,E-coli,Piperacillin with tazobactam,North West,2025-07-01,11.241806
+295,E-coli,Piperacillin with tazobactam,North West,2025-08-01,11.431782
+296,E-coli,Piperacillin with tazobactam,North West,2025-09-01,11.65374
+297,E-coli,Piperacillin with tazobactam,North West,2025-10-01,11.887236
+298,E-coli,Piperacillin with tazobactam,North West,2025-11-01,11.947096
+299,E-coli,Piperacillin with tazobactam,North West,2025-12-01,12.075919
+300,E-coli,Piperacillin with tazobactam,South East,2025-07-01,9.739716
+301,E-coli,Piperacillin with tazobactam,South East,2025-08-01,9.533045
+302,E-coli,Piperacillin with tazobactam,South East,2025-09-01,9.444252
+303,E-coli,Piperacillin with tazobactam,South East,2025-10-01,9.54022
+304,E-coli,Piperacillin with tazobactam,South East,2025-11-01,9.575408
+305,E-coli,Piperacillin with tazobactam,South East,2025-12-01,9.68335
+306,E-coli,Piperacillin with tazobactam,South West,2025-07-01,10.402924
+307,E-coli,Piperacillin with tazobactam,South West,2025-08-01,10.851649
+308,E-coli,Piperacillin with tazobactam,South West,2025-09-01,10.87024
+309,E-coli,Piperacillin with tazobactam,South West,2025-10-01,10.855288
+310,E-coli,Piperacillin with tazobactam,South West,2025-11-01,10.724115
+311,E-coli,Piperacillin with tazobactam,South West,2025-12-01,10.762023
+312,E-coli,Piperacillin with tazobactam,West Midlands,2025-07-01,14.994008
+313,E-coli,Piperacillin with tazobactam,West Midlands,2025-08-01,14.60752
+314,E-coli,Piperacillin with tazobactam,West Midlands,2025-09-01,15.021859
+315,E-coli,Piperacillin with tazobactam,West Midlands,2025-10-01,15.154716
+316,E-coli,Piperacillin with tazobactam,West Midlands,2025-11-01,15.347217
+317,E-coli,Piperacillin with tazobactam,West Midlands,2025-12-01,15.595703
+318,E-coli,Piperacillin with tazobactam,Yorkshire and Humber,2025-07-01,11.855959
+319,E-coli,Piperacillin with tazobactam,Yorkshire and Humber,2025-08-01,12.137746
+320,E-coli,Piperacillin with tazobactam,Yorkshire and Humber,2025-09-01,11.329348
+321,E-coli,Piperacillin with tazobactam,Yorkshire and Humber,2025-10-01,11.394755
+322,E-coli,Piperacillin with tazobactam,Yorkshire and Humber,2025-11-01,11.715318
+323,E-coli,Piperacillin with tazobactam,Yorkshire and Humber,2025-12-01,12.252682
+324,E-coli,Third Generation Cephalosporins,East Midlands,2025-07-01,16.851469
+325,E-coli,Third Generation Cephalosporins,East Midlands,2025-08-01,17.356838
+326,E-coli,Third Generation Cephalosporins,East Midlands,2025-09-01,17.544691
+327,E-coli,Third Generation Cephalosporins,East Midlands,2025-10-01,17.830206
+328,E-coli,Third Generation Cephalosporins,East Midlands,2025-11-01,17.848063
+329,E-coli,Third Generation Cephalosporins,East Midlands,2025-12-01,17.920053
+330,E-coli,Third Generation Cephalosporins,East of England,2025-07-01,16.135393
+331,E-coli,Third Generation Cephalosporins,East of England,2025-08-01,15.875754
+332,E-coli,Third Generation Cephalosporins,East of England,2025-09-01,16.096104
+333,E-coli,Third Generation Cephalosporins,East of England,2025-10-01,16.26573
+334,E-coli,Third Generation Cephalosporins,East of England,2025-11-01,16.319695
+335,E-coli,Third Generation Cephalosporins,East of England,2025-12-01,16.45519
+336,E-coli,Third Generation Cephalosporins,London,2025-07-01,27.40302
+337,E-coli,Third Generation Cephalosporins,London,2025-08-01,27.168259
+338,E-coli,Third Generation Cephalosporins,London,2025-09-01,27.093925
+339,E-coli,Third Generation Cephalosporins,London,2025-10-01,26.407856
+340,E-coli,Third Generation Cephalosporins,London,2025-11-01,26.576883
+341,E-coli,Third Generation Cephalosporins,London,2025-12-01,26.632164
+342,E-coli,Third Generation Cephalosporins,North East,2025-07-01,11.483015
+343,E-coli,Third Generation Cephalosporins,North East,2025-08-01,11.658161
+344,E-coli,Third Generation Cephalosporins,North East,2025-09-01,11.903712
+345,E-coli,Third Generation Cephalosporins,North East,2025-10-01,12.015132
+346,E-coli,Third Generation Cephalosporins,North East,2025-11-01,12.124508
+347,E-coli,Third Generation Cephalosporins,North East,2025-12-01,12.123939
+348,E-coli,Third Generation Cephalosporins,North West,2025-07-01,18.655016
+349,E-coli,Third Generation Cephalosporins,North West,2025-08-01,18.207684
+350,E-coli,Third Generation Cephalosporins,North West,2025-09-01,17.911777
+351,E-coli,Third Generation Cephalosporins,North West,2025-10-01,17.528244
+352,E-coli,Third Generation Cephalosporins,North West,2025-11-01,17.42443
+353,E-coli,Third Generation Cephalosporins,North West,2025-12-01,17.503925
+354,E-coli,Third Generation Cephalosporins,South East,2025-07-01,16.262407
+355,E-coli,Third Generation Cephalosporins,South East,2025-08-01,16.280048
+356,E-coli,Third Generation Cephalosporins,South East,2025-09-01,16.349003
+357,E-coli,Third Generation Cephalosporins,South East,2025-10-01,16.474606
+358,E-coli,Third Generation Cephalosporins,South East,2025-11-01,16.53644
+359,E-coli,Third Generation Cephalosporins,South East,2025-12-01,16.735767
+360,E-coli,Third Generation Cephalosporins,South West,2025-07-01,12.544514
+361,E-coli,Third Generation Cephalosporins,South West,2025-08-01,12.317762
+362,E-coli,Third Generation Cephalosporins,South West,2025-09-01,11.985599
+363,E-coli,Third Generation Cephalosporins,South West,2025-10-01,11.84091
+364,E-coli,Third Generation Cephalosporins,South West,2025-11-01,11.936633
+365,E-coli,Third Generation Cephalosporins,South West,2025-12-01,11.843299
+366,E-coli,Third Generation Cephalosporins,West Midlands,2025-07-01,17.092308
+367,E-coli,Third Generation Cephalosporins,West Midlands,2025-08-01,17.335403
+368,E-coli,Third Generation Cephalosporins,West Midlands,2025-09-01,17.681412
+369,E-coli,Third Generation Cephalosporins,West Midlands,2025-10-01,18.120398
+370,E-coli,Third Generation Cephalosporins,West Midlands,2025-11-01,18.531433
+371,E-coli,Third Generation Cephalosporins,West Midlands,2025-12-01,18.88202
+372,E-coli,Third Generation Cephalosporins,Yorkshire and Humber,2025-07-01,17.770315
+373,E-coli,Third Generation Cephalosporins,Yorkshire and Humber,2025-08-01,17.504148
+374,E-coli,Third Generation Cephalosporins,Yorkshire and Humber,2025-09-01,17.510735
+375,E-coli,Third Generation Cephalosporins,Yorkshire and Humber,2025-10-01,17.504065
+376,E-coli,Third Generation Cephalosporins,Yorkshire and Humber,2025-11-01,17.70162
+377,E-coli,Third Generation Cephalosporins,Yorkshire and Humber,2025-12-01,17.85232
+378,K-pneumoniae,Amikacin,East Midlands,2025-07-01,1.3277496
+379,K-pneumoniae,Amikacin,East Midlands,2025-08-01,1.4743806
+380,K-pneumoniae,Amikacin,East Midlands,2025-09-01,1.6835165
+381,K-pneumoniae,Amikacin,East Midlands,2025-10-01,1.8103609
+382,K-pneumoniae,Amikacin,East Midlands,2025-11-01,1.8317608
+383,K-pneumoniae,Amikacin,East Midlands,2025-12-01,1.844854
+384,K-pneumoniae,Amikacin,East of England,2025-07-01,3.488943
+385,K-pneumoniae,Amikacin,East of England,2025-08-01,3.4009585
+386,K-pneumoniae,Amikacin,East of England,2025-09-01,3.4962444
+387,K-pneumoniae,Amikacin,East of England,2025-10-01,3.4840107
+388,K-pneumoniae,Amikacin,East of England,2025-11-01,3.713923
+389,K-pneumoniae,Amikacin,East of England,2025-12-01,3.9153497
+390,K-pneumoniae,Amikacin,London,2025-07-01,2.9467478
+391,K-pneumoniae,Amikacin,London,2025-08-01,2.9077625
+392,K-pneumoniae,Amikacin,London,2025-09-01,3.3891273
+393,K-pneumoniae,Amikacin,London,2025-10-01,3.7836921
+394,K-pneumoniae,Amikacin,London,2025-11-01,4.121757
+395,K-pneumoniae,Amikacin,London,2025-12-01,4.132824
+396,K-pneumoniae,Amikacin,North East,2025-07-01,3.2340574
+397,K-pneumoniae,Amikacin,North East,2025-08-01,4.375581
+398,K-pneumoniae,Amikacin,North East,2025-09-01,4.2115893
+399,K-pneumoniae,Amikacin,North East,2025-10-01,4.1941595
+400,K-pneumoniae,Amikacin,North East,2025-11-01,4.101797
+401,K-pneumoniae,Amikacin,North East,2025-12-01,4.568059
+402,K-pneumoniae,Amikacin,North West,2025-07-01,4.396262
+403,K-pneumoniae,Amikacin,North West,2025-08-01,3.880837
+404,K-pneumoniae,Amikacin,North West,2025-09-01,3.444418
+405,K-pneumoniae,Amikacin,North West,2025-10-01,2.9852648
+406,K-pneumoniae,Amikacin,North West,2025-11-01,2.9491947
+407,K-pneumoniae,Amikacin,North West,2025-12-01,2.7315798
+408,K-pneumoniae,Amikacin,South East,2025-07-01,0.8809331
+409,K-pneumoniae,Amikacin,South East,2025-08-01,0.8260709
+410,K-pneumoniae,Amikacin,South East,2025-09-01,0.7560663
+411,K-pneumoniae,Amikacin,South East,2025-10-01,0.77318114
+412,K-pneumoniae,Amikacin,South East,2025-11-01,0.7470308
+413,K-pneumoniae,Amikacin,South East,2025-12-01,0.78085005
+414,K-pneumoniae,Amikacin,South West,2025-07-01,1.0098463
+415,K-pneumoniae,Amikacin,South West,2025-08-01,0.37570453
+416,K-pneumoniae,Amikacin,South West,2025-09-01,0.28227478
+417,K-pneumoniae,Amikacin,South West,2025-10-01,0.24303561
+418,K-pneumoniae,Amikacin,South West,2025-11-01,0.33947554
+419,K-pneumoniae,Amikacin,South West,2025-12-01,0.34015888
+420,K-pneumoniae,Amikacin,West Midlands,2025-07-01,0.68432623
+421,K-pneumoniae,Amikacin,West Midlands,2025-08-01,0.7713649
+422,K-pneumoniae,Amikacin,West Midlands,2025-09-01,1.1481626
+423,K-pneumoniae,Amikacin,West Midlands,2025-10-01,1.5837221
+424,K-pneumoniae,Amikacin,West Midlands,2025-11-01,1.8937362
+425,K-pneumoniae,Amikacin,West Midlands,2025-12-01,2.0167043
+426,K-pneumoniae,Amikacin,Yorkshire and Humber,2025-07-01,2.9663517
+427,K-pneumoniae,Amikacin,Yorkshire and Humber,2025-08-01,3.60629
+428,K-pneumoniae,Amikacin,Yorkshire and Humber,2025-09-01,5.429215
+429,K-pneumoniae,Amikacin,Yorkshire and Humber,2025-10-01,5.5777283
+430,K-pneumoniae,Amikacin,Yorkshire and Humber,2025-11-01,5.679619
+431,K-pneumoniae,Amikacin,Yorkshire and Humber,2025-12-01,5.97003
+432,K-pneumoniae,Carbapenems,East Midlands,2025-07-01,1.3861566
+433,K-pneumoniae,Carbapenems,East Midlands,2025-08-01,1.6354948
+434,K-pneumoniae,Carbapenems,East Midlands,2025-09-01,1.8347285
+435,K-pneumoniae,Carbapenems,East Midlands,2025-10-01,2.0357592
+436,K-pneumoniae,Carbapenems,East Midlands,2025-11-01,2.086396
+437,K-pneumoniae,Carbapenems,East Midlands,2025-12-01,2.106473
+438,K-pneumoniae,Carbapenems,East of England,2025-07-01,1.0302095
+439,K-pneumoniae,Carbapenems,East of England,2025-08-01,1.2100658
+440,K-pneumoniae,Carbapenems,East of England,2025-09-01,1.5815467
+441,K-pneumoniae,Carbapenems,East of England,2025-10-01,1.9372509
+442,K-pneumoniae,Carbapenems,East of England,2025-11-01,2.012845
+443,K-pneumoniae,Carbapenems,East of England,2025-12-01,2.0545895
+444,K-pneumoniae,Carbapenems,London,2025-07-01,3.3521705
+445,K-pneumoniae,Carbapenems,London,2025-08-01,3.0273259
+446,K-pneumoniae,Carbapenems,London,2025-09-01,3.0763412
+447,K-pneumoniae,Carbapenems,London,2025-10-01,2.9653265
+448,K-pneumoniae,Carbapenems,London,2025-11-01,2.979329
+449,K-pneumoniae,Carbapenems,London,2025-12-01,2.8779233
+450,K-pneumoniae,Carbapenems,North East,2025-07-01,1.8170143
+451,K-pneumoniae,Carbapenems,North East,2025-08-01,1.4696863
+452,K-pneumoniae,Carbapenems,North East,2025-09-01,1.1547933
+453,K-pneumoniae,Carbapenems,North East,2025-10-01,1.2534542
+454,K-pneumoniae,Carbapenems,North East,2025-11-01,1.3311093
+455,K-pneumoniae,Carbapenems,North East,2025-12-01,1.3829089
+456,K-pneumoniae,Carbapenems,North West,2025-07-01,2.1461973
+457,K-pneumoniae,Carbapenems,North West,2025-08-01,1.8112222
+458,K-pneumoniae,Carbapenems,North West,2025-09-01,1.5434535
+459,K-pneumoniae,Carbapenems,North West,2025-10-01,1.5938016
+460,K-pneumoniae,Carbapenems,North West,2025-11-01,1.5307934
+461,K-pneumoniae,Carbapenems,North West,2025-12-01,1.5995141
+462,K-pneumoniae,Carbapenems,South East,2025-07-01,0.3615762
+463,K-pneumoniae,Carbapenems,South East,2025-08-01,0.46394917
+464,K-pneumoniae,Carbapenems,South East,2025-09-01,0.49406847
+465,K-pneumoniae,Carbapenems,South East,2025-10-01,0.4281273
+466,K-pneumoniae,Carbapenems,South East,2025-11-01,0.40811935
+467,K-pneumoniae,Carbapenems,South East,2025-12-01,0.40170705
+468,K-pneumoniae,Carbapenems,South West,2025-07-01,0.15001889
+469,K-pneumoniae,Carbapenems,South West,2025-08-01,0.23437557
+470,K-pneumoniae,Carbapenems,South West,2025-09-01,0.25200295
+471,K-pneumoniae,Carbapenems,South West,2025-10-01,0.28524297
+472,K-pneumoniae,Carbapenems,South West,2025-11-01,0.27359062
+473,K-pneumoniae,Carbapenems,South West,2025-12-01,0.20847951
+474,K-pneumoniae,Carbapenems,West Midlands,2025-07-01,1.1561207
+475,K-pneumoniae,Carbapenems,West Midlands,2025-08-01,1.6024109
+476,K-pneumoniae,Carbapenems,West Midlands,2025-09-01,1.9207075
+477,K-pneumoniae,Carbapenems,West Midlands,2025-10-01,2.0953634
+478,K-pneumoniae,Carbapenems,West Midlands,2025-11-01,2.0255694
+479,K-pneumoniae,Carbapenems,West Midlands,2025-12-01,2.0106447
+480,K-pneumoniae,Carbapenems,Yorkshire and Humber,2025-07-01,0.52953124
+481,K-pneumoniae,Carbapenems,Yorkshire and Humber,2025-08-01,0.4224871
+482,K-pneumoniae,Carbapenems,Yorkshire and Humber,2025-09-01,0.42138267
+483,K-pneumoniae,Carbapenems,Yorkshire and Humber,2025-10-01,0.40543157
+484,K-pneumoniae,Carbapenems,Yorkshire and Humber,2025-11-01,0.42870027
+485,K-pneumoniae,Carbapenems,Yorkshire and Humber,2025-12-01,0.4741213
+486,K-pneumoniae,Ciprofloxacin,East Midlands,2025-07-01,12.654959
+487,K-pneumoniae,Ciprofloxacin,East Midlands,2025-08-01,14.338635
+488,K-pneumoniae,Ciprofloxacin,East Midlands,2025-09-01,14.630476
+489,K-pneumoniae,Ciprofloxacin,East Midlands,2025-10-01,14.709754
+490,K-pneumoniae,Ciprofloxacin,East Midlands,2025-11-01,15.475238
+491,K-pneumoniae,Ciprofloxacin,East Midlands,2025-12-01,16.194212
+492,K-pneumoniae,Ciprofloxacin,East of England,2025-07-01,21.302315
+493,K-pneumoniae,Ciprofloxacin,East of England,2025-08-01,21.570597
+494,K-pneumoniae,Ciprofloxacin,East of England,2025-09-01,21.715733
+495,K-pneumoniae,Ciprofloxacin,East of England,2025-10-01,21.193602
+496,K-pneumoniae,Ciprofloxacin,East of England,2025-11-01,20.861233
+497,K-pneumoniae,Ciprofloxacin,East of England,2025-12-01,21.231838
+498,K-pneumoniae,Ciprofloxacin,London,2025-07-01,21.796158
+499,K-pneumoniae,Ciprofloxacin,London,2025-08-01,22.780806
+500,K-pneumoniae,Ciprofloxacin,London,2025-09-01,24.442184
+501,K-pneumoniae,Ciprofloxacin,London,2025-10-01,24.861078
+502,K-pneumoniae,Ciprofloxacin,London,2025-11-01,25.418346
+503,K-pneumoniae,Ciprofloxacin,London,2025-12-01,25.50726
+504,K-pneumoniae,Ciprofloxacin,North East,2025-07-01,20.829292
+505,K-pneumoniae,Ciprofloxacin,North East,2025-08-01,20.22089
+506,K-pneumoniae,Ciprofloxacin,North East,2025-09-01,19.621767
+507,K-pneumoniae,Ciprofloxacin,North East,2025-10-01,19.87961
+508,K-pneumoniae,Ciprofloxacin,North East,2025-11-01,19.980108
+509,K-pneumoniae,Ciprofloxacin,North East,2025-12-01,19.858332
+510,K-pneumoniae,Ciprofloxacin,North West,2025-07-01,21.09372
+511,K-pneumoniae,Ciprofloxacin,North West,2025-08-01,19.175762
+512,K-pneumoniae,Ciprofloxacin,North West,2025-09-01,18.705572
+513,K-pneumoniae,Ciprofloxacin,North West,2025-10-01,18.705387
+514,K-pneumoniae,Ciprofloxacin,North West,2025-11-01,18.581917
+515,K-pneumoniae,Ciprofloxacin,North West,2025-12-01,18.953905
+516,K-pneumoniae,Ciprofloxacin,South East,2025-07-01,11.378921
+517,K-pneumoniae,Ciprofloxacin,South East,2025-08-01,11.327749
+518,K-pneumoniae,Ciprofloxacin,South East,2025-09-01,11.383954
+519,K-pneumoniae,Ciprofloxacin,South East,2025-10-01,11.334475
+520,K-pneumoniae,Ciprofloxacin,South East,2025-11-01,11.355238
+521,K-pneumoniae,Ciprofloxacin,South East,2025-12-01,11.36891
+522,K-pneumoniae,Ciprofloxacin,South West,2025-07-01,15.199783
+523,K-pneumoniae,Ciprofloxacin,South West,2025-08-01,14.526878
+524,K-pneumoniae,Ciprofloxacin,South West,2025-09-01,14.605942
+525,K-pneumoniae,Ciprofloxacin,South West,2025-10-01,14.761481
+526,K-pneumoniae,Ciprofloxacin,South West,2025-11-01,15.078474
+527,K-pneumoniae,Ciprofloxacin,South West,2025-12-01,15.355112
+528,K-pneumoniae,Ciprofloxacin,West Midlands,2025-07-01,13.748776
+529,K-pneumoniae,Ciprofloxacin,West Midlands,2025-08-01,15.10644
+530,K-pneumoniae,Ciprofloxacin,West Midlands,2025-09-01,15.717522
+531,K-pneumoniae,Ciprofloxacin,West Midlands,2025-10-01,16.176142
+532,K-pneumoniae,Ciprofloxacin,West Midlands,2025-11-01,16.361774
+533,K-pneumoniae,Ciprofloxacin,West Midlands,2025-12-01,16.250664
+534,K-pneumoniae,Ciprofloxacin,Yorkshire and Humber,2025-07-01,19.963547
+535,K-pneumoniae,Ciprofloxacin,Yorkshire and Humber,2025-08-01,18.757608
+536,K-pneumoniae,Ciprofloxacin,Yorkshire and Humber,2025-09-01,19.235098
+537,K-pneumoniae,Ciprofloxacin,Yorkshire and Humber,2025-10-01,19.257172
+538,K-pneumoniae,Ciprofloxacin,Yorkshire and Humber,2025-11-01,19.80836
+539,K-pneumoniae,Ciprofloxacin,Yorkshire and Humber,2025-12-01,19.678774
+540,K-pneumoniae,Co-amoxiclav,East Midlands,2025-07-01,26.251642
+541,K-pneumoniae,Co-amoxiclav,East Midlands,2025-08-01,26.860525
+542,K-pneumoniae,Co-amoxiclav,East Midlands,2025-09-01,28.76832
+543,K-pneumoniae,Co-amoxiclav,East Midlands,2025-10-01,29.130995
+544,K-pneumoniae,Co-amoxiclav,East Midlands,2025-11-01,29.554274
+545,K-pneumoniae,Co-amoxiclav,East Midlands,2025-12-01,29.996136
+546,K-pneumoniae,Co-amoxiclav,East of England,2025-07-01,33.91288
+547,K-pneumoniae,Co-amoxiclav,East of England,2025-08-01,34.302933
+548,K-pneumoniae,Co-amoxiclav,East of England,2025-09-01,33.905666
+549,K-pneumoniae,Co-amoxiclav,East of England,2025-10-01,34.02776
+550,K-pneumoniae,Co-amoxiclav,East of England,2025-11-01,34.642082
+551,K-pneumoniae,Co-amoxiclav,East of England,2025-12-01,35.321426
+552,K-pneumoniae,Co-amoxiclav,London,2025-07-01,31.803848
+553,K-pneumoniae,Co-amoxiclav,London,2025-08-01,33.343647
+554,K-pneumoniae,Co-amoxiclav,London,2025-09-01,35.497364
+555,K-pneumoniae,Co-amoxiclav,London,2025-10-01,34.592686
+556,K-pneumoniae,Co-amoxiclav,London,2025-11-01,34.341164
+557,K-pneumoniae,Co-amoxiclav,London,2025-12-01,35.21208
+558,K-pneumoniae,Co-amoxiclav,North East,2025-07-01,30.675255
+559,K-pneumoniae,Co-amoxiclav,North East,2025-08-01,30.785099
+560,K-pneumoniae,Co-amoxiclav,North East,2025-09-01,33.93733
+561,K-pneumoniae,Co-amoxiclav,North East,2025-10-01,35.046524
+562,K-pneumoniae,Co-amoxiclav,North East,2025-11-01,35.44065
+563,K-pneumoniae,Co-amoxiclav,North East,2025-12-01,35.116386
+564,K-pneumoniae,Co-amoxiclav,North West,2025-07-01,42.05846
+565,K-pneumoniae,Co-amoxiclav,North West,2025-08-01,41.16813
+566,K-pneumoniae,Co-amoxiclav,North West,2025-09-01,40.127213
+567,K-pneumoniae,Co-amoxiclav,North West,2025-10-01,39.923584
+568,K-pneumoniae,Co-amoxiclav,North West,2025-11-01,39.760746
+569,K-pneumoniae,Co-amoxiclav,North West,2025-12-01,40.153595
+570,K-pneumoniae,Co-amoxiclav,South East,2025-07-01,34.087402
+571,K-pneumoniae,Co-amoxiclav,South East,2025-08-01,34.655464
+572,K-pneumoniae,Co-amoxiclav,South East,2025-09-01,35.24596
+573,K-pneumoniae,Co-amoxiclav,South East,2025-10-01,35.33972
+574,K-pneumoniae,Co-amoxiclav,South East,2025-11-01,35.449516
+575,K-pneumoniae,Co-amoxiclav,South East,2025-12-01,35.259026
+576,K-pneumoniae,Co-amoxiclav,South West,2025-07-01,25.13685
+577,K-pneumoniae,Co-amoxiclav,South West,2025-08-01,22.426828
+578,K-pneumoniae,Co-amoxiclav,South West,2025-09-01,23.232363
+579,K-pneumoniae,Co-amoxiclav,South West,2025-10-01,23.34429
+580,K-pneumoniae,Co-amoxiclav,South West,2025-11-01,25.634861
+581,K-pneumoniae,Co-amoxiclav,South West,2025-12-01,25.852886
+582,K-pneumoniae,Co-amoxiclav,West Midlands,2025-07-01,21.912136
+583,K-pneumoniae,Co-amoxiclav,West Midlands,2025-08-01,23.050974
+584,K-pneumoniae,Co-amoxiclav,West Midlands,2025-09-01,23.637512
+585,K-pneumoniae,Co-amoxiclav,West Midlands,2025-10-01,24.077738
+586,K-pneumoniae,Co-amoxiclav,West Midlands,2025-11-01,24.662527
+587,K-pneumoniae,Co-amoxiclav,West Midlands,2025-12-01,25.61298
+588,K-pneumoniae,Co-amoxiclav,Yorkshire and Humber,2025-07-01,31.359392
+589,K-pneumoniae,Co-amoxiclav,Yorkshire and Humber,2025-08-01,31.379099
+590,K-pneumoniae,Co-amoxiclav,Yorkshire and Humber,2025-09-01,32.22113
+591,K-pneumoniae,Co-amoxiclav,Yorkshire and Humber,2025-10-01,32.680244
+592,K-pneumoniae,Co-amoxiclav,Yorkshire and Humber,2025-11-01,32.66518
+593,K-pneumoniae,Co-amoxiclav,Yorkshire and Humber,2025-12-01,32.62516
+594,K-pneumoniae,Gentamicin,East Midlands,2025-07-01,6.6308126
+595,K-pneumoniae,Gentamicin,East Midlands,2025-08-01,7.8455944
+596,K-pneumoniae,Gentamicin,East Midlands,2025-09-01,8.159171
+597,K-pneumoniae,Gentamicin,East Midlands,2025-10-01,8.641025
+598,K-pneumoniae,Gentamicin,East Midlands,2025-11-01,8.508397
+599,K-pneumoniae,Gentamicin,East Midlands,2025-12-01,8.999731
+600,K-pneumoniae,Gentamicin,East of England,2025-07-01,13.162708
+601,K-pneumoniae,Gentamicin,East of England,2025-08-01,13.413474
+602,K-pneumoniae,Gentamicin,East of England,2025-09-01,14.577877
+603,K-pneumoniae,Gentamicin,East of England,2025-10-01,15.125805
+604,K-pneumoniae,Gentamicin,East of England,2025-11-01,15.706457
+605,K-pneumoniae,Gentamicin,East of England,2025-12-01,15.987685
+606,K-pneumoniae,Gentamicin,London,2025-07-01,13.868693
+607,K-pneumoniae,Gentamicin,London,2025-08-01,15.3870945
+608,K-pneumoniae,Gentamicin,London,2025-09-01,17.220165
+609,K-pneumoniae,Gentamicin,London,2025-10-01,17.555794
+610,K-pneumoniae,Gentamicin,London,2025-11-01,18.00049
+611,K-pneumoniae,Gentamicin,London,2025-12-01,17.978855
+612,K-pneumoniae,Gentamicin,North East,2025-07-01,13.848784
+613,K-pneumoniae,Gentamicin,North East,2025-08-01,14.501126
+614,K-pneumoniae,Gentamicin,North East,2025-09-01,14.985339
+615,K-pneumoniae,Gentamicin,North East,2025-10-01,15.881214
+616,K-pneumoniae,Gentamicin,North East,2025-11-01,16.24782
+617,K-pneumoniae,Gentamicin,North East,2025-12-01,16.39523
+618,K-pneumoniae,Gentamicin,North West,2025-07-01,10.232112
+619,K-pneumoniae,Gentamicin,North West,2025-08-01,10.027279
+620,K-pneumoniae,Gentamicin,North West,2025-09-01,10.384145
+621,K-pneumoniae,Gentamicin,North West,2025-10-01,10.407111
+622,K-pneumoniae,Gentamicin,North West,2025-11-01,10.514939
+623,K-pneumoniae,Gentamicin,North West,2025-12-01,10.617774
+624,K-pneumoniae,Gentamicin,South East,2025-07-01,7.2632465
+625,K-pneumoniae,Gentamicin,South East,2025-08-01,7.523735
+626,K-pneumoniae,Gentamicin,South East,2025-09-01,7.8755755
+627,K-pneumoniae,Gentamicin,South East,2025-10-01,8.033482
+628,K-pneumoniae,Gentamicin,South East,2025-11-01,8.22627
+629,K-pneumoniae,Gentamicin,South East,2025-12-01,8.31253
+630,K-pneumoniae,Gentamicin,South West,2025-07-01,7.3866906
+631,K-pneumoniae,Gentamicin,South West,2025-08-01,6.3125215
+632,K-pneumoniae,Gentamicin,South West,2025-09-01,8.387679
+633,K-pneumoniae,Gentamicin,South West,2025-10-01,8.798595
+634,K-pneumoniae,Gentamicin,South West,2025-11-01,9.248825
+635,K-pneumoniae,Gentamicin,South West,2025-12-01,9.337834
+636,K-pneumoniae,Gentamicin,West Midlands,2025-07-01,6.6136365
+637,K-pneumoniae,Gentamicin,West Midlands,2025-08-01,7.443378
+638,K-pneumoniae,Gentamicin,West Midlands,2025-09-01,8.349342
+639,K-pneumoniae,Gentamicin,West Midlands,2025-10-01,8.066976
+640,K-pneumoniae,Gentamicin,West Midlands,2025-11-01,8.036391
+641,K-pneumoniae,Gentamicin,West Midlands,2025-12-01,8.446016
+642,K-pneumoniae,Gentamicin,Yorkshire and Humber,2025-07-01,9.181095
+643,K-pneumoniae,Gentamicin,Yorkshire and Humber,2025-08-01,9.772363
+644,K-pneumoniae,Gentamicin,Yorkshire and Humber,2025-09-01,10.258364
+645,K-pneumoniae,Gentamicin,Yorkshire and Humber,2025-10-01,10.443962
+646,K-pneumoniae,Gentamicin,Yorkshire and Humber,2025-11-01,10.404697
+647,K-pneumoniae,Gentamicin,Yorkshire and Humber,2025-12-01,10.476624
+648,K-pneumoniae,Piperacillin with tazobactam,East Midlands,2025-07-01,17.80059
+649,K-pneumoniae,Piperacillin with tazobactam,East Midlands,2025-08-01,18.85235
+650,K-pneumoniae,Piperacillin with tazobactam,East Midlands,2025-09-01,19.38561
+651,K-pneumoniae,Piperacillin with tazobactam,East Midlands,2025-10-01,19.027952
+652,K-pneumoniae,Piperacillin with tazobactam,East Midlands,2025-11-01,19.048704
+653,K-pneumoniae,Piperacillin with tazobactam,East Midlands,2025-12-01,19.472101
+654,K-pneumoniae,Piperacillin with tazobactam,East of England,2025-07-01,27.077005
+655,K-pneumoniae,Piperacillin with tazobactam,East of England,2025-08-01,25.395473
+656,K-pneumoniae,Piperacillin with tazobactam,East of England,2025-09-01,26.508102
+657,K-pneumoniae,Piperacillin with tazobactam,East of England,2025-10-01,26.653399
+658,K-pneumoniae,Piperacillin with tazobactam,East of England,2025-11-01,28.343279
+659,K-pneumoniae,Piperacillin with tazobactam,East of England,2025-12-01,28.619923
+660,K-pneumoniae,Piperacillin with tazobactam,London,2025-07-01,24.737253
+661,K-pneumoniae,Piperacillin with tazobactam,London,2025-08-01,24.794235
+662,K-pneumoniae,Piperacillin with tazobactam,London,2025-09-01,26.87179
+663,K-pneumoniae,Piperacillin with tazobactam,London,2025-10-01,27.45967
+664,K-pneumoniae,Piperacillin with tazobactam,London,2025-11-01,28.321007
+665,K-pneumoniae,Piperacillin with tazobactam,London,2025-12-01,28.380922
+666,K-pneumoniae,Piperacillin with tazobactam,North East,2025-07-01,23.184616
+667,K-pneumoniae,Piperacillin with tazobactam,North East,2025-08-01,23.537436
+668,K-pneumoniae,Piperacillin with tazobactam,North East,2025-09-01,26.21625
+669,K-pneumoniae,Piperacillin with tazobactam,North East,2025-10-01,26.503822
+670,K-pneumoniae,Piperacillin with tazobactam,North East,2025-11-01,27.489336
+671,K-pneumoniae,Piperacillin with tazobactam,North East,2025-12-01,26.924158
+672,K-pneumoniae,Piperacillin with tazobactam,North West,2025-07-01,27.045176
+673,K-pneumoniae,Piperacillin with tazobactam,North West,2025-08-01,24.212835
+674,K-pneumoniae,Piperacillin with tazobactam,North West,2025-09-01,22.745457
+675,K-pneumoniae,Piperacillin with tazobactam,North West,2025-10-01,23.410458
+676,K-pneumoniae,Piperacillin with tazobactam,North West,2025-11-01,24.447851
+677,K-pneumoniae,Piperacillin with tazobactam,North West,2025-12-01,26.232235
+678,K-pneumoniae,Piperacillin with tazobactam,South East,2025-07-01,18.169619
+679,K-pneumoniae,Piperacillin with tazobactam,South East,2025-08-01,18.123137
+680,K-pneumoniae,Piperacillin with tazobactam,South East,2025-09-01,18.181116
+681,K-pneumoniae,Piperacillin with tazobactam,South East,2025-10-01,18.181505
+682,K-pneumoniae,Piperacillin with tazobactam,South East,2025-11-01,18.192743
+683,K-pneumoniae,Piperacillin with tazobactam,South East,2025-12-01,18.206757
+684,K-pneumoniae,Piperacillin with tazobactam,South West,2025-07-01,19.281982
+685,K-pneumoniae,Piperacillin with tazobactam,South West,2025-08-01,17.720688
+686,K-pneumoniae,Piperacillin with tazobactam,South West,2025-09-01,18.377125
+687,K-pneumoniae,Piperacillin with tazobactam,South West,2025-10-01,18.763906
+688,K-pneumoniae,Piperacillin with tazobactam,South West,2025-11-01,19.889183
+689,K-pneumoniae,Piperacillin with tazobactam,South West,2025-12-01,20.286612
+690,K-pneumoniae,Piperacillin with tazobactam,West Midlands,2025-07-01,21.040686
+691,K-pneumoniae,Piperacillin with tazobactam,West Midlands,2025-08-01,21.659933
+692,K-pneumoniae,Piperacillin with tazobactam,West Midlands,2025-09-01,22.503496
+693,K-pneumoniae,Piperacillin with tazobactam,West Midlands,2025-10-01,22.967583
+694,K-pneumoniae,Piperacillin with tazobactam,West Midlands,2025-11-01,23.677708
+695,K-pneumoniae,Piperacillin with tazobactam,West Midlands,2025-12-01,24.700071
+696,K-pneumoniae,Piperacillin with tazobactam,Yorkshire and Humber,2025-07-01,28.04778
+697,K-pneumoniae,Piperacillin with tazobactam,Yorkshire and Humber,2025-08-01,24.636635
+698,K-pneumoniae,Piperacillin with tazobactam,Yorkshire and Humber,2025-09-01,24.79654
+699,K-pneumoniae,Piperacillin with tazobactam,Yorkshire and Humber,2025-10-01,25.301165
+700,K-pneumoniae,Piperacillin with tazobactam,Yorkshire and Humber,2025-11-01,26.892584
+701,K-pneumoniae,Piperacillin with tazobactam,Yorkshire and Humber,2025-12-01,27.252916
+702,K-pneumoniae,Third Generation Cephalosporins,East Midlands,2025-07-01,15.286873
+703,K-pneumoniae,Third Generation Cephalosporins,East Midlands,2025-08-01,15.960391
+704,K-pneumoniae,Third Generation Cephalosporins,East Midlands,2025-09-01,16.275251
+705,K-pneumoniae,Third Generation Cephalosporins,East Midlands,2025-10-01,16.678755
+706,K-pneumoniae,Third Generation Cephalosporins,East Midlands,2025-11-01,16.891901
+707,K-pneumoniae,Third Generation Cephalosporins,East Midlands,2025-12-01,16.898329
+708,K-pneumoniae,Third Generation Cephalosporins,East of England,2025-07-01,20.136915
+709,K-pneumoniae,Third Generation Cephalosporins,East of England,2025-08-01,20.0658
+710,K-pneumoniae,Third Generation Cephalosporins,East of England,2025-09-01,20.03545
+711,K-pneumoniae,Third Generation Cephalosporins,East of England,2025-10-01,20.308737
+712,K-pneumoniae,Third Generation Cephalosporins,East of England,2025-11-01,20.187029
+713,K-pneumoniae,Third Generation Cephalosporins,East of England,2025-12-01,20.404839
+714,K-pneumoniae,Third Generation Cephalosporins,London,2025-07-01,23.652225
+715,K-pneumoniae,Third Generation Cephalosporins,London,2025-08-01,24.549868
+716,K-pneumoniae,Third Generation Cephalosporins,London,2025-09-01,25.034752
+717,K-pneumoniae,Third Generation Cephalosporins,London,2025-10-01,25.467245
+718,K-pneumoniae,Third Generation Cephalosporins,London,2025-11-01,25.418888
+719,K-pneumoniae,Third Generation Cephalosporins,London,2025-12-01,25.644686
+720,K-pneumoniae,Third Generation Cephalosporins,North East,2025-07-01,20.971243
+721,K-pneumoniae,Third Generation Cephalosporins,North East,2025-08-01,22.094374
+722,K-pneumoniae,Third Generation Cephalosporins,North East,2025-09-01,23.473793
+723,K-pneumoniae,Third Generation Cephalosporins,North East,2025-10-01,26.487682
+724,K-pneumoniae,Third Generation Cephalosporins,North East,2025-11-01,27.440992
+725,K-pneumoniae,Third Generation Cephalosporins,North East,2025-12-01,27.595863
+726,K-pneumoniae,Third Generation Cephalosporins,North West,2025-07-01,21.489914
+727,K-pneumoniae,Third Generation Cephalosporins,North West,2025-08-01,19.73293
+728,K-pneumoniae,Third Generation Cephalosporins,North West,2025-09-01,19.223139
+729,K-pneumoniae,Third Generation Cephalosporins,North West,2025-10-01,19.232458
+730,K-pneumoniae,Third Generation Cephalosporins,North West,2025-11-01,19.217035
+731,K-pneumoniae,Third Generation Cephalosporins,North West,2025-12-01,19.28593
+732,K-pneumoniae,Third Generation Cephalosporins,South East,2025-07-01,14.911977
+733,K-pneumoniae,Third Generation Cephalosporins,South East,2025-08-01,15.002602
+734,K-pneumoniae,Third Generation Cephalosporins,South East,2025-09-01,15.231264
+735,K-pneumoniae,Third Generation Cephalosporins,South East,2025-10-01,15.451488
+736,K-pneumoniae,Third Generation Cephalosporins,South East,2025-11-01,15.339518
+737,K-pneumoniae,Third Generation Cephalosporins,South East,2025-12-01,15.238099
+738,K-pneumoniae,Third Generation Cephalosporins,South West,2025-07-01,13.60996
+739,K-pneumoniae,Third Generation Cephalosporins,South West,2025-08-01,13.626229
+740,K-pneumoniae,Third Generation Cephalosporins,South West,2025-09-01,14.810446
+741,K-pneumoniae,Third Generation Cephalosporins,South West,2025-10-01,15.735262
+742,K-pneumoniae,Third Generation Cephalosporins,South West,2025-11-01,16.662025
+743,K-pneumoniae,Third Generation Cephalosporins,South West,2025-12-01,16.897655
+744,K-pneumoniae,Third Generation Cephalosporins,West Midlands,2025-07-01,10.373368
+745,K-pneumoniae,Third Generation Cephalosporins,West Midlands,2025-08-01,11.823687
+746,K-pneumoniae,Third Generation Cephalosporins,West Midlands,2025-09-01,12.603994
+747,K-pneumoniae,Third Generation Cephalosporins,West Midlands,2025-10-01,12.515748
+748,K-pneumoniae,Third Generation Cephalosporins,West Midlands,2025-11-01,12.441271
+749,K-pneumoniae,Third Generation Cephalosporins,West Midlands,2025-12-01,12.558291
+750,K-pneumoniae,Third Generation Cephalosporins,Yorkshire and Humber,2025-07-01,19.087717
+751,K-pneumoniae,Third Generation Cephalosporins,Yorkshire and Humber,2025-08-01,19.114405
+752,K-pneumoniae,Third Generation Cephalosporins,Yorkshire and Humber,2025-09-01,19.630753
+753,K-pneumoniae,Third Generation Cephalosporins,Yorkshire and Humber,2025-10-01,19.840574
+754,K-pneumoniae,Third Generation Cephalosporins,Yorkshire and Humber,2025-11-01,19.698067
+755,K-pneumoniae,Third Generation Cephalosporins,Yorkshire and Humber,2025-12-01,19.760498
+756,P-aeruginosa,Amikacin,East Midlands,2025-07-01,1.5010245
+757,P-aeruginosa,Amikacin,East Midlands,2025-08-01,1.6546462
+758,P-aeruginosa,Amikacin,East Midlands,2025-09-01,1.687629
+759,P-aeruginosa,Amikacin,East Midlands,2025-10-01,1.7476116
+760,P-aeruginosa,Amikacin,East Midlands,2025-11-01,1.7605715
+761,P-aeruginosa,Amikacin,East Midlands,2025-12-01,1.844203
+762,P-aeruginosa,Amikacin,East of England,2025-07-01,0.98880225
+763,P-aeruginosa,Amikacin,East of England,2025-08-01,0.887459
+764,P-aeruginosa,Amikacin,East of England,2025-09-01,0.7438842
+765,P-aeruginosa,Amikacin,East of England,2025-10-01,0.77998513
+766,P-aeruginosa,Amikacin,East of England,2025-11-01,0.7784962
+767,P-aeruginosa,Amikacin,East of England,2025-12-01,0.810654
+768,P-aeruginosa,Amikacin,London,2025-07-01,0.5897065
+769,P-aeruginosa,Amikacin,London,2025-08-01,0.6931492
+770,P-aeruginosa,Amikacin,London,2025-09-01,0.8142136
+771,P-aeruginosa,Amikacin,London,2025-10-01,0.7352068
+772,P-aeruginosa,Amikacin,London,2025-11-01,0.917732
+773,P-aeruginosa,Amikacin,London,2025-12-01,0.989968
+774,P-aeruginosa,Amikacin,North East,2025-07-01,0.23715083
+775,P-aeruginosa,Amikacin,North East,2025-08-01,0.46140152
+776,P-aeruginosa,Amikacin,North East,2025-09-01,0.60953647
+777,P-aeruginosa,Amikacin,North East,2025-10-01,0.6930072
+778,P-aeruginosa,Amikacin,North East,2025-11-01,0.60002524
+779,P-aeruginosa,Amikacin,North East,2025-12-01,0.509807
+780,P-aeruginosa,Amikacin,North West,2025-07-01,3.4101977
+781,P-aeruginosa,Amikacin,North West,2025-08-01,2.5915089
+782,P-aeruginosa,Amikacin,North West,2025-09-01,1.9700924
+783,P-aeruginosa,Amikacin,North West,2025-10-01,1.7466087
+784,P-aeruginosa,Amikacin,North West,2025-11-01,1.8354161
+785,P-aeruginosa,Amikacin,North West,2025-12-01,2.1531203
+786,P-aeruginosa,Amikacin,South East,2025-07-01,0.7022354
+787,P-aeruginosa,Amikacin,South East,2025-08-01,0.70487416
+788,P-aeruginosa,Amikacin,South East,2025-09-01,0.7145015
+789,P-aeruginosa,Amikacin,South East,2025-10-01,0.7437576
+790,P-aeruginosa,Amikacin,South East,2025-11-01,0.737914
+791,P-aeruginosa,Amikacin,South East,2025-12-01,0.7569311
+792,P-aeruginosa,Amikacin,South West,2025-07-01,0.67911834
+793,P-aeruginosa,Amikacin,South West,2025-08-01,0.808769
+794,P-aeruginosa,Amikacin,South West,2025-09-01,1.0074157
+795,P-aeruginosa,Amikacin,South West,2025-10-01,0.89520717
+796,P-aeruginosa,Amikacin,South West,2025-11-01,1.0637721
+797,P-aeruginosa,Amikacin,South West,2025-12-01,1.021337
+798,P-aeruginosa,Amikacin,West Midlands,2025-07-01,1.6832696
+799,P-aeruginosa,Amikacin,West Midlands,2025-08-01,1.696432
+800,P-aeruginosa,Amikacin,West Midlands,2025-09-01,2.0292456
+801,P-aeruginosa,Amikacin,West Midlands,2025-10-01,2.4261034
+802,P-aeruginosa,Amikacin,West Midlands,2025-11-01,2.353869
+803,P-aeruginosa,Amikacin,West Midlands,2025-12-01,2.2680318
+804,P-aeruginosa,Amikacin,Yorkshire and Humber,2025-07-01,0.1471906
+805,P-aeruginosa,Amikacin,Yorkshire and Humber,2025-08-01,0.1629941
+806,P-aeruginosa,Amikacin,Yorkshire and Humber,2025-09-01,0.17580397
+807,P-aeruginosa,Amikacin,Yorkshire and Humber,2025-10-01,0.19602284
+808,P-aeruginosa,Amikacin,Yorkshire and Humber,2025-11-01,0.19138308
+809,P-aeruginosa,Amikacin,Yorkshire and Humber,2025-12-01,0.20152596
+810,P-aeruginosa,Carbapenems,East Midlands,2025-07-01,6.4047546
+811,P-aeruginosa,Carbapenems,East Midlands,2025-08-01,5.7398076
+812,P-aeruginosa,Carbapenems,East Midlands,2025-09-01,6.0826406
+813,P-aeruginosa,Carbapenems,East Midlands,2025-10-01,5.8433647
+814,P-aeruginosa,Carbapenems,East Midlands,2025-11-01,6.3938875
+815,P-aeruginosa,Carbapenems,East Midlands,2025-12-01,6.576032
+816,P-aeruginosa,Carbapenems,East of England,2025-07-01,6.371195
+817,P-aeruginosa,Carbapenems,East of England,2025-08-01,6.4865913
+818,P-aeruginosa,Carbapenems,East of England,2025-09-01,6.5758324
+819,P-aeruginosa,Carbapenems,East of England,2025-10-01,6.950125
+820,P-aeruginosa,Carbapenems,East of England,2025-11-01,6.937333
+821,P-aeruginosa,Carbapenems,East of England,2025-12-01,7.048318
+822,P-aeruginosa,Carbapenems,London,2025-07-01,9.974151
+823,P-aeruginosa,Carbapenems,London,2025-08-01,10.202101
+824,P-aeruginosa,Carbapenems,London,2025-09-01,10.71331
+825,P-aeruginosa,Carbapenems,London,2025-10-01,10.5621605
+826,P-aeruginosa,Carbapenems,London,2025-11-01,10.4397135
+827,P-aeruginosa,Carbapenems,London,2025-12-01,10.663143
+828,P-aeruginosa,Carbapenems,North East,2025-07-01,3.842707
+829,P-aeruginosa,Carbapenems,North East,2025-08-01,5.252275
+830,P-aeruginosa,Carbapenems,North East,2025-09-01,5.226821
+831,P-aeruginosa,Carbapenems,North East,2025-10-01,5.946602
+832,P-aeruginosa,Carbapenems,North East,2025-11-01,5.9847736
+833,P-aeruginosa,Carbapenems,North East,2025-12-01,6.4003983
+834,P-aeruginosa,Carbapenems,North West,2025-07-01,9.338069
+835,P-aeruginosa,Carbapenems,North West,2025-08-01,8.323126
+836,P-aeruginosa,Carbapenems,North West,2025-09-01,7.5227
+837,P-aeruginosa,Carbapenems,North West,2025-10-01,7.7971387
+838,P-aeruginosa,Carbapenems,North West,2025-11-01,7.740814
+839,P-aeruginosa,Carbapenems,North West,2025-12-01,7.986831
+840,P-aeruginosa,Carbapenems,South East,2025-07-01,3.5685747
+841,P-aeruginosa,Carbapenems,South East,2025-08-01,3.1985703
+842,P-aeruginosa,Carbapenems,South East,2025-09-01,2.9939787
+843,P-aeruginosa,Carbapenems,South East,2025-10-01,2.785925
+844,P-aeruginosa,Carbapenems,South East,2025-11-01,2.8343565
+845,P-aeruginosa,Carbapenems,South East,2025-12-01,2.9602478
+846,P-aeruginosa,Carbapenems,South West,2025-07-01,6.9485936
+847,P-aeruginosa,Carbapenems,South West,2025-08-01,7.998322
+848,P-aeruginosa,Carbapenems,South West,2025-09-01,8.186405
+849,P-aeruginosa,Carbapenems,South West,2025-10-01,8.001254
+850,P-aeruginosa,Carbapenems,South West,2025-11-01,7.7077637
+851,P-aeruginosa,Carbapenems,South West,2025-12-01,7.446443
+852,P-aeruginosa,Carbapenems,West Midlands,2025-07-01,9.901762
+853,P-aeruginosa,Carbapenems,West Midlands,2025-08-01,7.839622
+854,P-aeruginosa,Carbapenems,West Midlands,2025-09-01,7.2270513
+855,P-aeruginosa,Carbapenems,West Midlands,2025-10-01,7.593386
+856,P-aeruginosa,Carbapenems,West Midlands,2025-11-01,8.271618
+857,P-aeruginosa,Carbapenems,West Midlands,2025-12-01,9.18125
+858,P-aeruginosa,Carbapenems,Yorkshire and Humber,2025-07-01,5.8381863
+859,P-aeruginosa,Carbapenems,Yorkshire and Humber,2025-08-01,6.2457833
+860,P-aeruginosa,Carbapenems,Yorkshire and Humber,2025-09-01,6.77301
+861,P-aeruginosa,Carbapenems,Yorkshire and Humber,2025-10-01,7.0904884
+862,P-aeruginosa,Carbapenems,Yorkshire and Humber,2025-11-01,7.168727
+863,P-aeruginosa,Carbapenems,Yorkshire and Humber,2025-12-01,7.279664
+864,P-aeruginosa,Ceftazidime,East Midlands,2025-07-01,7.6869917
+865,P-aeruginosa,Ceftazidime,East Midlands,2025-08-01,6.948787
+866,P-aeruginosa,Ceftazidime,East Midlands,2025-09-01,5.6368093
+867,P-aeruginosa,Ceftazidime,East Midlands,2025-10-01,5.710061
+868,P-aeruginosa,Ceftazidime,East Midlands,2025-11-01,6.577426
+869,P-aeruginosa,Ceftazidime,East Midlands,2025-12-01,7.1796317
+870,P-aeruginosa,Ceftazidime,East of England,2025-07-01,4.841582
+871,P-aeruginosa,Ceftazidime,East of England,2025-08-01,5.931921
+872,P-aeruginosa,Ceftazidime,East of England,2025-09-01,6.5080433
+873,P-aeruginosa,Ceftazidime,East of England,2025-10-01,7.287386
+874,P-aeruginosa,Ceftazidime,East of England,2025-11-01,7.5959945
+875,P-aeruginosa,Ceftazidime,East of England,2025-12-01,7.8495297
+876,P-aeruginosa,Ceftazidime,London,2025-07-01,7.0384927
+877,P-aeruginosa,Ceftazidime,London,2025-08-01,6.7223663
+878,P-aeruginosa,Ceftazidime,London,2025-09-01,7.053841
+879,P-aeruginosa,Ceftazidime,London,2025-10-01,7.2995405
+880,P-aeruginosa,Ceftazidime,London,2025-11-01,7.8104177
+881,P-aeruginosa,Ceftazidime,London,2025-12-01,8.036872
+882,P-aeruginosa,Ceftazidime,North East,2025-07-01,2.4304128
+883,P-aeruginosa,Ceftazidime,North East,2025-08-01,2.1682503
+884,P-aeruginosa,Ceftazidime,North East,2025-09-01,1.9827623
+885,P-aeruginosa,Ceftazidime,North East,2025-10-01,2.0536768
+886,P-aeruginosa,Ceftazidime,North East,2025-11-01,2.1428437
+887,P-aeruginosa,Ceftazidime,North East,2025-12-01,2.1292622
+888,P-aeruginosa,Ceftazidime,North West,2025-07-01,8.794289
+889,P-aeruginosa,Ceftazidime,North West,2025-08-01,8.838104
+890,P-aeruginosa,Ceftazidime,North West,2025-09-01,7.206758
+891,P-aeruginosa,Ceftazidime,North West,2025-10-01,7.074725
+892,P-aeruginosa,Ceftazidime,North West,2025-11-01,7.1663094
+893,P-aeruginosa,Ceftazidime,North West,2025-12-01,7.119139
+894,P-aeruginosa,Ceftazidime,South East,2025-07-01,3.447947
+895,P-aeruginosa,Ceftazidime,South East,2025-08-01,3.5884695
+896,P-aeruginosa,Ceftazidime,South East,2025-09-01,3.6334045
+897,P-aeruginosa,Ceftazidime,South East,2025-10-01,3.6072948
+898,P-aeruginosa,Ceftazidime,South East,2025-11-01,3.5301132
+899,P-aeruginosa,Ceftazidime,South East,2025-12-01,3.532817
+900,P-aeruginosa,Ceftazidime,South West,2025-07-01,2.7976725
+901,P-aeruginosa,Ceftazidime,South West,2025-08-01,3.3235092
+902,P-aeruginosa,Ceftazidime,South West,2025-09-01,4.759098
+903,P-aeruginosa,Ceftazidime,South West,2025-10-01,4.7660093
+904,P-aeruginosa,Ceftazidime,South West,2025-11-01,5.019313
+905,P-aeruginosa,Ceftazidime,South West,2025-12-01,4.522945
+906,P-aeruginosa,Ceftazidime,West Midlands,2025-07-01,11.782573
+907,P-aeruginosa,Ceftazidime,West Midlands,2025-08-01,8.636723
+908,P-aeruginosa,Ceftazidime,West Midlands,2025-09-01,6.8188214
+909,P-aeruginosa,Ceftazidime,West Midlands,2025-10-01,7.160309
+910,P-aeruginosa,Ceftazidime,West Midlands,2025-11-01,7.8054557
+911,P-aeruginosa,Ceftazidime,West Midlands,2025-12-01,8.081571
+912,P-aeruginosa,Ceftazidime,Yorkshire and Humber,2025-07-01,11.866893
+913,P-aeruginosa,Ceftazidime,Yorkshire and Humber,2025-08-01,8.171983
+914,P-aeruginosa,Ceftazidime,Yorkshire and Humber,2025-09-01,5.798785
+915,P-aeruginosa,Ceftazidime,Yorkshire and Humber,2025-10-01,5.2191825
+916,P-aeruginosa,Ceftazidime,Yorkshire and Humber,2025-11-01,5.881083
+917,P-aeruginosa,Ceftazidime,Yorkshire and Humber,2025-12-01,6.3904247
+918,P-aeruginosa,Ciprofloxacin,East Midlands,2025-07-01,10.507646
+919,P-aeruginosa,Ciprofloxacin,East Midlands,2025-08-01,9.974805
+920,P-aeruginosa,Ciprofloxacin,East Midlands,2025-09-01,9.452415
+921,P-aeruginosa,Ciprofloxacin,East Midlands,2025-10-01,9.716795
+922,P-aeruginosa,Ciprofloxacin,East Midlands,2025-11-01,10.058274
+923,P-aeruginosa,Ciprofloxacin,East Midlands,2025-12-01,10.213279
+924,P-aeruginosa,Ciprofloxacin,East of England,2025-07-01,7.243797
+925,P-aeruginosa,Ciprofloxacin,East of England,2025-08-01,7.49331
+926,P-aeruginosa,Ciprofloxacin,East of England,2025-09-01,9.100145
+927,P-aeruginosa,Ciprofloxacin,East of England,2025-10-01,9.422532
+928,P-aeruginosa,Ciprofloxacin,East of England,2025-11-01,9.45561
+929,P-aeruginosa,Ciprofloxacin,East of England,2025-12-01,9.313229
+930,P-aeruginosa,Ciprofloxacin,London,2025-07-01,5.5334725
+931,P-aeruginosa,Ciprofloxacin,London,2025-08-01,6.3951597
+932,P-aeruginosa,Ciprofloxacin,London,2025-09-01,6.03018
+933,P-aeruginosa,Ciprofloxacin,London,2025-10-01,6.351554
+934,P-aeruginosa,Ciprofloxacin,London,2025-11-01,6.2912283
+935,P-aeruginosa,Ciprofloxacin,London,2025-12-01,6.4737515
+936,P-aeruginosa,Ciprofloxacin,North East,2025-07-01,5.4618173
+937,P-aeruginosa,Ciprofloxacin,North East,2025-08-01,5.860772
+938,P-aeruginosa,Ciprofloxacin,North East,2025-09-01,5.2945795
+939,P-aeruginosa,Ciprofloxacin,North East,2025-10-01,5.605907
+940,P-aeruginosa,Ciprofloxacin,North East,2025-11-01,6.0310297
+941,P-aeruginosa,Ciprofloxacin,North East,2025-12-01,7.159334
+942,P-aeruginosa,Ciprofloxacin,North West,2025-07-01,8.3327
+943,P-aeruginosa,Ciprofloxacin,North West,2025-08-01,8.53367
+944,P-aeruginosa,Ciprofloxacin,North West,2025-09-01,8.476754
+945,P-aeruginosa,Ciprofloxacin,North West,2025-10-01,8.672825
+946,P-aeruginosa,Ciprofloxacin,North West,2025-11-01,8.729155
+947,P-aeruginosa,Ciprofloxacin,North West,2025-12-01,8.956794
+948,P-aeruginosa,Ciprofloxacin,South East,2025-07-01,8.074285
+949,P-aeruginosa,Ciprofloxacin,South East,2025-08-01,8.231065
+950,P-aeruginosa,Ciprofloxacin,South East,2025-09-01,8.418164
+951,P-aeruginosa,Ciprofloxacin,South East,2025-10-01,8.657728
+952,P-aeruginosa,Ciprofloxacin,South East,2025-11-01,8.689883
+953,P-aeruginosa,Ciprofloxacin,South East,2025-12-01,8.705898
+954,P-aeruginosa,Ciprofloxacin,South West,2025-07-01,4.7043505
+955,P-aeruginosa,Ciprofloxacin,South West,2025-08-01,5.2092233
+956,P-aeruginosa,Ciprofloxacin,South West,2025-09-01,6.9322934
+957,P-aeruginosa,Ciprofloxacin,South West,2025-10-01,7.3997884
+958,P-aeruginosa,Ciprofloxacin,South West,2025-11-01,7.4551377
+959,P-aeruginosa,Ciprofloxacin,South West,2025-12-01,7.320285
+960,P-aeruginosa,Ciprofloxacin,West Midlands,2025-07-01,14.107085
+961,P-aeruginosa,Ciprofloxacin,West Midlands,2025-08-01,11.640763
+962,P-aeruginosa,Ciprofloxacin,West Midlands,2025-09-01,8.373326
+963,P-aeruginosa,Ciprofloxacin,West Midlands,2025-10-01,8.801153
+964,P-aeruginosa,Ciprofloxacin,West Midlands,2025-11-01,9.358441
+965,P-aeruginosa,Ciprofloxacin,West Midlands,2025-12-01,11.048351
+966,P-aeruginosa,Ciprofloxacin,Yorkshire and Humber,2025-07-01,15.753614
+967,P-aeruginosa,Ciprofloxacin,Yorkshire and Humber,2025-08-01,16.13969
+968,P-aeruginosa,Ciprofloxacin,Yorkshire and Humber,2025-09-01,16.080435
+969,P-aeruginosa,Ciprofloxacin,Yorkshire and Humber,2025-10-01,16.154263
+970,P-aeruginosa,Ciprofloxacin,Yorkshire and Humber,2025-11-01,16.423105
+971,P-aeruginosa,Ciprofloxacin,Yorkshire and Humber,2025-12-01,16.648867
+972,P-aeruginosa,Piperacillin with tazobactam,East Midlands,2025-07-01,5.503271
+973,P-aeruginosa,Piperacillin with tazobactam,East Midlands,2025-08-01,5.8584294
+974,P-aeruginosa,Piperacillin with tazobactam,East Midlands,2025-09-01,6.1938386
+975,P-aeruginosa,Piperacillin with tazobactam,East Midlands,2025-10-01,5.916528
+976,P-aeruginosa,Piperacillin with tazobactam,East Midlands,2025-11-01,6.1024613
+977,P-aeruginosa,Piperacillin with tazobactam,East Midlands,2025-12-01,6.1323824
+978,P-aeruginosa,Piperacillin with tazobactam,East of England,2025-07-01,4.715987
+979,P-aeruginosa,Piperacillin with tazobactam,East of England,2025-08-01,5.750029
+980,P-aeruginosa,Piperacillin with tazobactam,East of England,2025-09-01,6.316193
+981,P-aeruginosa,Piperacillin with tazobactam,East of England,2025-10-01,7.3352904
+982,P-aeruginosa,Piperacillin with tazobactam,East of England,2025-11-01,7.4717307
+983,P-aeruginosa,Piperacillin with tazobactam,East of England,2025-12-01,7.649366
+984,P-aeruginosa,Piperacillin with tazobactam,London,2025-07-01,9.704365
+985,P-aeruginosa,Piperacillin with tazobactam,London,2025-08-01,9.264555
+986,P-aeruginosa,Piperacillin with tazobactam,London,2025-09-01,9.790986
+987,P-aeruginosa,Piperacillin with tazobactam,London,2025-10-01,9.802256
+988,P-aeruginosa,Piperacillin with tazobactam,London,2025-11-01,9.993401
+989,P-aeruginosa,Piperacillin with tazobactam,London,2025-12-01,10.368051
+990,P-aeruginosa,Piperacillin with tazobactam,North East,2025-07-01,2.4245083
+991,P-aeruginosa,Piperacillin with tazobactam,North East,2025-08-01,3.0160155
+992,P-aeruginosa,Piperacillin with tazobactam,North East,2025-09-01,3.6225195
+993,P-aeruginosa,Piperacillin with tazobactam,North East,2025-10-01,4.525014
+994,P-aeruginosa,Piperacillin with tazobactam,North East,2025-11-01,4.926958
+995,P-aeruginosa,Piperacillin with tazobactam,North East,2025-12-01,5.402417
+996,P-aeruginosa,Piperacillin with tazobactam,North West,2025-07-01,9.527086
+997,P-aeruginosa,Piperacillin with tazobactam,North West,2025-08-01,7.94403
+998,P-aeruginosa,Piperacillin with tazobactam,North West,2025-09-01,8.05147
+999,P-aeruginosa,Piperacillin with tazobactam,North West,2025-10-01,9.173578
+1000,P-aeruginosa,Piperacillin with tazobactam,North West,2025-11-01,9.626929
+1001,P-aeruginosa,Piperacillin with tazobactam,North West,2025-12-01,9.512624
+1002,P-aeruginosa,Piperacillin with tazobactam,South East,2025-07-01,5.939719
+1003,P-aeruginosa,Piperacillin with tazobactam,South East,2025-08-01,5.8393073
+1004,P-aeruginosa,Piperacillin with tazobactam,South East,2025-09-01,5.92029
+1005,P-aeruginosa,Piperacillin with tazobactam,South East,2025-10-01,5.894329
+1006,P-aeruginosa,Piperacillin with tazobactam,South East,2025-11-01,6.014511
+1007,P-aeruginosa,Piperacillin with tazobactam,South East,2025-12-01,5.9888997
+1008,P-aeruginosa,Piperacillin with tazobactam,South West,2025-07-01,3.8595176
+1009,P-aeruginosa,Piperacillin with tazobactam,South West,2025-08-01,5.5847974
+1010,P-aeruginosa,Piperacillin with tazobactam,South West,2025-09-01,6.485088
+1011,P-aeruginosa,Piperacillin with tazobactam,South West,2025-10-01,5.5409756
+1012,P-aeruginosa,Piperacillin with tazobactam,South West,2025-11-01,5.1079316
+1013,P-aeruginosa,Piperacillin with tazobactam,South West,2025-12-01,5.016981
+1014,P-aeruginosa,Piperacillin with tazobactam,West Midlands,2025-07-01,11.103012
+1015,P-aeruginosa,Piperacillin with tazobactam,West Midlands,2025-08-01,8.19324
+1016,P-aeruginosa,Piperacillin with tazobactam,West Midlands,2025-09-01,8.354463
+1017,P-aeruginosa,Piperacillin with tazobactam,West Midlands,2025-10-01,8.8015375
+1018,P-aeruginosa,Piperacillin with tazobactam,West Midlands,2025-11-01,10.344141
+1019,P-aeruginosa,Piperacillin with tazobactam,West Midlands,2025-12-01,10.835688
+1020,P-aeruginosa,Piperacillin with tazobactam,Yorkshire and Humber,2025-07-01,10.768374
+1021,P-aeruginosa,Piperacillin with tazobactam,Yorkshire and Humber,2025-08-01,10.734537
+1022,P-aeruginosa,Piperacillin with tazobactam,Yorkshire and Humber,2025-09-01,11.219694
+1023,P-aeruginosa,Piperacillin with tazobactam,Yorkshire and Humber,2025-10-01,11.29813
+1024,P-aeruginosa,Piperacillin with tazobactam,Yorkshire and Humber,2025-11-01,11.047432
+1025,P-aeruginosa,Piperacillin with tazobactam,Yorkshire and Humber,2025-12-01,11.015491
+1026,S-pneumoniae,Macrolides,East Midlands,2025-07-01,7.046395
+1027,S-pneumoniae,Macrolides,East Midlands,2025-08-01,7.5994625
+1028,S-pneumoniae,Macrolides,East Midlands,2025-09-01,7.2015204
+1029,S-pneumoniae,Macrolides,East Midlands,2025-10-01,7.2030754
+1030,S-pneumoniae,Macrolides,East Midlands,2025-11-01,7.016405
+1031,S-pneumoniae,Macrolides,East Midlands,2025-12-01,7.3052154
+1032,S-pneumoniae,Macrolides,East of England,2025-07-01,12.000178
+1033,S-pneumoniae,Macrolides,East of England,2025-08-01,11.50306
+1034,S-pneumoniae,Macrolides,East of England,2025-09-01,10.48698
+1035,S-pneumoniae,Macrolides,East of England,2025-10-01,10.29633
+1036,S-pneumoniae,Macrolides,East of England,2025-11-01,10.214569
+1037,S-pneumoniae,Macrolides,East of England,2025-12-01,10.41115
+1038,S-pneumoniae,Macrolides,London,2025-07-01,13.812859
+1039,S-pneumoniae,Macrolides,London,2025-08-01,14.435039
+1040,S-pneumoniae,Macrolides,London,2025-09-01,14.755679
+1041,S-pneumoniae,Macrolides,London,2025-10-01,15.059361
+1042,S-pneumoniae,Macrolides,London,2025-11-01,15.14563
+1043,S-pneumoniae,Macrolides,London,2025-12-01,15.161602
+1044,S-pneumoniae,Macrolides,North East,2025-07-01,7.597658
+1045,S-pneumoniae,Macrolides,North East,2025-08-01,6.2079062
+1046,S-pneumoniae,Macrolides,North East,2025-09-01,5.765591
+1047,S-pneumoniae,Macrolides,North East,2025-10-01,6.6431394
+1048,S-pneumoniae,Macrolides,North East,2025-11-01,7.3014226
+1049,S-pneumoniae,Macrolides,North East,2025-12-01,8.038053
+1050,S-pneumoniae,Macrolides,North West,2025-07-01,9.13579
+1051,S-pneumoniae,Macrolides,North West,2025-08-01,9.430321
+1052,S-pneumoniae,Macrolides,North West,2025-09-01,7.279933
+1053,S-pneumoniae,Macrolides,North West,2025-10-01,6.7624664
+1054,S-pneumoniae,Macrolides,North West,2025-11-01,6.516803
+1055,S-pneumoniae,Macrolides,North West,2025-12-01,7.023575
+1056,S-pneumoniae,Macrolides,South East,2025-07-01,5.6111474
+1057,S-pneumoniae,Macrolides,South East,2025-08-01,5.8174973
+1058,S-pneumoniae,Macrolides,South East,2025-09-01,6.275479
+1059,S-pneumoniae,Macrolides,South East,2025-10-01,6.3611736
+1060,S-pneumoniae,Macrolides,South East,2025-11-01,6.3580713
+1061,S-pneumoniae,Macrolides,South East,2025-12-01,6.127605
+1062,S-pneumoniae,Macrolides,South West,2025-07-01,6.617911
+1063,S-pneumoniae,Macrolides,South West,2025-08-01,6.5535965
+1064,S-pneumoniae,Macrolides,South West,2025-09-01,6.7477193
+1065,S-pneumoniae,Macrolides,South West,2025-10-01,6.8587666
+1066,S-pneumoniae,Macrolides,South West,2025-11-01,6.798029
+1067,S-pneumoniae,Macrolides,South West,2025-12-01,6.748704
+1068,S-pneumoniae,Macrolides,West Midlands,2025-07-01,8.62512
+1069,S-pneumoniae,Macrolides,West Midlands,2025-08-01,8.278624
+1070,S-pneumoniae,Macrolides,West Midlands,2025-09-01,7.2038484
+1071,S-pneumoniae,Macrolides,West Midlands,2025-10-01,6.733644
+1072,S-pneumoniae,Macrolides,West Midlands,2025-11-01,7.07379
+1073,S-pneumoniae,Macrolides,West Midlands,2025-12-01,7.5661073
+1074,S-pneumoniae,Macrolides,Yorkshire and Humber,2025-07-01,7.357089
+1075,S-pneumoniae,Macrolides,Yorkshire and Humber,2025-08-01,7.2599845
+1076,S-pneumoniae,Macrolides,Yorkshire and Humber,2025-09-01,5.69416
+1077,S-pneumoniae,Macrolides,Yorkshire and Humber,2025-10-01,5.719992
+1078,S-pneumoniae,Macrolides,Yorkshire and Humber,2025-11-01,5.946
+1079,S-pneumoniae,Macrolides,Yorkshire and Humber,2025-12-01,6.3298926
+1080,S-pneumoniae,Penicillin,East Midlands,2025-07-01,3.288562
+1081,S-pneumoniae,Penicillin,East Midlands,2025-08-01,2.6572604
+1082,S-pneumoniae,Penicillin,East Midlands,2025-09-01,2.1368635
+1083,S-pneumoniae,Penicillin,East Midlands,2025-10-01,1.6725352
+1084,S-pneumoniae,Penicillin,East Midlands,2025-11-01,1.5980945
+1085,S-pneumoniae,Penicillin,East Midlands,2025-12-01,1.7125599
+1086,S-pneumoniae,Penicillin,East of England,2025-07-01,5.248777
+1087,S-pneumoniae,Penicillin,East of England,2025-08-01,4.916004
+1088,S-pneumoniae,Penicillin,East of England,2025-09-01,4.4678984
+1089,S-pneumoniae,Penicillin,East of England,2025-10-01,4.1753
+1090,S-pneumoniae,Penicillin,East of England,2025-11-01,4.194032
+1091,S-pneumoniae,Penicillin,East of England,2025-12-01,4.365458
+1092,S-pneumoniae,Penicillin,London,2025-07-01,4.719999
+1093,S-pneumoniae,Penicillin,London,2025-08-01,4.948133
+1094,S-pneumoniae,Penicillin,London,2025-09-01,5.3679276
+1095,S-pneumoniae,Penicillin,London,2025-10-01,5.64882
+1096,S-pneumoniae,Penicillin,London,2025-11-01,5.512333
+1097,S-pneumoniae,Penicillin,London,2025-12-01,5.7627316
+1098,S-pneumoniae,Penicillin,North East,2025-07-01,4.134449
+1099,S-pneumoniae,Penicillin,North East,2025-08-01,4.86797
+1100,S-pneumoniae,Penicillin,North East,2025-09-01,3.5246224
+1101,S-pneumoniae,Penicillin,North East,2025-10-01,2.9600353
+1102,S-pneumoniae,Penicillin,North East,2025-11-01,2.2933218
+1103,S-pneumoniae,Penicillin,North East,2025-12-01,2.1114607
+1104,S-pneumoniae,Penicillin,North West,2025-07-01,1.8586583
+1105,S-pneumoniae,Penicillin,North West,2025-08-01,1.7659878
+1106,S-pneumoniae,Penicillin,North West,2025-09-01,1.4618801
+1107,S-pneumoniae,Penicillin,North West,2025-10-01,1.2157507
+1108,S-pneumoniae,Penicillin,North West,2025-11-01,1.1892192
+1109,S-pneumoniae,Penicillin,North West,2025-12-01,1.295107
+1110,S-pneumoniae,Penicillin,South East,2025-07-01,1.5421987
+1111,S-pneumoniae,Penicillin,South East,2025-08-01,1.8543586
+1112,S-pneumoniae,Penicillin,South East,2025-09-01,1.9414188
+1113,S-pneumoniae,Penicillin,South East,2025-10-01,2.0495362
+1114,S-pneumoniae,Penicillin,South East,2025-11-01,1.9159493
+1115,S-pneumoniae,Penicillin,South East,2025-12-01,1.8766228
+1116,S-pneumoniae,Penicillin,South West,2025-07-01,0.5945699
+1117,S-pneumoniae,Penicillin,South West,2025-08-01,0.48542982
+1118,S-pneumoniae,Penicillin,South West,2025-09-01,0.54511136
+1119,S-pneumoniae,Penicillin,South West,2025-10-01,0.69989216
+1120,S-pneumoniae,Penicillin,South West,2025-11-01,0.84268403
+1121,S-pneumoniae,Penicillin,South West,2025-12-01,0.8596934
+1122,S-pneumoniae,Penicillin,West Midlands,2025-07-01,2.4907596
+1123,S-pneumoniae,Penicillin,West Midlands,2025-08-01,2.0404415
+1124,S-pneumoniae,Penicillin,West Midlands,2025-09-01,2.206756
+1125,S-pneumoniae,Penicillin,West Midlands,2025-10-01,1.781801
+1126,S-pneumoniae,Penicillin,West Midlands,2025-11-01,1.8722887
+1127,S-pneumoniae,Penicillin,West Midlands,2025-12-01,1.7716947
+1128,S-pneumoniae,Penicillin,Yorkshire and Humber,2025-07-01,3.1865768
+1129,S-pneumoniae,Penicillin,Yorkshire and Humber,2025-08-01,3.5060105
+1130,S-pneumoniae,Penicillin,Yorkshire and Humber,2025-09-01,2.2492924
+1131,S-pneumoniae,Penicillin,Yorkshire and Humber,2025-10-01,1.6258843
+1132,S-pneumoniae,Penicillin,Yorkshire and Humber,2025-11-01,1.551078
+1133,S-pneumoniae,Penicillin,Yorkshire and Humber,2025-12-01,1.7181538
+1134,e-faecalis,Glycopeptides,East Midlands,2025-07-01,2.1180599
+1135,e-faecalis,Glycopeptides,East Midlands,2025-08-01,2.010166
+1136,e-faecalis,Glycopeptides,East Midlands,2025-09-01,3.2058535
+1137,e-faecalis,Glycopeptides,East Midlands,2025-10-01,4.014491
+1138,e-faecalis,Glycopeptides,East Midlands,2025-11-01,4.6553783
+1139,e-faecalis,Glycopeptides,East Midlands,2025-12-01,4.478172
+1140,e-faecalis,Glycopeptides,East of England,2025-07-01,5.6965985
+1141,e-faecalis,Glycopeptides,East of England,2025-08-01,4.106448
+1142,e-faecalis,Glycopeptides,East of England,2025-09-01,4.04332
+1143,e-faecalis,Glycopeptides,East of England,2025-10-01,3.6459541
+1144,e-faecalis,Glycopeptides,East of England,2025-11-01,3.9166114
+1145,e-faecalis,Glycopeptides,East of England,2025-12-01,4.152981
+1146,e-faecalis,Glycopeptides,London,2025-07-01,2.8223276
+1147,e-faecalis,Glycopeptides,London,2025-08-01,2.691189
+1148,e-faecalis,Glycopeptides,London,2025-09-01,2.188627
+1149,e-faecalis,Glycopeptides,London,2025-10-01,1.7260177
+1150,e-faecalis,Glycopeptides,London,2025-11-01,1.3620288
+1151,e-faecalis,Glycopeptides,London,2025-12-01,1.2724777
+1152,e-faecalis,Glycopeptides,North East,2025-07-01,0.19385542
+1153,e-faecalis,Glycopeptides,North East,2025-08-01,0.23703392
+1154,e-faecalis,Glycopeptides,North East,2025-09-01,0.43548068
+1155,e-faecalis,Glycopeptides,North East,2025-10-01,0.4523143
+1156,e-faecalis,Glycopeptides,North East,2025-11-01,0.4205179
+1157,e-faecalis,Glycopeptides,North East,2025-12-01,0.32342857
+1158,e-faecalis,Glycopeptides,North West,2025-07-01,2.0366294
+1159,e-faecalis,Glycopeptides,North West,2025-08-01,2.484091
+1160,e-faecalis,Glycopeptides,North West,2025-09-01,3.0177517
+1161,e-faecalis,Glycopeptides,North West,2025-10-01,3.53986
+1162,e-faecalis,Glycopeptides,North West,2025-11-01,3.620161
+1163,e-faecalis,Glycopeptides,North West,2025-12-01,3.8238294
+1164,e-faecalis,Glycopeptides,South East,2025-07-01,5.238631
+1165,e-faecalis,Glycopeptides,South East,2025-08-01,5.0874143
+1166,e-faecalis,Glycopeptides,South East,2025-09-01,4.983525
+1167,e-faecalis,Glycopeptides,South East,2025-10-01,4.9144745
+1168,e-faecalis,Glycopeptides,South East,2025-11-01,4.835646
+1169,e-faecalis,Glycopeptides,South East,2025-12-01,4.85049
+1170,e-faecalis,Glycopeptides,South West,2025-07-01,2.8915868
+1171,e-faecalis,Glycopeptides,South West,2025-08-01,3.371502
+1172,e-faecalis,Glycopeptides,South West,2025-09-01,2.1131861
+1173,e-faecalis,Glycopeptides,South West,2025-10-01,2.0603442
+1174,e-faecalis,Glycopeptides,South West,2025-11-01,1.991407
+1175,e-faecalis,Glycopeptides,South West,2025-12-01,2.2874527
+1176,e-faecalis,Glycopeptides,West Midlands,2025-07-01,0.3518059
+1177,e-faecalis,Glycopeptides,West Midlands,2025-08-01,0.3382462
+1178,e-faecalis,Glycopeptides,West Midlands,2025-09-01,0.44873324
+1179,e-faecalis,Glycopeptides,West Midlands,2025-10-01,0.4316211
+1180,e-faecalis,Glycopeptides,West Midlands,2025-11-01,0.45956603
+1181,e-faecalis,Glycopeptides,West Midlands,2025-12-01,0.48984098
+1182,e-faecalis,Glycopeptides,Yorkshire and Humber,2025-07-01,6.2865696
+1183,e-faecalis,Glycopeptides,Yorkshire and Humber,2025-08-01,5.3314466
+1184,e-faecalis,Glycopeptides,Yorkshire and Humber,2025-09-01,6.0529428
+1185,e-faecalis,Glycopeptides,Yorkshire and Humber,2025-10-01,6.494492
+1186,e-faecalis,Glycopeptides,Yorkshire and Humber,2025-11-01,6.886023
+1187,e-faecalis,Glycopeptides,Yorkshire and Humber,2025-12-01,7.0039945
+1188,e-faecium,Glycopeptides,East Midlands,2025-07-01,12.527281
+1189,e-faecium,Glycopeptides,East Midlands,2025-08-01,12.747036
+1190,e-faecium,Glycopeptides,East Midlands,2025-09-01,12.684666
+1191,e-faecium,Glycopeptides,East Midlands,2025-10-01,12.433105
+1192,e-faecium,Glycopeptides,East Midlands,2025-11-01,12.318976
+1193,e-faecium,Glycopeptides,East Midlands,2025-12-01,12.476457
+1194,e-faecium,Glycopeptides,East of England,2025-07-01,30.164215
+1195,e-faecium,Glycopeptides,East of England,2025-08-01,30.181767
+1196,e-faecium,Glycopeptides,East of England,2025-09-01,30.054985
+1197,e-faecium,Glycopeptides,East of England,2025-10-01,28.063616
+1198,e-faecium,Glycopeptides,East of England,2025-11-01,26.411863
+1199,e-faecium,Glycopeptides,East of England,2025-12-01,25.91522
+1200,e-faecium,Glycopeptides,London,2025-07-01,15.085461
+1201,e-faecium,Glycopeptides,London,2025-08-01,15.389255
+1202,e-faecium,Glycopeptides,London,2025-09-01,16.54033
+1203,e-faecium,Glycopeptides,London,2025-10-01,17.549557
+1204,e-faecium,Glycopeptides,London,2025-11-01,17.948465
+1205,e-faecium,Glycopeptides,London,2025-12-01,18.18833
+1206,e-faecium,Glycopeptides,North East,2025-07-01,19.842443
+1207,e-faecium,Glycopeptides,North East,2025-08-01,15.439114
+1208,e-faecium,Glycopeptides,North East,2025-09-01,13.653883
+1209,e-faecium,Glycopeptides,North East,2025-10-01,14.481012
+1210,e-faecium,Glycopeptides,North East,2025-11-01,16.829134
+1211,e-faecium,Glycopeptides,North East,2025-12-01,18.054
+1212,e-faecium,Glycopeptides,North West,2025-07-01,16.783833
+1213,e-faecium,Glycopeptides,North West,2025-08-01,17.73322
+1214,e-faecium,Glycopeptides,North West,2025-09-01,18.013145
+1215,e-faecium,Glycopeptides,North West,2025-10-01,18.457796
+1216,e-faecium,Glycopeptides,North West,2025-11-01,18.628801
+1217,e-faecium,Glycopeptides,North West,2025-12-01,18.978125
+1218,e-faecium,Glycopeptides,South East,2025-07-01,25.448683
+1219,e-faecium,Glycopeptides,South East,2025-08-01,25.191921
+1220,e-faecium,Glycopeptides,South East,2025-09-01,25.322416
+1221,e-faecium,Glycopeptides,South East,2025-10-01,25.817297
+1222,e-faecium,Glycopeptides,South East,2025-11-01,26.149069
+1223,e-faecium,Glycopeptides,South East,2025-12-01,26.670937
+1224,e-faecium,Glycopeptides,South West,2025-07-01,25.982368
+1225,e-faecium,Glycopeptides,South West,2025-08-01,28.944214
+1226,e-faecium,Glycopeptides,South West,2025-09-01,27.496593
+1227,e-faecium,Glycopeptides,South West,2025-10-01,28.05631
+1228,e-faecium,Glycopeptides,South West,2025-11-01,26.674366
+1229,e-faecium,Glycopeptides,South West,2025-12-01,27.491121
+1230,e-faecium,Glycopeptides,West Midlands,2025-07-01,17.340298
+1231,e-faecium,Glycopeptides,West Midlands,2025-08-01,17.92223
+1232,e-faecium,Glycopeptides,West Midlands,2025-09-01,18.085165
+1233,e-faecium,Glycopeptides,West Midlands,2025-10-01,18.30809
+1234,e-faecium,Glycopeptides,West Midlands,2025-11-01,18.5472
+1235,e-faecium,Glycopeptides,West Midlands,2025-12-01,19.051413
+1236,e-faecium,Glycopeptides,Yorkshire and Humber,2025-07-01,21.460077
+1237,e-faecium,Glycopeptides,Yorkshire and Humber,2025-08-01,20.497276
+1238,e-faecium,Glycopeptides,Yorkshire and Humber,2025-09-01,18.733078
+1239,e-faecium,Glycopeptides,Yorkshire and Humber,2025-10-01,19.743528
+1240,e-faecium,Glycopeptides,Yorkshire and Humber,2025-11-01,20.309423
+1241,e-faecium,Glycopeptides,Yorkshire and Humber,2025-12-01,21.550148
