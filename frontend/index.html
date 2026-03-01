@@ -1,42 +1,399 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>AMR Forecast Dashboard</title>
-    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AMR Resistance Forecast Dashboard</title>
     <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+    --bg:        #010d0a;
+    --surface:   #021a12;
+    --border:    #0a3d24;
+    --accent:    #00ff88;
+    --accent2:   #00cc66;
+    --danger:    #ff4d6d;
+    --muted:     #3d9970;
+    --text:      #ccffe8;
+    --text-dim:  #99ddbb;
+    --mono:      'IBM Plex Mono', monospace;
+    --sans:      'IBM Plex Sans', sans-serif;
+}
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: var(--sans);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* ── Header ── */
+        header {
+            border-bottom: 1px solid var(--border);
+            padding: 1.25rem 2rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .header-badge {
+            background: var(--accent);
+            color: #000;
+            font-family: var(--mono);
+            font-size: 0.65rem;
+            font-weight: 600;
+            letter-spacing: 0.12em;
+            padding: 0.2rem 0.55rem;
+            border-radius: 3px;
+            text-transform: uppercase;
+        }
+
+        header h1 {
+            font-size: 1.05rem;
+            font-weight: 500;
+            letter-spacing: 0.01em;
+            color: var(--text);
+        }
+
+        header p {
+            font-size: 0.78rem;
+            color: var(--muted);
+            margin-top: 0.15rem;
+        }
+
+        .header-meta { margin-left: auto; text-align: right; }
+        .header-meta span { font-family: var(--mono); font-size: 0.72rem; color: var(--muted); }
+
+        /* ── Layout ── */
+        .layout {
+            display: grid;
+            grid-template-columns: 280px 1fr;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        /* ── Sidebar ── */
+        aside {
+            border-right: 1px solid var(--border);
+            padding: 1.5rem 1.25rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            overflow-y: auto;
+        }
+
+        .control-group { display: flex; flex-direction: column; gap: 0.5rem; }
+
+        label {
+            font-size: 0.7rem;
+            font-family: var(--mono);
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: var(--muted);
+        }
+
+        select {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            color: var(--text);
+            font-family: var(--sans);
+            font-size: 0.85rem;
+            padding: 0.55rem 0.75rem;
+            border-radius: 6px;
+            width: 100%;
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%238b949e' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+            transition: border-color 0.15s;
+        }
+
+        select:focus { outline: none; border-color: var(--accent); }
+
+        /* Model pills */
+        .model-pills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+        }
+
+        .pill {
+            font-family: var(--mono);
+            font-size: 0.7rem;
+            padding: 0.3rem 0.6rem;
+            border-radius: 4px;
+            border: 1px solid var(--border);
+            color: var(--muted);
+            cursor: pointer;
+            transition: all 0.15s;
+            background: transparent;
+            white-space: nowrap;
+        }
+
+        .pill:hover { border-color: var(--accent); color: var(--accent); }
+        .pill.active { background: var(--accent); border-color: var(--accent); color: #000; font-weight: 600; }
+
+        /* View toggle */
+        .view-toggle {
+            display: flex;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            overflow: hidden;
+        }
+
+        .view-btn {
+            flex: 1;
+            padding: 0.5rem;
+            font-size: 0.75rem;
+            font-family: var(--mono);
+            border: none;
+            background: transparent;
+            color: var(--muted);
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+
+        .view-btn.active { background: var(--accent); color: #000; font-weight: 600; }
+
+        /* Stat cards */
+        .stat-cards {
+            display: flex;
+            flex-direction: column;
+            gap: 0.6rem;
+        }
+
+        .stat-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 0.75rem 1rem;
+        }
+
+        .stat-label {
+            font-family: var(--mono);
+            font-size: 0.65rem;
+            color: var(--muted);
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            margin-bottom: 0.3rem;
+        }
+
+        .stat-value {
+            font-family: var(--mono);
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--accent);
+        }
+
+        .stat-sub {
+            font-size: 0.7rem;
+            color: var(--muted);
+            margin-top: 0.15rem;
+        }
+
+        /* ── Main content ── */
+        main {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        /* Chart area */
+        .chart-container {
+            flex: 1;
+            padding: 1.5rem;
+            min-height: 420px;
+        }
+
+        #chart { width: 100%; height: 420px; }
+
+        /* Loading indicator */
+        #loadingIndicator {
+            display: none;
+            font-family: var(--mono);
+            font-size: 0.75rem;
+            color: var(--accent);
+            padding: 0.5rem 1.5rem;
+            animation: pulse 1.2s infinite;
+        }
+
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+
+        /* Table area */
+        .table-container {
+            border-top: 1px solid var(--border);
+            padding: 1.25rem 1.5rem;
+            overflow-x: auto;
+        }
+
+        .table-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 1rem;
+        }
+
+        .table-title {
+            font-family: var(--mono);
+            font-size: 0.75rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: var(--muted);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.82rem;
+        }
+
+        thead tr {
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            font-family: var(--mono);
+            font-size: 0.68rem;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            color: var(--muted);
+            padding: 0.5rem 0.75rem;
+            text-align: left;
+            font-weight: 400;
+        }
+
+        td {
+            padding: 0.45rem 0.75rem;
+            font-family: var(--mono);
+            font-size: 0.8rem;
+            border-bottom: 1px solid rgba(48,54,61,0.5);
+            color: var(--text-dim);
+        }
+
+        tr:last-child td { border-bottom: none; }
+        tr:hover td { background: rgba(88,166,255,0.04); }
+
+        /* Model type tags */
+        .tag {
+            display: inline-block;
+            font-family: var(--mono);
+            font-size: 0.6rem;
+            padding: 0.15rem 0.4rem;
+            border-radius: 3px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .tag-ml  { background: rgba(88,166,255,0.15);  color: var(--accent); }
+        .tag-dl  { background: rgba(63,185,80,0.15);   color: var(--accent2); }
+
+        /* Divider label */
+        .section-label {
+            font-family: var(--mono);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--muted);
+            border-top: 1px solid var(--border);
+            padding-top: 1rem;
+        }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-track { background: var(--bg); }
+        ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+    </style>
 </head>
 <body>
 
-
-    <h1>AMR Forecast Dashboard</h1>
-
-    <div class="controls">
-        <label for="seriesSelect">Series:</label>
-        <select id="seriesSelect"></select>
-
-        <label for="modelSelect">Model:</label>
-        <select id="modelSelect">
-            <option value="xgb">XGBoost</option>
-            <option value="tcn">TCN</option>
-        </select>
-
-        <label for="scenarioSelect">Scenario:</label>
-        <select id="scenarioSelect">
-            <option value="baseline">Baseline</option>
-            <option value="minus20">-20% Prescribing</option>
-            <option value="plus20">+20% Prescribing</option>
-        </select>
+<header>
+    <div>
+        <div style="display:flex; align-items:center; gap:0.75rem; margin-bottom:0.2rem;">
+            <span class="header-badge">AMR</span>
+            <h1>Antimicrobial Resistance Forecast Dashboard</h1>
+        </div>
+        <p>England regional resistance trends — XGBoost · LightGBM · GRU · TCN · LSTM</p>
     </div>
+    <div class="header-meta">
+        <span id="loadingIndicator">⟳ loading...</span>
+        <div><span>Horizon: 6 months</span></div>
+        <div><span>Forecast start: Jul 2025</span></div>
+    </div>
+</header>
 
-    <div id="chart"></div>
+<div class="layout">
 
-    <h2>Scenario table</h2>
-    <div id="scenarioTable"></div>
+    <!-- ── Sidebar ── -->
+    <aside>
 
-    
-    <script src="app.js"></script>
+        <div class="control-group">
+            <label>Series</label>
+            <select id="seriesSelect"></select>
+        </div>
+
+        <div class="control-group">
+            <label>View</label>
+            <div class="view-toggle">
+                <button class="view-btn active" id="btnSingle" onclick="setView('single')">Single</button>
+                <button class="view-btn" id="btnCompare" onclick="setView('compare')">Compare All</button>
+            </div>
+        </div>
+
+        <div class="control-group" id="modelGroup">
+            <label>Model</label>
+            <div class="model-pills">
+                <div class="section-label" style="width:100%; border:none; padding:0; margin-bottom:0.25rem;">Machine Learning</div>
+                <button class="pill active" data-model="xgb"  onclick="selectModel('xgb')">XGBoost</button>
+                <button class="pill"        data-model="lgbm" onclick="selectModel('lgbm')">LightGBM</button>
+
+                <div class="section-label" style="width:100%; margin-top:0.5rem; margin-bottom:0.25rem;">Deep Learning</div>
+                <button class="pill" data-model="gru"  onclick="selectModel('gru')">GRU</button>
+                <button class="pill" data-model="tcn"  onclick="selectModel('tcn')">TCN</button>
+                <button class="pill" data-model="lstm" onclick="selectModel('lstm')">LSTM</button>
+            </div>
+        </div>
+
+        <div class="stat-cards">
+            <div class="stat-card">
+                <div class="stat-label">Forecast horizon</div>
+                <div class="stat-value" id="statHorizon">—</div>
+                <div class="stat-sub"  id="statFcRange">—</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Best ML model</div>
+                <div class="stat-value" id="statBestML">—</div>
+                <div class="stat-sub"  id="statMLMae">—</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Best DL model</div>
+                <div class="stat-value" id="statBestDL">—</div>
+                <div class="stat-sub"  id="statDLMae">—</div>
+            </div>
+        </div>
+
+    </aside>
+
+    <!-- ── Main ── -->
+    <main>
+        <div class="chart-container">
+            <div id="chart"></div>
+        </div>
+
+        <div class="table-container">
+            <div class="table-header">
+                <span class="table-title" id="tableTitle">Forecast Values</span>
+            </div>
+            <div id="forecastTable"><p style="color:var(--muted); font-size:0.8rem;">Select a series to view forecasts.</p></div>
+        </div>
+    </main>
+
+</div>
+
+<script src="app.js"></script>
 </body>
 </html>
-
