@@ -1,0 +1,829 @@
+,mae,rmse,model
+E-coli__Amikacin__East Midlands,0.19603327548099783,0.24722513125618892,XGB-Direct
+E-coli__Amikacin__East of England,0.15265468019026296,0.18938480960370432,XGB-Direct
+E-coli__Amikacin__London,0.38093479892293497,0.41986875041137495,XGB-Direct
+E-coli__Amikacin__North East,0.2087543031111132,0.24298484307604576,XGB-Direct
+E-coli__Amikacin__North West,0.1968202072698458,0.22341698309330246,XGB-Direct
+E-coli__Amikacin__South East,0.30079761131604515,0.3402072913456717,XGB-Direct
+E-coli__Amikacin__South West,0.18305453613876757,0.23598050195000972,XGB-Direct
+E-coli__Amikacin__West Midlands,0.24335320837634086,0.2735502292467492,XGB-Direct
+E-coli__Amikacin__Yorkshire and Humber,0.4220479849927723,0.4439819482512719,XGB-Direct
+E-coli__Carbapenems__East Midlands,0.2710186293065393,0.3118231024556295,XGB-Direct
+E-coli__Carbapenems__East of England,0.44422330248726566,0.5002512413906846,XGB-Direct
+E-coli__Carbapenems__London,0.2341081292018302,0.2960455999291213,XGB-Direct
+E-coli__Carbapenems__North East,0.33016182240575315,0.4669506732179795,XGB-Direct
+E-coli__Carbapenems__North West,0.2418052058804918,0.3130224937261618,XGB-Direct
+E-coli__Carbapenems__South East,0.3554048466461676,0.4146874971233237,XGB-Direct
+E-coli__Carbapenems__South West,0.46672289108526593,0.5432126226365358,XGB-Direct
+E-coli__Carbapenems__West Midlands,0.3605958647578698,0.3791271033903159,XGB-Direct
+E-coli__Carbapenems__Yorkshire and Humber,0.3312168392870162,0.4646087867869064,XGB-Direct
+E-coli__Ciprofloxacin__East Midlands,0.22500008921254633,0.2786674265013403,XGB-Direct
+E-coli__Ciprofloxacin__East of England,0.43818211346614566,0.5102277423975321,XGB-Direct
+E-coli__Ciprofloxacin__London,0.16939917283180436,0.2076436563025699,XGB-Direct
+E-coli__Ciprofloxacin__North East,0.2042246662228875,0.25643448766898463,XGB-Direct
+E-coli__Ciprofloxacin__North West,0.1714293184209632,0.22134760532627026,XGB-Direct
+E-coli__Ciprofloxacin__South East,0.30952445339588913,0.3713524732259249,XGB-Direct
+E-coli__Ciprofloxacin__South West,0.39470721103304857,0.44227068562103605,XGB-Direct
+E-coli__Ciprofloxacin__West Midlands,0.37004813316121027,0.4515373496774096,XGB-Direct
+E-coli__Ciprofloxacin__Yorkshire and Humber,0.2553449212661328,0.3001169740679986,XGB-Direct
+E-coli__Co-amoxiclav__East Midlands,0.23255479995858494,0.2875225768821715,XGB-Direct
+E-coli__Co-amoxiclav__East of England,0.20416629485003535,0.24691039986847177,XGB-Direct
+E-coli__Co-amoxiclav__London,0.2394839213931057,0.24720246008025296,XGB-Direct
+E-coli__Co-amoxiclav__North East,0.20827753740671598,0.258001027852568,XGB-Direct
+E-coli__Co-amoxiclav__North West,0.13664202755997742,0.1583875642724883,XGB-Direct
+E-coli__Co-amoxiclav__South East,0.22293412474980304,0.2873922682712235,XGB-Direct
+E-coli__Co-amoxiclav__South West,0.16477843310533613,0.20890883259001958,XGB-Direct
+E-coli__Co-amoxiclav__West Midlands,0.38821450342297076,0.4132290615018512,XGB-Direct
+E-coli__Co-amoxiclav__Yorkshire and Humber,0.37334504876663493,0.3879139261351052,XGB-Direct
+E-coli__Gentamicin__East Midlands,0.10251323295676192,0.13362379701937124,XGB-Direct
+E-coli__Gentamicin__East of England,0.3395370698024653,0.38853850230174386,XGB-Direct
+E-coli__Gentamicin__London,0.2909049086450663,0.3704645492124848,XGB-Direct
+E-coli__Gentamicin__North East,0.3697005144474271,0.4032732801114883,XGB-Direct
+E-coli__Gentamicin__North West,0.2320263176977455,0.29185544712860506,XGB-Direct
+E-coli__Gentamicin__South East,0.222424741685774,0.275743910682049,XGB-Direct
+E-coli__Gentamicin__South West,0.22413878486772307,0.2613904652623767,XGB-Direct
+E-coli__Gentamicin__West Midlands,0.2610055120882168,0.2995431671872963,XGB-Direct
+E-coli__Gentamicin__Yorkshire and Humber,0.17631510390017482,0.22865635863481437,XGB-Direct
+E-coli__Piperacillin with tazobactam__East Midlands,0.07914905796732226,0.08908767049925302,XGB-Direct
+E-coli__Piperacillin with tazobactam__East of England,0.18445758092153167,0.2438178276498808,XGB-Direct
+E-coli__Piperacillin with tazobactam__London,0.16069983300212384,0.22011611238308176,XGB-Direct
+E-coli__Piperacillin with tazobactam__North East,0.33208798837529624,0.36587351071945234,XGB-Direct
+E-coli__Piperacillin with tazobactam__North West,0.18113333420927122,0.2321764197961526,XGB-Direct
+E-coli__Piperacillin with tazobactam__South East,0.24259737689761238,0.27194717492130926,XGB-Direct
+E-coli__Piperacillin with tazobactam__South West,0.3207150726697341,0.37411147202538475,XGB-Direct
+E-coli__Piperacillin with tazobactam__West Midlands,0.3803157007001387,0.39360680494639244,XGB-Direct
+E-coli__Piperacillin with tazobactam__Yorkshire and Humber,0.11750088359261202,0.1592189469164864,XGB-Direct
+E-coli__Third Generation Cephalosporins__East Midlands,0.1966093417888131,0.2161728451604656,XGB-Direct
+E-coli__Third Generation Cephalosporins__East of England,0.242573255410189,0.3000930464781249,XGB-Direct
+E-coli__Third Generation Cephalosporins__London,0.3157193253599251,0.34750018114285636,XGB-Direct
+E-coli__Third Generation Cephalosporins__North East,0.21932001748107263,0.30104325846462293,XGB-Direct
+E-coli__Third Generation Cephalosporins__North West,0.29161845549344334,0.3160386254124511,XGB-Direct
+E-coli__Third Generation Cephalosporins__South East,0.19513650392982873,0.22010380492983772,XGB-Direct
+E-coli__Third Generation Cephalosporins__South West,0.2499506701261569,0.2722461810315059,XGB-Direct
+E-coli__Third Generation Cephalosporins__West Midlands,0.30148589290558775,0.3164359892167062,XGB-Direct
+E-coli__Third Generation Cephalosporins__Yorkshire and Humber,0.21042254019862572,0.26804712318944995,XGB-Direct
+K-pneumoniae__Amikacin__East Midlands,0.34898333977731616,0.3603340007401284,XGB-Direct
+K-pneumoniae__Amikacin__East of England,0.29588802704760975,0.3181175030472249,XGB-Direct
+K-pneumoniae__Amikacin__London,0.1510565857429041,0.1789355072210699,XGB-Direct
+K-pneumoniae__Amikacin__North East,0.2018694282392335,0.22912187918122284,XGB-Direct
+K-pneumoniae__Amikacin__North West,0.1806883666993809,0.235124942234387,XGB-Direct
+K-pneumoniae__Amikacin__South East,0.1648729105382205,0.19764067506404387,XGB-Direct
+K-pneumoniae__Amikacin__South West,0.1740355969317641,0.24444987705593427,XGB-Direct
+K-pneumoniae__Amikacin__West Midlands,0.4143618250982119,0.5045980723860111,XGB-Direct
+K-pneumoniae__Amikacin__Yorkshire and Humber,0.3159231849607494,0.3996970653399136,XGB-Direct
+K-pneumoniae__Carbapenems__East Midlands,0.3852816281147186,0.3942942722493602,XGB-Direct
+K-pneumoniae__Carbapenems__East of England,0.2733099488691352,0.31734228615286597,XGB-Direct
+K-pneumoniae__Carbapenems__London,0.24731678186639172,0.3118333396838985,XGB-Direct
+K-pneumoniae__Carbapenems__North East,0.18351610368304874,0.20472685046677502,XGB-Direct
+K-pneumoniae__Carbapenems__North West,0.1386236468585235,0.18286291562117932,XGB-Direct
+K-pneumoniae__Carbapenems__South East,0.3540849356795661,0.4092872512187084,XGB-Direct
+K-pneumoniae__Carbapenems__South West,0.3402343676341208,0.4908892000710982,XGB-Direct
+K-pneumoniae__Carbapenems__West Midlands,0.16216694474868892,0.18582693196947467,XGB-Direct
+K-pneumoniae__Carbapenems__Yorkshire and Humber,0.24261141475980588,0.2850132030455712,XGB-Direct
+K-pneumoniae__Ciprofloxacin__East Midlands,0.26412036150908846,0.3048238632088178,XGB-Direct
+K-pneumoniae__Ciprofloxacin__East of England,0.25154860784264726,0.2885581817300224,XGB-Direct
+K-pneumoniae__Ciprofloxacin__London,0.3853716838539405,0.4183498664747944,XGB-Direct
+K-pneumoniae__Ciprofloxacin__North East,0.13082860349385314,0.14831854910456174,XGB-Direct
+K-pneumoniae__Ciprofloxacin__North West,0.17924713953613625,0.21375367624708586,XGB-Direct
+K-pneumoniae__Ciprofloxacin__South East,0.3437130414937901,0.3682439607244749,XGB-Direct
+K-pneumoniae__Ciprofloxacin__South West,0.25771234884722843,0.30101066900853646,XGB-Direct
+K-pneumoniae__Ciprofloxacin__West Midlands,0.12185740514415971,0.17564778954631224,XGB-Direct
+K-pneumoniae__Ciprofloxacin__Yorkshire and Humber,0.18551541694361176,0.2139323418453016,XGB-Direct
+K-pneumoniae__Co-amoxiclav__East Midlands,0.43878890113179453,0.4758911070401514,XGB-Direct
+K-pneumoniae__Co-amoxiclav__East of England,0.3162216429616557,0.35599114257943176,XGB-Direct
+K-pneumoniae__Co-amoxiclav__London,0.1326790363175391,0.1692882787581201,XGB-Direct
+K-pneumoniae__Co-amoxiclav__North East,0.18906977800231006,0.2100375074768647,XGB-Direct
+K-pneumoniae__Co-amoxiclav__North West,0.2946380685262881,0.3832085291406912,XGB-Direct
+K-pneumoniae__Co-amoxiclav__South East,0.31123621343590074,0.33505076229431546,XGB-Direct
+K-pneumoniae__Co-amoxiclav__South West,0.22504466955904953,0.30069192768544856,XGB-Direct
+K-pneumoniae__Co-amoxiclav__West Midlands,0.2926875686927624,0.3537636922027962,XGB-Direct
+K-pneumoniae__Co-amoxiclav__Yorkshire and Humber,0.22247830416280615,0.2561121996951969,XGB-Direct
+K-pneumoniae__Gentamicin__East Midlands,0.23408325788941528,0.2832591916145238,XGB-Direct
+K-pneumoniae__Gentamicin__East of England,0.15146288573600905,0.17351019878469282,XGB-Direct
+K-pneumoniae__Gentamicin__London,0.18355045270325598,0.2163788806931778,XGB-Direct
+K-pneumoniae__Gentamicin__North East,0.15879088315468695,0.23158475866168063,XGB-Direct
+K-pneumoniae__Gentamicin__North West,0.34279180155285355,0.3730085747533777,XGB-Direct
+K-pneumoniae__Gentamicin__South East,0.19249689403499795,0.272007938395539,XGB-Direct
+K-pneumoniae__Gentamicin__South West,0.31146875524669265,0.34143247188999615,XGB-Direct
+K-pneumoniae__Gentamicin__West Midlands,0.13365883113958996,0.155624587480251,XGB-Direct
+K-pneumoniae__Gentamicin__Yorkshire and Humber,0.18161981772082722,0.2074905288844592,XGB-Direct
+K-pneumoniae__Piperacillin with tazobactam__East Midlands,0.2601233862368996,0.34814353012798904,XGB-Direct
+K-pneumoniae__Piperacillin with tazobactam__East of England,0.3313921807031988,0.3559596922182368,XGB-Direct
+K-pneumoniae__Piperacillin with tazobactam__London,0.20800801480427764,0.23992761310405913,XGB-Direct
+K-pneumoniae__Piperacillin with tazobactam__North East,0.25854912381602574,0.3300318763070565,XGB-Direct
+K-pneumoniae__Piperacillin with tazobactam__North West,0.207355427692979,0.2307988288352479,XGB-Direct
+K-pneumoniae__Piperacillin with tazobactam__South East,0.15459457681982555,0.2638012189712737,XGB-Direct
+K-pneumoniae__Piperacillin with tazobactam__South West,0.1488810649125976,0.1747425678839812,XGB-Direct
+K-pneumoniae__Piperacillin with tazobactam__West Midlands,0.2016632950419177,0.2352748997694405,XGB-Direct
+K-pneumoniae__Piperacillin with tazobactam__Yorkshire and Humber,0.13557724927698017,0.15416025004578163,XGB-Direct
+K-pneumoniae__Third Generation Cephalosporins__East Midlands,0.16892091443388557,0.19899025483553207,XGB-Direct
+K-pneumoniae__Third Generation Cephalosporins__East of England,0.23102475134569778,0.27655315483862225,XGB-Direct
+K-pneumoniae__Third Generation Cephalosporins__London,0.14239080482985308,0.17160429145317316,XGB-Direct
+K-pneumoniae__Third Generation Cephalosporins__North East,0.1522123076713802,0.18406084740968678,XGB-Direct
+K-pneumoniae__Third Generation Cephalosporins__North West,0.28698355118583024,0.34386026871260844,XGB-Direct
+K-pneumoniae__Third Generation Cephalosporins__South East,0.2357666974561492,0.2807070929911452,XGB-Direct
+K-pneumoniae__Third Generation Cephalosporins__South West,0.18238951502502831,0.22446745865484455,XGB-Direct
+K-pneumoniae__Third Generation Cephalosporins__West Midlands,0.2690544560854624,0.31431809171900515,XGB-Direct
+K-pneumoniae__Third Generation Cephalosporins__Yorkshire and Humber,0.16496212339484986,0.18719597931644397,XGB-Direct
+P-aeruginosa__Amikacin__East Midlands,0.5251587072036947,0.6064202896645016,XGB-Direct
+P-aeruginosa__Amikacin__East of England,0.31490395344942984,0.36970457023670267,XGB-Direct
+P-aeruginosa__Amikacin__London,0.204520467903487,0.28259865414046803,XGB-Direct
+P-aeruginosa__Amikacin__North East,0.21824253851809772,0.3598778648745151,XGB-Direct
+P-aeruginosa__Amikacin__North West,0.31764662452872966,0.40077328285791713,XGB-Direct
+P-aeruginosa__Amikacin__South East,0.3889992536194083,0.4438431687721527,XGB-Direct
+P-aeruginosa__Amikacin__South West,0.3583082056382573,0.5082341216411214,XGB-Direct
+P-aeruginosa__Amikacin__West Midlands,0.2666586183124305,0.3094751496340322,XGB-Direct
+P-aeruginosa__Amikacin__Yorkshire and Humber,0.3231434017999621,0.4574412532295033,XGB-Direct
+P-aeruginosa__Carbapenems__East Midlands,0.1797504154276046,0.1907814270943194,XGB-Direct
+P-aeruginosa__Carbapenems__East of England,0.1403083595258942,0.19001776687088642,XGB-Direct
+P-aeruginosa__Carbapenems__London,0.17496999909154956,0.19400223603281838,XGB-Direct
+P-aeruginosa__Carbapenems__North East,0.2920513875881831,0.3418646383470561,XGB-Direct
+P-aeruginosa__Carbapenems__North West,0.3787375131098691,0.3838272341594686,XGB-Direct
+P-aeruginosa__Carbapenems__South East,0.19510656137298496,0.23172606417843475,XGB-Direct
+P-aeruginosa__Carbapenems__South West,0.19204791250827372,0.21909131796557355,XGB-Direct
+P-aeruginosa__Carbapenems__West Midlands,0.2739155457897278,0.2858980915770964,XGB-Direct
+P-aeruginosa__Carbapenems__Yorkshire and Humber,0.3660040860191862,0.4493095439654196,XGB-Direct
+P-aeruginosa__Ceftazidime__East Midlands,0.28109736664138135,0.3128340589013197,XGB-Direct
+P-aeruginosa__Ceftazidime__East of England,0.16184282696859578,0.19489223593513272,XGB-Direct
+P-aeruginosa__Ceftazidime__London,0.15507762406779946,0.18348554655252014,XGB-Direct
+P-aeruginosa__Ceftazidime__North East,0.3191560518639757,0.33841028566086045,XGB-Direct
+P-aeruginosa__Ceftazidime__North West,0.1867746211231339,0.23355077974116173,XGB-Direct
+P-aeruginosa__Ceftazidime__South East,0.20875646030448983,0.2163543139016331,XGB-Direct
+P-aeruginosa__Ceftazidime__South West,0.3347190097194572,0.42120768745045317,XGB-Direct
+P-aeruginosa__Ceftazidime__West Midlands,0.139405798540131,0.2018111952302134,XGB-Direct
+P-aeruginosa__Ceftazidime__Yorkshire and Humber,0.18820901675766924,0.23142565264165937,XGB-Direct
+P-aeruginosa__Ciprofloxacin__East Midlands,0.28474616634871025,0.3153962484234038,XGB-Direct
+P-aeruginosa__Ciprofloxacin__East of England,0.12923349238119988,0.17118880039565346,XGB-Direct
+P-aeruginosa__Ciprofloxacin__London,0.27646382418295085,0.35017414201393043,XGB-Direct
+P-aeruginosa__Ciprofloxacin__North East,0.18482686864818268,0.24666148769043628,XGB-Direct
+P-aeruginosa__Ciprofloxacin__North West,0.2564089891725573,0.27441930091059663,XGB-Direct
+P-aeruginosa__Ciprofloxacin__South East,0.19541027826785595,0.23793172028806947,XGB-Direct
+P-aeruginosa__Ciprofloxacin__South West,0.2581824543394244,0.3170462193617941,XGB-Direct
+P-aeruginosa__Ciprofloxacin__West Midlands,0.3098894191165164,0.3816007050490618,XGB-Direct
+P-aeruginosa__Ciprofloxacin__Yorkshire and Humber,0.1822365259106193,0.2135053123553638,XGB-Direct
+P-aeruginosa__Piperacillin with tazobactam__East Midlands,0.4500138606170545,0.4742121812873666,XGB-Direct
+P-aeruginosa__Piperacillin with tazobactam__East of England,0.22779114306662587,0.2725316041513275,XGB-Direct
+P-aeruginosa__Piperacillin with tazobactam__London,0.24692584020707967,0.2993675516834646,XGB-Direct
+P-aeruginosa__Piperacillin with tazobactam__North East,0.47335277544915283,0.5539489771825409,XGB-Direct
+P-aeruginosa__Piperacillin with tazobactam__North West,0.1881759261608701,0.19315668412818862,XGB-Direct
+P-aeruginosa__Piperacillin with tazobactam__South East,0.25820238732806294,0.28982987287997813,XGB-Direct
+P-aeruginosa__Piperacillin with tazobactam__South West,0.3553765818244881,0.47942430578860185,XGB-Direct
+P-aeruginosa__Piperacillin with tazobactam__West Midlands,0.2976005397172034,0.3046883850929993,XGB-Direct
+P-aeruginosa__Piperacillin with tazobactam__Yorkshire and Humber,0.1895221260248446,0.21199295212602814,XGB-Direct
+S-pneumoniae__Macrolides__East Midlands,0.048171006850401564,0.05388536144666272,XGB-Direct
+S-pneumoniae__Macrolides__East of England,0.2158776017111126,0.25212621875139135,XGB-Direct
+S-pneumoniae__Macrolides__London,0.10168363837401069,0.13262723670137702,XGB-Direct
+S-pneumoniae__Macrolides__North East,0.11629639499887261,0.13730816698158116,XGB-Direct
+S-pneumoniae__Macrolides__North West,0.18227226557834034,0.2042370570066268,XGB-Direct
+S-pneumoniae__Macrolides__South East,0.28095945039521814,0.34110043144013863,XGB-Direct
+S-pneumoniae__Macrolides__South West,0.18919478844934037,0.21838854679703731,XGB-Direct
+S-pneumoniae__Macrolides__West Midlands,0.22478793205777606,0.27267637480700196,XGB-Direct
+S-pneumoniae__Macrolides__Yorkshire and Humber,0.07050123156163239,0.09543367208020466,XGB-Direct
+S-pneumoniae__Penicillin__East Midlands,0.39863270596019884,0.4913180634481382,XGB-Direct
+S-pneumoniae__Penicillin__East of England,0.10935939219618046,0.14745070375527727,XGB-Direct
+S-pneumoniae__Penicillin__London,0.343855898055597,0.3921964607399612,XGB-Direct
+S-pneumoniae__Penicillin__North East,0.13197783226556936,0.22901265371581908,XGB-Direct
+S-pneumoniae__Penicillin__North West,0.1790003289381663,0.2002659121642509,XGB-Direct
+S-pneumoniae__Penicillin__South East,0.13584223436585025,0.15045834869875238,XGB-Direct
+S-pneumoniae__Penicillin__South West,0.14434789564647632,0.20373391877917285,XGB-Direct
+S-pneumoniae__Penicillin__West Midlands,0.32065141569061706,0.42227599166161883,XGB-Direct
+S-pneumoniae__Penicillin__Yorkshire and Humber,0.247912685358735,0.32032654261737165,XGB-Direct
+e-faecalis__Glycopeptides__East Midlands,0.11684111468465168,0.14476614696850176,XGB-Direct
+e-faecalis__Glycopeptides__East of England,0.26049311787683244,0.2941395235471062,XGB-Direct
+e-faecalis__Glycopeptides__London,0.39153417189017253,0.470864725682789,XGB-Direct
+e-faecalis__Glycopeptides__North East,0.24013447964877024,0.33832046078934763,XGB-Direct
+e-faecalis__Glycopeptides__North West,0.2669003915705244,0.2943112249318066,XGB-Direct
+e-faecalis__Glycopeptides__South East,0.16449486340761457,0.17334747458645325,XGB-Direct
+e-faecalis__Glycopeptides__South West,0.1536956293064083,0.1716557536350315,XGB-Direct
+e-faecalis__Glycopeptides__West Midlands,0.28017397080492673,0.3441051834825598,XGB-Direct
+e-faecalis__Glycopeptides__Yorkshire and Humber,0.2185426949756765,0.3065626700142446,XGB-Direct
+e-faecium__Glycopeptides__East Midlands,0.2625730032429976,0.3363188818208421,XGB-Direct
+e-faecium__Glycopeptides__East of England,0.2485061989918446,0.2751609901048767,XGB-Direct
+e-faecium__Glycopeptides__London,0.22110512687075237,0.27258939097039125,XGB-Direct
+e-faecium__Glycopeptides__North East,0.3912568737520627,0.46359884437053667,XGB-Direct
+e-faecium__Glycopeptides__North West,0.30986470978646535,0.38072695009221147,XGB-Direct
+e-faecium__Glycopeptides__South East,0.2227629740506898,0.26770875545857675,XGB-Direct
+e-faecium__Glycopeptides__South West,0.12019406034201326,0.14457110091100828,XGB-Direct
+e-faecium__Glycopeptides__West Midlands,0.1519565849675776,0.1804448471270501,XGB-Direct
+e-faecium__Glycopeptides__Yorkshire and Humber,0.11624443030685461,0.14934490804595935,XGB-Direct
+E-coli__Amikacin__East Midlands,0.20601305201397113,0.2549053002042643,XGB-Recursive
+E-coli__Amikacin__East of England,0.17839157391477511,0.25732697115947667,XGB-Recursive
+E-coli__Amikacin__London,0.27058118999679764,0.2986045306337751,XGB-Recursive
+E-coli__Amikacin__North East,0.17972577487696792,0.20201750021991624,XGB-Recursive
+E-coli__Amikacin__North West,0.15148245198185115,0.2054651147366736,XGB-Recursive
+E-coli__Amikacin__South East,0.37684713784853613,0.46315782489886953,XGB-Recursive
+E-coli__Amikacin__South West,0.20705231670375288,0.25677268009312015,XGB-Recursive
+E-coli__Amikacin__West Midlands,0.245535077961905,0.3114647429596601,XGB-Recursive
+E-coli__Amikacin__Yorkshire and Humber,0.30489805020030025,0.3624881333957007,XGB-Recursive
+E-coli__Carbapenems__East Midlands,0.2661904886333893,0.318157193641866,XGB-Recursive
+E-coli__Carbapenems__East of England,0.29017300231783993,0.3578396511303148,XGB-Recursive
+E-coli__Carbapenems__London,0.13408768432480944,0.22378734109561488,XGB-Recursive
+E-coli__Carbapenems__North East,0.2221862441987873,0.384516043946948,XGB-Recursive
+E-coli__Carbapenems__North West,0.2772615531712402,0.3717063931217367,XGB-Recursive
+E-coli__Carbapenems__South East,0.3171019776275864,0.36828902372647176,XGB-Recursive
+E-coli__Carbapenems__South West,0.32490216568489644,0.44151915333881736,XGB-Recursive
+E-coli__Carbapenems__West Midlands,0.28981254561573055,0.3672336468007377,XGB-Recursive
+E-coli__Carbapenems__Yorkshire and Humber,0.23434812339180133,0.2967903536392186,XGB-Recursive
+E-coli__Ciprofloxacin__East Midlands,0.31570528775879697,0.4073913400549598,XGB-Recursive
+E-coli__Ciprofloxacin__East of England,0.40508844122040477,0.41416243471372644,XGB-Recursive
+E-coli__Ciprofloxacin__London,0.14547103108503875,0.1736747583999377,XGB-Recursive
+E-coli__Ciprofloxacin__North East,0.11637058844763333,0.14442647049773247,XGB-Recursive
+E-coli__Ciprofloxacin__North West,0.1797361563738078,0.23131967530510372,XGB-Recursive
+E-coli__Ciprofloxacin__South East,0.20969531622343465,0.24813000483887887,XGB-Recursive
+E-coli__Ciprofloxacin__South West,0.34972966777835524,0.3975253680476599,XGB-Recursive
+E-coli__Ciprofloxacin__West Midlands,0.2743376208063016,0.31490289459826937,XGB-Recursive
+E-coli__Ciprofloxacin__Yorkshire and Humber,0.17700474164770838,0.2612525375417218,XGB-Recursive
+E-coli__Co-amoxiclav__East Midlands,0.2311196810878391,0.2659177465405909,XGB-Recursive
+E-coli__Co-amoxiclav__East of England,0.2023547271560866,0.22454821767536043,XGB-Recursive
+E-coli__Co-amoxiclav__London,0.18026946352357598,0.20960481390875202,XGB-Recursive
+E-coli__Co-amoxiclav__North East,0.20320279728471435,0.24397784809802933,XGB-Recursive
+E-coli__Co-amoxiclav__North West,0.22487242248039907,0.2575363269152298,XGB-Recursive
+E-coli__Co-amoxiclav__South East,0.19303404941682092,0.21694363479724593,XGB-Recursive
+E-coli__Co-amoxiclav__South West,0.21882762353427396,0.23816003286868206,XGB-Recursive
+E-coli__Co-amoxiclav__West Midlands,0.30757181440352915,0.3718884437049442,XGB-Recursive
+E-coli__Co-amoxiclav__Yorkshire and Humber,0.26126382715136015,0.28218692194543793,XGB-Recursive
+E-coli__Gentamicin__East Midlands,0.11570309836795371,0.1369278674369964,XGB-Recursive
+E-coli__Gentamicin__East of England,0.2855686280226792,0.3263589908688149,XGB-Recursive
+E-coli__Gentamicin__London,0.3664817230878466,0.3869804343371566,XGB-Recursive
+E-coli__Gentamicin__North East,0.3631932518598798,0.39111529048176696,XGB-Recursive
+E-coli__Gentamicin__North West,0.2974560530828283,0.37826194930530477,XGB-Recursive
+E-coli__Gentamicin__South East,0.20621430804830712,0.2395964289714684,XGB-Recursive
+E-coli__Gentamicin__South West,0.28427938467482655,0.2935278764537378,XGB-Recursive
+E-coli__Gentamicin__West Midlands,0.2599458681639805,0.291558255563837,XGB-Recursive
+E-coli__Gentamicin__Yorkshire and Humber,0.15446488055759722,0.18186784484145,XGB-Recursive
+E-coli__Piperacillin with tazobactam__East Midlands,0.12136748913356232,0.12936413818776565,XGB-Recursive
+E-coli__Piperacillin with tazobactam__East of England,0.38061452996336476,0.43901256629515334,XGB-Recursive
+E-coli__Piperacillin with tazobactam__London,0.19459483703046973,0.30317025012390164,XGB-Recursive
+E-coli__Piperacillin with tazobactam__North East,0.3141128478721832,0.34030027758678527,XGB-Recursive
+E-coli__Piperacillin with tazobactam__North West,0.18716820836568085,0.23261216295711198,XGB-Recursive
+E-coli__Piperacillin with tazobactam__South East,0.2543587460375479,0.31678726820184083,XGB-Recursive
+E-coli__Piperacillin with tazobactam__South West,0.3142283488184321,0.3664967123925546,XGB-Recursive
+E-coli__Piperacillin with tazobactam__West Midlands,0.30408303144599463,0.32701022607058255,XGB-Recursive
+E-coli__Piperacillin with tazobactam__Yorkshire and Humber,0.11187197491868979,0.14926490045132818,XGB-Recursive
+E-coli__Third Generation Cephalosporins__East Midlands,0.15570971239459974,0.19363259464115207,XGB-Recursive
+E-coli__Third Generation Cephalosporins__East of England,0.18013375440539883,0.2507328374039834,XGB-Recursive
+E-coli__Third Generation Cephalosporins__London,0.2963430648210292,0.3313540292034018,XGB-Recursive
+E-coli__Third Generation Cephalosporins__North East,0.30189906405103323,0.33541107207281484,XGB-Recursive
+E-coli__Third Generation Cephalosporins__North West,0.29263209704954735,0.30742298231138043,XGB-Recursive
+E-coli__Third Generation Cephalosporins__South East,0.20895701304568362,0.24716433185210024,XGB-Recursive
+E-coli__Third Generation Cephalosporins__South West,0.23209588023332448,0.23643230341033158,XGB-Recursive
+E-coli__Third Generation Cephalosporins__West Midlands,0.2112371016878574,0.2508053670404781,XGB-Recursive
+E-coli__Third Generation Cephalosporins__Yorkshire and Humber,0.20296486913250048,0.26820811943233486,XGB-Recursive
+K-pneumoniae__Amikacin__East Midlands,0.3813444711398319,0.4398155197914007,XGB-Recursive
+K-pneumoniae__Amikacin__East of England,0.2524204455517433,0.26941243308964474,XGB-Recursive
+K-pneumoniae__Amikacin__London,0.16252484373386195,0.20663511493858563,XGB-Recursive
+K-pneumoniae__Amikacin__North East,0.23245411117871606,0.2707047958472525,XGB-Recursive
+K-pneumoniae__Amikacin__North West,0.38807410511543,0.4356546041486281,XGB-Recursive
+K-pneumoniae__Amikacin__South East,0.13858693646921957,0.14666452581127204,XGB-Recursive
+K-pneumoniae__Amikacin__South West,0.3099931494760467,0.4147792080130962,XGB-Recursive
+K-pneumoniae__Amikacin__West Midlands,0.31881755578976406,0.38873094223906146,XGB-Recursive
+K-pneumoniae__Amikacin__Yorkshire and Humber,0.3286713061531385,0.41580941107885483,XGB-Recursive
+K-pneumoniae__Carbapenems__East Midlands,0.40924901544646525,0.43449284059880106,XGB-Recursive
+K-pneumoniae__Carbapenems__East of England,0.31729037098843477,0.350565822393735,XGB-Recursive
+K-pneumoniae__Carbapenems__London,0.21787921228844395,0.25841868173510296,XGB-Recursive
+K-pneumoniae__Carbapenems__North East,0.09800546153412577,0.14480390185038242,XGB-Recursive
+K-pneumoniae__Carbapenems__North West,0.1802930123012084,0.24138876644159557,XGB-Recursive
+K-pneumoniae__Carbapenems__South East,0.4323868950208028,0.4699623468994482,XGB-Recursive
+K-pneumoniae__Carbapenems__South West,0.21062868277058153,0.29092386570456064,XGB-Recursive
+K-pneumoniae__Carbapenems__West Midlands,0.24479670592190061,0.3051079055062517,XGB-Recursive
+K-pneumoniae__Carbapenems__Yorkshire and Humber,0.32338335095420806,0.36967908742032934,XGB-Recursive
+K-pneumoniae__Ciprofloxacin__East Midlands,0.2806198932748673,0.29318253724080234,XGB-Recursive
+K-pneumoniae__Ciprofloxacin__East of England,0.15506665140940665,0.1914511681492254,XGB-Recursive
+K-pneumoniae__Ciprofloxacin__London,0.33793339494136637,0.3888805299130486,XGB-Recursive
+K-pneumoniae__Ciprofloxacin__North East,0.13380107495621804,0.1556772561136132,XGB-Recursive
+K-pneumoniae__Ciprofloxacin__North West,0.2113099432416696,0.2481469281709068,XGB-Recursive
+K-pneumoniae__Ciprofloxacin__South East,0.2671658161774246,0.3277241779826527,XGB-Recursive
+K-pneumoniae__Ciprofloxacin__South West,0.3095715339468302,0.37246586090916417,XGB-Recursive
+K-pneumoniae__Ciprofloxacin__West Midlands,0.07924705290614041,0.11342935756264647,XGB-Recursive
+K-pneumoniae__Ciprofloxacin__Yorkshire and Humber,0.16995321211727898,0.19277525231291462,XGB-Recursive
+K-pneumoniae__Co-amoxiclav__East Midlands,0.3008234541728554,0.38429531252246174,XGB-Recursive
+K-pneumoniae__Co-amoxiclav__East of England,0.27821822789355155,0.288642974524543,XGB-Recursive
+K-pneumoniae__Co-amoxiclav__London,0.17300779703978733,0.1991937380146368,XGB-Recursive
+K-pneumoniae__Co-amoxiclav__North East,0.1280135821547644,0.14936288448707422,XGB-Recursive
+K-pneumoniae__Co-amoxiclav__North West,0.15522981135620773,0.2030730194649388,XGB-Recursive
+K-pneumoniae__Co-amoxiclav__South East,0.15468980788181938,0.17570562703983902,XGB-Recursive
+K-pneumoniae__Co-amoxiclav__South West,0.25670899550907367,0.31268472178846785,XGB-Recursive
+K-pneumoniae__Co-amoxiclav__West Midlands,0.3366599121812847,0.38464198216220374,XGB-Recursive
+K-pneumoniae__Co-amoxiclav__Yorkshire and Humber,0.1644129957432694,0.20370178565116426,XGB-Recursive
+K-pneumoniae__Gentamicin__East Midlands,0.27560163190156334,0.3560861002480529,XGB-Recursive
+K-pneumoniae__Gentamicin__East of England,0.21966014548639112,0.23276064770864943,XGB-Recursive
+K-pneumoniae__Gentamicin__London,0.14194878539687494,0.17303769662127744,XGB-Recursive
+K-pneumoniae__Gentamicin__North East,0.1377097672144776,0.17222847530101462,XGB-Recursive
+K-pneumoniae__Gentamicin__North West,0.22506175903796724,0.2356946426789805,XGB-Recursive
+K-pneumoniae__Gentamicin__South East,0.22913246195163972,0.2799416842499125,XGB-Recursive
+K-pneumoniae__Gentamicin__South West,0.3608077566241163,0.40141779720579157,XGB-Recursive
+K-pneumoniae__Gentamicin__West Midlands,0.2281186305683708,0.2663596321913211,XGB-Recursive
+K-pneumoniae__Gentamicin__Yorkshire and Humber,0.20448721916176552,0.24498333008223494,XGB-Recursive
+K-pneumoniae__Piperacillin with tazobactam__East Midlands,0.21928729356705454,0.2251487058460205,XGB-Recursive
+K-pneumoniae__Piperacillin with tazobactam__East of England,0.3692369429092764,0.38249004242842743,XGB-Recursive
+K-pneumoniae__Piperacillin with tazobactam__London,0.25412985051289577,0.28729298883534504,XGB-Recursive
+K-pneumoniae__Piperacillin with tazobactam__North East,0.26079653681549675,0.3017323311164065,XGB-Recursive
+K-pneumoniae__Piperacillin with tazobactam__North West,0.1896530196109376,0.22891127268554087,XGB-Recursive
+K-pneumoniae__Piperacillin with tazobactam__South East,0.12564680995642588,0.1619303063375398,XGB-Recursive
+K-pneumoniae__Piperacillin with tazobactam__South West,0.17310046158822723,0.21142501953152357,XGB-Recursive
+K-pneumoniae__Piperacillin with tazobactam__West Midlands,0.14253934185842565,0.1705738588531978,XGB-Recursive
+K-pneumoniae__Piperacillin with tazobactam__Yorkshire and Humber,0.19179639917598923,0.2251561853592147,XGB-Recursive
+K-pneumoniae__Third Generation Cephalosporins__East Midlands,0.16577305903284645,0.18076270032697248,XGB-Recursive
+K-pneumoniae__Third Generation Cephalosporins__East of England,0.21489708799161886,0.23132619488900383,XGB-Recursive
+K-pneumoniae__Third Generation Cephalosporins__London,0.11737119887536496,0.15104240340243177,XGB-Recursive
+K-pneumoniae__Third Generation Cephalosporins__North East,0.1790872242281345,0.21171216043409657,XGB-Recursive
+K-pneumoniae__Third Generation Cephalosporins__North West,0.13415570716212574,0.1575657645263937,XGB-Recursive
+K-pneumoniae__Third Generation Cephalosporins__South East,0.1878958727117752,0.24420734016683826,XGB-Recursive
+K-pneumoniae__Third Generation Cephalosporins__South West,0.19166410438392467,0.24982545468826373,XGB-Recursive
+K-pneumoniae__Third Generation Cephalosporins__West Midlands,0.19349094268648412,0.313883406286745,XGB-Recursive
+K-pneumoniae__Third Generation Cephalosporins__Yorkshire and Humber,0.1865587289739082,0.2288603745118581,XGB-Recursive
+P-aeruginosa__Amikacin__East Midlands,0.5957203231748626,0.6245935898831072,XGB-Recursive
+P-aeruginosa__Amikacin__East of England,0.3281346432712737,0.4024003435485827,XGB-Recursive
+P-aeruginosa__Amikacin__London,0.19555050012180988,0.2692166726206016,XGB-Recursive
+P-aeruginosa__Amikacin__North East,0.015774148061003263,0.03846396326329056,XGB-Recursive
+P-aeruginosa__Amikacin__North West,0.3738539082731241,0.42671368856965375,XGB-Recursive
+P-aeruginosa__Amikacin__South East,0.3826672659404036,0.4266729155600609,XGB-Recursive
+P-aeruginosa__Amikacin__South West,0.603299371328362,0.6745242108547307,XGB-Recursive
+P-aeruginosa__Amikacin__West Midlands,0.22763412113733072,0.27725937691532127,XGB-Recursive
+P-aeruginosa__Amikacin__Yorkshire and Humber,0.2223113946404134,0.3849718218828603,XGB-Recursive
+P-aeruginosa__Carbapenems__East Midlands,0.1622213102808786,0.23138786354273744,XGB-Recursive
+P-aeruginosa__Carbapenems__East of England,0.15263018435467787,0.1716623596369934,XGB-Recursive
+P-aeruginosa__Carbapenems__London,0.1533521294431084,0.1805252742498131,XGB-Recursive
+P-aeruginosa__Carbapenems__North East,0.2738256194591522,0.35557308539852434,XGB-Recursive
+P-aeruginosa__Carbapenems__North West,0.21617794004175292,0.24847914222195597,XGB-Recursive
+P-aeruginosa__Carbapenems__South East,0.28328604652588546,0.3006049810561575,XGB-Recursive
+P-aeruginosa__Carbapenems__South West,0.16425741880129752,0.1988846067963856,XGB-Recursive
+P-aeruginosa__Carbapenems__West Midlands,0.3050342342737608,0.3644799577778539,XGB-Recursive
+P-aeruginosa__Carbapenems__Yorkshire and Humber,0.3017530394557293,0.3601870514952717,XGB-Recursive
+P-aeruginosa__Ceftazidime__East Midlands,0.20757722281457877,0.2506559282089623,XGB-Recursive
+P-aeruginosa__Ceftazidime__East of England,0.17482225985305952,0.18891333735031168,XGB-Recursive
+P-aeruginosa__Ceftazidime__London,0.15739231685082278,0.21923083601236523,XGB-Recursive
+P-aeruginosa__Ceftazidime__North East,0.1852544609408754,0.25330057727361954,XGB-Recursive
+P-aeruginosa__Ceftazidime__North West,0.2056333762109043,0.25917241026929416,XGB-Recursive
+P-aeruginosa__Ceftazidime__South East,0.23792212409464086,0.29787352099712605,XGB-Recursive
+P-aeruginosa__Ceftazidime__South West,0.27500278837404757,0.36998288606658786,XGB-Recursive
+P-aeruginosa__Ceftazidime__West Midlands,0.2029493822974622,0.2106236870842226,XGB-Recursive
+P-aeruginosa__Ceftazidime__Yorkshire and Humber,0.3702398598464234,0.39504694776848936,XGB-Recursive
+P-aeruginosa__Ciprofloxacin__East Midlands,0.16240777540076984,0.1824054901947779,XGB-Recursive
+P-aeruginosa__Ciprofloxacin__East of England,0.2773591207478661,0.31945846210183565,XGB-Recursive
+P-aeruginosa__Ciprofloxacin__London,0.2273579838482848,0.27339830406831145,XGB-Recursive
+P-aeruginosa__Ciprofloxacin__North East,0.2174422449656571,0.3086194273310948,XGB-Recursive
+P-aeruginosa__Ciprofloxacin__North West,0.14209149148239744,0.1723682972765691,XGB-Recursive
+P-aeruginosa__Ciprofloxacin__South East,0.2864188755369051,0.3312769981885311,XGB-Recursive
+P-aeruginosa__Ciprofloxacin__South West,0.32231890410611214,0.3788933805434615,XGB-Recursive
+P-aeruginosa__Ciprofloxacin__West Midlands,0.3435851903873428,0.44381977355383584,XGB-Recursive
+P-aeruginosa__Ciprofloxacin__Yorkshire and Humber,0.15907637307847844,0.19760595904146167,XGB-Recursive
+P-aeruginosa__Piperacillin with tazobactam__East Midlands,0.32565172965722583,0.3980072801557721,XGB-Recursive
+P-aeruginosa__Piperacillin with tazobactam__East of England,0.25534654409294655,0.29787924264929627,XGB-Recursive
+P-aeruginosa__Piperacillin with tazobactam__London,0.18106976994935634,0.2222854749383734,XGB-Recursive
+P-aeruginosa__Piperacillin with tazobactam__North East,0.37667325866373363,0.43256398057880374,XGB-Recursive
+P-aeruginosa__Piperacillin with tazobactam__North West,0.18606097360820836,0.2149253396708088,XGB-Recursive
+P-aeruginosa__Piperacillin with tazobactam__South East,0.21159359031657832,0.2390611576351921,XGB-Recursive
+P-aeruginosa__Piperacillin with tazobactam__South West,0.43315251094765134,0.5183375590701138,XGB-Recursive
+P-aeruginosa__Piperacillin with tazobactam__West Midlands,0.2419477462996177,0.2906001298284522,XGB-Recursive
+P-aeruginosa__Piperacillin with tazobactam__Yorkshire and Humber,0.17055927711703323,0.23605215942945476,XGB-Recursive
+S-pneumoniae__Macrolides__East Midlands,0.11344581818580628,0.12524359435764756,XGB-Recursive
+S-pneumoniae__Macrolides__East of England,0.1786250243888238,0.2228641140784619,XGB-Recursive
+S-pneumoniae__Macrolides__London,0.13228979707260924,0.17824602965586003,XGB-Recursive
+S-pneumoniae__Macrolides__North East,0.09403297139152357,0.1324873719163234,XGB-Recursive
+S-pneumoniae__Macrolides__North West,0.23504988126459803,0.2595422887593373,XGB-Recursive
+S-pneumoniae__Macrolides__South East,0.19270633063137743,0.27514690618995286,XGB-Recursive
+S-pneumoniae__Macrolides__South West,0.14574564363890222,0.17237383114180227,XGB-Recursive
+S-pneumoniae__Macrolides__West Midlands,0.26528141291896307,0.3334961061185281,XGB-Recursive
+S-pneumoniae__Macrolides__Yorkshire and Humber,0.09786374424868009,0.11422992036516987,XGB-Recursive
+S-pneumoniae__Penicillin__East Midlands,0.43102875652801514,0.5213294390580767,XGB-Recursive
+S-pneumoniae__Penicillin__East of England,0.15790016630812687,0.1779110215832811,XGB-Recursive
+S-pneumoniae__Penicillin__London,0.27094294633120025,0.28981757158445054,XGB-Recursive
+S-pneumoniae__Penicillin__North East,0.13197743828095318,0.2290119312414595,XGB-Recursive
+S-pneumoniae__Penicillin__North West,0.11225643450021745,0.13654699314766003,XGB-Recursive
+S-pneumoniae__Penicillin__South East,0.1386828425281655,0.16750079236549104,XGB-Recursive
+S-pneumoniae__Penicillin__South West,0.17271897321839413,0.23783837958411144,XGB-Recursive
+S-pneumoniae__Penicillin__West Midlands,0.24457128032598963,0.35625749688863834,XGB-Recursive
+S-pneumoniae__Penicillin__Yorkshire and Humber,0.2510349190950665,0.2724072035313905,XGB-Recursive
+e-faecalis__Glycopeptides__East Midlands,0.195468885543153,0.24762446407895466,XGB-Recursive
+e-faecalis__Glycopeptides__East of England,0.21076948919979188,0.23059024309914009,XGB-Recursive
+e-faecalis__Glycopeptides__London,0.5027399831920397,0.5477625547653194,XGB-Recursive
+e-faecalis__Glycopeptides__North East,0.30004358935405323,0.3701099175743072,XGB-Recursive
+e-faecalis__Glycopeptides__North West,0.25523668956438306,0.2734479426793117,XGB-Recursive
+e-faecalis__Glycopeptides__South East,0.2562643930011866,0.3191143250938525,XGB-Recursive
+e-faecalis__Glycopeptides__South West,0.31482513751498686,0.33565096108091147,XGB-Recursive
+e-faecalis__Glycopeptides__West Midlands,0.2758746210470452,0.3261992834461417,XGB-Recursive
+e-faecalis__Glycopeptides__Yorkshire and Humber,0.10344841015422652,0.13470672548229465,XGB-Recursive
+e-faecium__Glycopeptides__East Midlands,0.22487081102296416,0.31229203989171,XGB-Recursive
+e-faecium__Glycopeptides__East of England,0.22237306403071636,0.2862673584623393,XGB-Recursive
+e-faecium__Glycopeptides__London,0.21184797538151537,0.25847305354462674,XGB-Recursive
+e-faecium__Glycopeptides__North East,0.3788858827738603,0.41512540711168494,XGB-Recursive
+e-faecium__Glycopeptides__North West,0.23336994263490796,0.29095252725574294,XGB-Recursive
+e-faecium__Glycopeptides__South East,0.2635917980939637,0.3365235814889277,XGB-Recursive
+e-faecium__Glycopeptides__South West,0.14661679427452998,0.17418507116598744,XGB-Recursive
+e-faecium__Glycopeptides__West Midlands,0.13568966281156158,0.16553581548273957,XGB-Recursive
+e-faecium__Glycopeptides__Yorkshire and Humber,0.14351086975602198,0.1579440757153251,XGB-Recursive
+E-coli__Amikacin__East Midlands,0.2714874622408305,0.2922070593743758,LGBM-Direct
+E-coli__Amikacin__East of England,0.15237952288949794,0.21128364621149887,LGBM-Direct
+E-coli__Amikacin__London,0.2653004815325144,0.31086973800177103,LGBM-Direct
+E-coli__Amikacin__North East,0.22757003641126017,0.27781694833202747,LGBM-Direct
+E-coli__Amikacin__North West,0.22082790687005938,0.2709202027179948,LGBM-Direct
+E-coli__Amikacin__South East,0.24600174233165406,0.27741586605158153,LGBM-Direct
+E-coli__Amikacin__South West,0.226872006142011,0.27467014959349795,LGBM-Direct
+E-coli__Amikacin__West Midlands,0.22801474286845227,0.2744545973297516,LGBM-Direct
+E-coli__Amikacin__Yorkshire and Humber,0.27104258057191694,0.31701440754275845,LGBM-Direct
+E-coli__Carbapenems__East Midlands,0.1912126294257812,0.2366331783927325,LGBM-Direct
+E-coli__Carbapenems__East of England,0.23167564312708996,0.28329773052866575,LGBM-Direct
+E-coli__Carbapenems__London,0.3062930703131842,0.3371131035196917,LGBM-Direct
+E-coli__Carbapenems__North East,0.14674263652175346,0.27693804100807873,LGBM-Direct
+E-coli__Carbapenems__North West,0.1908979793809998,0.2720912764358721,LGBM-Direct
+E-coli__Carbapenems__South East,0.2961365671416339,0.3362804767830304,LGBM-Direct
+E-coli__Carbapenems__South West,0.27284531266866824,0.3041799276923182,LGBM-Direct
+E-coli__Carbapenems__West Midlands,0.3010626766869012,0.3779381081062541,LGBM-Direct
+E-coli__Carbapenems__Yorkshire and Humber,0.15090817181311605,0.24378268477812598,LGBM-Direct
+E-coli__Ciprofloxacin__East Midlands,0.31153401499745537,0.37422350384783143,LGBM-Direct
+E-coli__Ciprofloxacin__East of England,0.32400616192389164,0.345572211715901,LGBM-Direct
+E-coli__Ciprofloxacin__London,0.1465333946744928,0.17322537416258002,LGBM-Direct
+E-coli__Ciprofloxacin__North East,0.14386118898284284,0.15581562766621682,LGBM-Direct
+E-coli__Ciprofloxacin__North West,0.2458392352109077,0.2931328319486487,LGBM-Direct
+E-coli__Ciprofloxacin__South East,0.24867394673725499,0.3055718039810885,LGBM-Direct
+E-coli__Ciprofloxacin__South West,0.281550770227973,0.34395526094692896,LGBM-Direct
+E-coli__Ciprofloxacin__West Midlands,0.2910007425853672,0.33513771268072245,LGBM-Direct
+E-coli__Ciprofloxacin__Yorkshire and Humber,0.3039523673172546,0.3351166378520923,LGBM-Direct
+E-coli__Co-amoxiclav__East Midlands,0.27117817850286124,0.31700611668784046,LGBM-Direct
+E-coli__Co-amoxiclav__East of England,0.19218242248628045,0.2558478182874764,LGBM-Direct
+E-coli__Co-amoxiclav__London,0.17078925937197562,0.17742822314902534,LGBM-Direct
+E-coli__Co-amoxiclav__North East,0.2014071538781509,0.2271345232849076,LGBM-Direct
+E-coli__Co-amoxiclav__North West,0.2040988238175637,0.2318710072630719,LGBM-Direct
+E-coli__Co-amoxiclav__South East,0.14517119650376994,0.20071227803261643,LGBM-Direct
+E-coli__Co-amoxiclav__South West,0.11973452865405575,0.13757565209880013,LGBM-Direct
+E-coli__Co-amoxiclav__West Midlands,0.39031055215626614,0.417996891724061,LGBM-Direct
+E-coli__Co-amoxiclav__Yorkshire and Humber,0.2935580858673918,0.30106278894159433,LGBM-Direct
+E-coli__Gentamicin__East Midlands,0.12243202930260494,0.15519387419201677,LGBM-Direct
+E-coli__Gentamicin__East of England,0.2909324328540906,0.3458633752101483,LGBM-Direct
+E-coli__Gentamicin__London,0.26414484088889356,0.31394568368088066,LGBM-Direct
+E-coli__Gentamicin__North East,0.25508279824123065,0.2927609025632753,LGBM-Direct
+E-coli__Gentamicin__North West,0.2611547829937619,0.3027712767532852,LGBM-Direct
+E-coli__Gentamicin__South East,0.15987832464043858,0.2276491103685575,LGBM-Direct
+E-coli__Gentamicin__South West,0.14716144810007845,0.18351505357690745,LGBM-Direct
+E-coli__Gentamicin__West Midlands,0.26305383723429987,0.3364594018855015,LGBM-Direct
+E-coli__Gentamicin__Yorkshire and Humber,0.19930458381680669,0.22899587989199724,LGBM-Direct
+E-coli__Piperacillin with tazobactam__East Midlands,0.10924349842521075,0.1156312003410406,LGBM-Direct
+E-coli__Piperacillin with tazobactam__East of England,0.23063391504435884,0.25892047748035263,LGBM-Direct
+E-coli__Piperacillin with tazobactam__London,0.2639619764169659,0.3278240356479971,LGBM-Direct
+E-coli__Piperacillin with tazobactam__North East,0.2032817345884699,0.2390432398651885,LGBM-Direct
+E-coli__Piperacillin with tazobactam__North West,0.29671461748318323,0.30268528399148315,LGBM-Direct
+E-coli__Piperacillin with tazobactam__South East,0.13734874155396856,0.1984042947761561,LGBM-Direct
+E-coli__Piperacillin with tazobactam__South West,0.32245454712093335,0.356370467647784,LGBM-Direct
+E-coli__Piperacillin with tazobactam__West Midlands,0.30621622421704525,0.37307474602386204,LGBM-Direct
+E-coli__Piperacillin with tazobactam__Yorkshire and Humber,0.18690228755450988,0.21731280005178172,LGBM-Direct
+E-coli__Third Generation Cephalosporins__East Midlands,0.20187518742100838,0.21935741047625062,LGBM-Direct
+E-coli__Third Generation Cephalosporins__East of England,0.24880870854801238,0.2846974666111937,LGBM-Direct
+E-coli__Third Generation Cephalosporins__London,0.25633246837836016,0.3070302364685069,LGBM-Direct
+E-coli__Third Generation Cephalosporins__North East,0.2297003152162529,0.2387924842658365,LGBM-Direct
+E-coli__Third Generation Cephalosporins__North West,0.3004280003263317,0.34273676770248784,LGBM-Direct
+E-coli__Third Generation Cephalosporins__South East,0.29256587890170377,0.322009864268088,LGBM-Direct
+E-coli__Third Generation Cephalosporins__South West,0.18805923749856393,0.25257790685825715,LGBM-Direct
+E-coli__Third Generation Cephalosporins__West Midlands,0.29727510233529403,0.327807674948695,LGBM-Direct
+E-coli__Third Generation Cephalosporins__Yorkshire and Humber,0.24736032559301965,0.2901492324741054,LGBM-Direct
+K-pneumoniae__Amikacin__East Midlands,0.2968775558353858,0.35980114873300345,LGBM-Direct
+K-pneumoniae__Amikacin__East of England,0.28098723771361944,0.3159116412314377,LGBM-Direct
+K-pneumoniae__Amikacin__London,0.18414266917470293,0.22724031662857386,LGBM-Direct
+K-pneumoniae__Amikacin__North East,0.15609109336029653,0.18992872643099795,LGBM-Direct
+K-pneumoniae__Amikacin__North West,0.3069548364536511,0.3486946412535469,LGBM-Direct
+K-pneumoniae__Amikacin__South East,0.1318581925426293,0.16256276341124112,LGBM-Direct
+K-pneumoniae__Amikacin__South West,0.2950639979398458,0.36365282269866206,LGBM-Direct
+K-pneumoniae__Amikacin__West Midlands,0.3201032761028009,0.3639045274694806,LGBM-Direct
+K-pneumoniae__Amikacin__Yorkshire and Humber,0.23307975461858288,0.332110757600785,LGBM-Direct
+K-pneumoniae__Carbapenems__East Midlands,0.3128223971856043,0.3903954914741272,LGBM-Direct
+K-pneumoniae__Carbapenems__East of England,0.2748355683613697,0.3463041264408329,LGBM-Direct
+K-pneumoniae__Carbapenems__London,0.23363749359227226,0.2564753538103832,LGBM-Direct
+K-pneumoniae__Carbapenems__North East,0.14552914272155348,0.15572902176939354,LGBM-Direct
+K-pneumoniae__Carbapenems__North West,0.166642049411462,0.1998009030656097,LGBM-Direct
+K-pneumoniae__Carbapenems__South East,0.3626868839134221,0.4137075511337098,LGBM-Direct
+K-pneumoniae__Carbapenems__South West,0.26137345824587754,0.26593519896866413,LGBM-Direct
+K-pneumoniae__Carbapenems__West Midlands,0.20182321602916012,0.23264976246082308,LGBM-Direct
+K-pneumoniae__Carbapenems__Yorkshire and Humber,0.21115760854381382,0.2406874214253469,LGBM-Direct
+K-pneumoniae__Ciprofloxacin__East Midlands,0.18399378971584132,0.20429260971363428,LGBM-Direct
+K-pneumoniae__Ciprofloxacin__East of England,0.2214029665860099,0.2370103793562753,LGBM-Direct
+K-pneumoniae__Ciprofloxacin__London,0.21652611317322068,0.24722618353510387,LGBM-Direct
+K-pneumoniae__Ciprofloxacin__North East,0.06870351042969726,0.08585370864544035,LGBM-Direct
+K-pneumoniae__Ciprofloxacin__North West,0.24278170586848088,0.2567865099347847,LGBM-Direct
+K-pneumoniae__Ciprofloxacin__South East,0.24860052154108003,0.3226560879857868,LGBM-Direct
+K-pneumoniae__Ciprofloxacin__South West,0.28226941673139855,0.3376623554054925,LGBM-Direct
+K-pneumoniae__Ciprofloxacin__West Midlands,0.2121355715580383,0.2211094152949508,LGBM-Direct
+K-pneumoniae__Ciprofloxacin__Yorkshire and Humber,0.14748508602693758,0.20341888626626997,LGBM-Direct
+K-pneumoniae__Co-amoxiclav__East Midlands,0.3282023149130459,0.39365344630202365,LGBM-Direct
+K-pneumoniae__Co-amoxiclav__East of England,0.22253139360113425,0.2656166720419191,LGBM-Direct
+K-pneumoniae__Co-amoxiclav__London,0.16890860488681478,0.18420964022285577,LGBM-Direct
+K-pneumoniae__Co-amoxiclav__North East,0.22064378420498687,0.25340720943626416,LGBM-Direct
+K-pneumoniae__Co-amoxiclav__North West,0.30516986152812037,0.3376319099829995,LGBM-Direct
+K-pneumoniae__Co-amoxiclav__South East,0.1889472963052606,0.2035287718373818,LGBM-Direct
+K-pneumoniae__Co-amoxiclav__South West,0.20345834365885226,0.23331019383290647,LGBM-Direct
+K-pneumoniae__Co-amoxiclav__West Midlands,0.29974991539298323,0.3340006120676798,LGBM-Direct
+K-pneumoniae__Co-amoxiclav__Yorkshire and Humber,0.17370827916018397,0.18897310186926497,LGBM-Direct
+K-pneumoniae__Gentamicin__East Midlands,0.22449083157984628,0.2677136358658114,LGBM-Direct
+K-pneumoniae__Gentamicin__East of England,0.1403457928244355,0.1769884426749206,LGBM-Direct
+K-pneumoniae__Gentamicin__London,0.1670369638200344,0.1829586294291296,LGBM-Direct
+K-pneumoniae__Gentamicin__North East,0.23757388166991097,0.27056219667825115,LGBM-Direct
+K-pneumoniae__Gentamicin__North West,0.23914141118529528,0.27692782704783886,LGBM-Direct
+K-pneumoniae__Gentamicin__South East,0.3718014913958199,0.39054487756966927,LGBM-Direct
+K-pneumoniae__Gentamicin__South West,0.25807831671968584,0.2935626865075969,LGBM-Direct
+K-pneumoniae__Gentamicin__West Midlands,0.20767379987385381,0.22215492716961582,LGBM-Direct
+K-pneumoniae__Gentamicin__Yorkshire and Humber,0.15844186270636773,0.19256310601008603,LGBM-Direct
+K-pneumoniae__Piperacillin with tazobactam__East Midlands,0.3238575625295202,0.41448098622426993,LGBM-Direct
+K-pneumoniae__Piperacillin with tazobactam__East of England,0.27876113581867606,0.32194581112292453,LGBM-Direct
+K-pneumoniae__Piperacillin with tazobactam__London,0.2391794849904599,0.2595694422379131,LGBM-Direct
+K-pneumoniae__Piperacillin with tazobactam__North East,0.21355470198155468,0.25783715639822197,LGBM-Direct
+K-pneumoniae__Piperacillin with tazobactam__North West,0.18656686092140504,0.23459926537104978,LGBM-Direct
+K-pneumoniae__Piperacillin with tazobactam__South East,0.13459347769913801,0.17028783921971782,LGBM-Direct
+K-pneumoniae__Piperacillin with tazobactam__South West,0.25821721492909844,0.28018801148057565,LGBM-Direct
+K-pneumoniae__Piperacillin with tazobactam__West Midlands,0.1936519494701289,0.22718832270156442,LGBM-Direct
+K-pneumoniae__Piperacillin with tazobactam__Yorkshire and Humber,0.16351330874458983,0.17913504180119047,LGBM-Direct
+K-pneumoniae__Third Generation Cephalosporins__East Midlands,0.2596608780004119,0.30018824970205155,LGBM-Direct
+K-pneumoniae__Third Generation Cephalosporins__East of England,0.22955230620977551,0.26967859755493184,LGBM-Direct
+K-pneumoniae__Third Generation Cephalosporins__London,0.15984686571420614,0.16494663945548751,LGBM-Direct
+K-pneumoniae__Third Generation Cephalosporins__North East,0.17602221843479485,0.2326351760785574,LGBM-Direct
+K-pneumoniae__Third Generation Cephalosporins__North West,0.19228174591468628,0.2257999269198169,LGBM-Direct
+K-pneumoniae__Third Generation Cephalosporins__South East,0.12689194762778122,0.14698302453819964,LGBM-Direct
+K-pneumoniae__Third Generation Cephalosporins__South West,0.19429227137821156,0.24448656134094582,LGBM-Direct
+K-pneumoniae__Third Generation Cephalosporins__West Midlands,0.20430187958075188,0.2782644530484332,LGBM-Direct
+K-pneumoniae__Third Generation Cephalosporins__Yorkshire and Humber,0.15911385369178455,0.18094157644795086,LGBM-Direct
+P-aeruginosa__Amikacin__East Midlands,0.3034887990462577,0.3681812498930201,LGBM-Direct
+P-aeruginosa__Amikacin__East of England,0.3128975272078461,0.33874010169464297,LGBM-Direct
+P-aeruginosa__Amikacin__London,0.307838494582277,0.3587070940769331,LGBM-Direct
+P-aeruginosa__Amikacin__North East,0.14757851850655346,0.1742578812616725,LGBM-Direct
+P-aeruginosa__Amikacin__North West,0.32051004739359895,0.35632888098488175,LGBM-Direct
+P-aeruginosa__Amikacin__South East,0.3291427644428567,0.3563565098046484,LGBM-Direct
+P-aeruginosa__Amikacin__South West,0.386115494364454,0.4247884535635196,LGBM-Direct
+P-aeruginosa__Amikacin__West Midlands,0.216755299282027,0.23971417175568666,LGBM-Direct
+P-aeruginosa__Amikacin__Yorkshire and Humber,0.14231637191211421,0.2761096702906736,LGBM-Direct
+P-aeruginosa__Carbapenems__East Midlands,0.16067405762108955,0.19290916579094178,LGBM-Direct
+P-aeruginosa__Carbapenems__East of England,0.16351178431681018,0.20933625712120102,LGBM-Direct
+P-aeruginosa__Carbapenems__London,0.18380893670724627,0.20691639857608607,LGBM-Direct
+P-aeruginosa__Carbapenems__North East,0.20746736119853126,0.2441514547929215,LGBM-Direct
+P-aeruginosa__Carbapenems__North West,0.19356760778060791,0.23244492714142512,LGBM-Direct
+P-aeruginosa__Carbapenems__South East,0.15818690555411585,0.19371855834018378,LGBM-Direct
+P-aeruginosa__Carbapenems__South West,0.2051909579596,0.25614438444372006,LGBM-Direct
+P-aeruginosa__Carbapenems__West Midlands,0.290486055036507,0.3501690732981092,LGBM-Direct
+P-aeruginosa__Carbapenems__Yorkshire and Humber,0.2611617236228779,0.3157313989565414,LGBM-Direct
+P-aeruginosa__Ceftazidime__East Midlands,0.22513745699686286,0.2825455305634517,LGBM-Direct
+P-aeruginosa__Ceftazidime__East of England,0.16311090070937387,0.18340615049780046,LGBM-Direct
+P-aeruginosa__Ceftazidime__London,0.251203703800789,0.2769653957522227,LGBM-Direct
+P-aeruginosa__Ceftazidime__North East,0.16712589725123314,0.1861097261852334,LGBM-Direct
+P-aeruginosa__Ceftazidime__North West,0.18230885932859767,0.2219775479551787,LGBM-Direct
+P-aeruginosa__Ceftazidime__South East,0.17376249435310895,0.2085578542943049,LGBM-Direct
+P-aeruginosa__Ceftazidime__South West,0.23957468371747156,0.30064064035566146,LGBM-Direct
+P-aeruginosa__Ceftazidime__West Midlands,0.14103456004492998,0.17597104003451422,LGBM-Direct
+P-aeruginosa__Ceftazidime__Yorkshire and Humber,0.24106907940983327,0.29414515588443835,LGBM-Direct
+P-aeruginosa__Ciprofloxacin__East Midlands,0.29199392008544023,0.3502994138330913,LGBM-Direct
+P-aeruginosa__Ciprofloxacin__East of England,0.16157495142826286,0.1789682566815503,LGBM-Direct
+P-aeruginosa__Ciprofloxacin__London,0.1903461363222062,0.24080496917962863,LGBM-Direct
+P-aeruginosa__Ciprofloxacin__North East,0.19074857373344947,0.23057328761117926,LGBM-Direct
+P-aeruginosa__Ciprofloxacin__North West,0.11781495075735393,0.1272148199840996,LGBM-Direct
+P-aeruginosa__Ciprofloxacin__South East,0.21905295812363526,0.22180581547448078,LGBM-Direct
+P-aeruginosa__Ciprofloxacin__South West,0.19639008230511365,0.25108162249836047,LGBM-Direct
+P-aeruginosa__Ciprofloxacin__West Midlands,0.34990119975902206,0.3895071182796399,LGBM-Direct
+P-aeruginosa__Ciprofloxacin__Yorkshire and Humber,0.14423474634293687,0.15877756995294887,LGBM-Direct
+P-aeruginosa__Piperacillin with tazobactam__East Midlands,0.3397530414976188,0.3595380855696249,LGBM-Direct
+P-aeruginosa__Piperacillin with tazobactam__East of England,0.25238954467560626,0.25851983037630205,LGBM-Direct
+P-aeruginosa__Piperacillin with tazobactam__London,0.24453580886893567,0.2750321917197928,LGBM-Direct
+P-aeruginosa__Piperacillin with tazobactam__North East,0.275321633317624,0.36253246966198566,LGBM-Direct
+P-aeruginosa__Piperacillin with tazobactam__North West,0.15433593432339407,0.20076194235801148,LGBM-Direct
+P-aeruginosa__Piperacillin with tazobactam__South East,0.21518810114973097,0.2611542618432369,LGBM-Direct
+P-aeruginosa__Piperacillin with tazobactam__South West,0.2823743821614319,0.36230729676794465,LGBM-Direct
+P-aeruginosa__Piperacillin with tazobactam__West Midlands,0.16761343007835117,0.2353709300183688,LGBM-Direct
+P-aeruginosa__Piperacillin with tazobactam__Yorkshire and Humber,0.15001089614585209,0.17909104737046977,LGBM-Direct
+S-pneumoniae__Macrolides__East Midlands,0.10174888859177354,0.11444888414028986,LGBM-Direct
+S-pneumoniae__Macrolides__East of England,0.18758026020278465,0.21512182774098565,LGBM-Direct
+S-pneumoniae__Macrolides__London,0.11330536939094739,0.1426382703130452,LGBM-Direct
+S-pneumoniae__Macrolides__North East,0.07894654482913403,0.12075901311449674,LGBM-Direct
+S-pneumoniae__Macrolides__North West,0.16490472339003268,0.20856728379965475,LGBM-Direct
+S-pneumoniae__Macrolides__South East,0.2133586285121799,0.24918651491392446,LGBM-Direct
+S-pneumoniae__Macrolides__South West,0.15278487404118532,0.17409426626152558,LGBM-Direct
+S-pneumoniae__Macrolides__West Midlands,0.2160261199228076,0.23700156320093826,LGBM-Direct
+S-pneumoniae__Macrolides__Yorkshire and Humber,0.0813790025307311,0.09466204907476736,LGBM-Direct
+S-pneumoniae__Penicillin__East Midlands,0.3071541083565085,0.4050313951839114,LGBM-Direct
+S-pneumoniae__Penicillin__East of England,0.122171291329621,0.15250583960542685,LGBM-Direct
+S-pneumoniae__Penicillin__London,0.29909325585000773,0.3276018569437799,LGBM-Direct
+S-pneumoniae__Penicillin__North East,0.11933865890177242,0.20685625217024958,LGBM-Direct
+S-pneumoniae__Penicillin__North West,0.11730324094004378,0.13630561803271718,LGBM-Direct
+S-pneumoniae__Penicillin__South East,0.11386000985047301,0.13610831080959734,LGBM-Direct
+S-pneumoniae__Penicillin__South West,0.06080635511116597,0.06790968840098861,LGBM-Direct
+S-pneumoniae__Penicillin__West Midlands,0.2737779824386311,0.34702883882668495,LGBM-Direct
+S-pneumoniae__Penicillin__Yorkshire and Humber,0.2232699799680595,0.2756044565707146,LGBM-Direct
+e-faecalis__Glycopeptides__East Midlands,0.12401584993313126,0.16710119680411778,LGBM-Direct
+e-faecalis__Glycopeptides__East of England,0.28515090492081474,0.327829266219297,LGBM-Direct
+e-faecalis__Glycopeptides__London,0.3086840729507872,0.33431944888903625,LGBM-Direct
+e-faecalis__Glycopeptides__North East,0.18866664904251007,0.23008421812080093,LGBM-Direct
+e-faecalis__Glycopeptides__North West,0.21017388355269415,0.24481589300477638,LGBM-Direct
+e-faecalis__Glycopeptides__South East,0.16200095260604863,0.19051993503854717,LGBM-Direct
+e-faecalis__Glycopeptides__South West,0.21061965958643006,0.26160833205441636,LGBM-Direct
+e-faecalis__Glycopeptides__West Midlands,0.24355792072657345,0.29122828120558997,LGBM-Direct
+e-faecalis__Glycopeptides__Yorkshire and Humber,0.1365030533000684,0.1778749696939752,LGBM-Direct
+e-faecium__Glycopeptides__East Midlands,0.25369708948669784,0.3070032885595216,LGBM-Direct
+e-faecium__Glycopeptides__East of England,0.24329182047104755,0.2965680927998254,LGBM-Direct
+e-faecium__Glycopeptides__London,0.23894606404592342,0.3121756785276417,LGBM-Direct
+e-faecium__Glycopeptides__North East,0.23049346745880062,0.2639594811867605,LGBM-Direct
+e-faecium__Glycopeptides__North West,0.2049436820327337,0.2626250542215715,LGBM-Direct
+e-faecium__Glycopeptides__South East,0.13624294367299858,0.19555963961969808,LGBM-Direct
+e-faecium__Glycopeptides__South West,0.13333419950031353,0.16382198208162088,LGBM-Direct
+e-faecium__Glycopeptides__West Midlands,0.13804805483092494,0.19083350799438142,LGBM-Direct
+e-faecium__Glycopeptides__Yorkshire and Humber,0.13535352656552946,0.18147218948653687,LGBM-Direct
+E-coli__Amikacin__East Midlands,0.3062354816968796,0.32208967172142466,LGBM-Recursive
+E-coli__Amikacin__East of England,0.15413531839586406,0.2109779243215299,LGBM-Recursive
+E-coli__Amikacin__London,0.2765428755979159,0.3198232832714692,LGBM-Recursive
+E-coli__Amikacin__North East,0.25816123661455803,0.3051329755432207,LGBM-Recursive
+E-coli__Amikacin__North West,0.244999451309297,0.284903193757053,LGBM-Recursive
+E-coli__Amikacin__South East,0.26743848608762527,0.32208201157051497,LGBM-Recursive
+E-coli__Amikacin__South West,0.2297151592989596,0.27617066477231345,LGBM-Recursive
+E-coli__Amikacin__West Midlands,0.27066059652991425,0.32476347845042264,LGBM-Recursive
+E-coli__Amikacin__Yorkshire and Humber,0.2770058181666409,0.3081818865028708,LGBM-Recursive
+E-coli__Carbapenems__East Midlands,0.19929509944749838,0.2418323032440784,LGBM-Recursive
+E-coli__Carbapenems__East of England,0.26412196939306193,0.31823145183491863,LGBM-Recursive
+E-coli__Carbapenems__London,0.24121095188061936,0.2694771782582838,LGBM-Recursive
+E-coli__Carbapenems__North East,0.1410716855777089,0.2755181367552498,LGBM-Recursive
+E-coli__Carbapenems__North West,0.20338684975127982,0.27796875236058344,LGBM-Recursive
+E-coli__Carbapenems__South East,0.31760542292979804,0.3522866135927639,LGBM-Recursive
+E-coli__Carbapenems__South West,0.24168520153992754,0.26664372855080454,LGBM-Recursive
+E-coli__Carbapenems__West Midlands,0.26238056622738165,0.35456973542875514,LGBM-Recursive
+E-coli__Carbapenems__Yorkshire and Humber,0.16765421097116884,0.2559530201547301,LGBM-Recursive
+E-coli__Ciprofloxacin__East Midlands,0.31856819379711476,0.37722938083712354,LGBM-Recursive
+E-coli__Ciprofloxacin__East of England,0.3213851032835983,0.3583346016057315,LGBM-Recursive
+E-coli__Ciprofloxacin__London,0.15854947762128602,0.18407904977990833,LGBM-Recursive
+E-coli__Ciprofloxacin__North East,0.14160032658066146,0.1961495010226579,LGBM-Recursive
+E-coli__Ciprofloxacin__North West,0.2787924632018392,0.3205867607437261,LGBM-Recursive
+E-coli__Ciprofloxacin__South East,0.31545826426848206,0.37219553848999665,LGBM-Recursive
+E-coli__Ciprofloxacin__South West,0.2868496924430665,0.3507399427971127,LGBM-Recursive
+E-coli__Ciprofloxacin__West Midlands,0.297325300260663,0.33538745952120513,LGBM-Recursive
+E-coli__Ciprofloxacin__Yorkshire and Humber,0.27785168746590955,0.3099192571103397,LGBM-Recursive
+E-coli__Co-amoxiclav__East Midlands,0.2919184752966987,0.34334052159949907,LGBM-Recursive
+E-coli__Co-amoxiclav__East of England,0.18851539614098078,0.2469537752223842,LGBM-Recursive
+E-coli__Co-amoxiclav__London,0.17232037994420332,0.17650047884425887,LGBM-Recursive
+E-coli__Co-amoxiclav__North East,0.1857817356990327,0.215985800202605,LGBM-Recursive
+E-coli__Co-amoxiclav__North West,0.20850790402867259,0.23709820827827638,LGBM-Recursive
+E-coli__Co-amoxiclav__South East,0.155412916964889,0.20460626112923658,LGBM-Recursive
+E-coli__Co-amoxiclav__South West,0.1081515676348309,0.13407172798896252,LGBM-Recursive
+E-coli__Co-amoxiclav__West Midlands,0.30659477541810976,0.3189459843555617,LGBM-Recursive
+E-coli__Co-amoxiclav__Yorkshire and Humber,0.2642106809326345,0.277850542668227,LGBM-Recursive
+E-coli__Gentamicin__East Midlands,0.16517959245730027,0.18722855888780768,LGBM-Recursive
+E-coli__Gentamicin__East of England,0.3351807308102402,0.3873373368341,LGBM-Recursive
+E-coli__Gentamicin__London,0.2575984902290969,0.29578065635017686,LGBM-Recursive
+E-coli__Gentamicin__North East,0.2501209912824804,0.2944254958201976,LGBM-Recursive
+E-coli__Gentamicin__North West,0.2953320060061626,0.3556710321052497,LGBM-Recursive
+E-coli__Gentamicin__South East,0.17311786646250785,0.23697401752271627,LGBM-Recursive
+E-coli__Gentamicin__South West,0.12964048463057634,0.1581768449546759,LGBM-Recursive
+E-coli__Gentamicin__West Midlands,0.26766173613666855,0.33304709609655986,LGBM-Recursive
+E-coli__Gentamicin__Yorkshire and Humber,0.18976533085376582,0.2300910530970298,LGBM-Recursive
+E-coli__Piperacillin with tazobactam__East Midlands,0.13207522243499006,0.14007332058777414,LGBM-Recursive
+E-coli__Piperacillin with tazobactam__East of England,0.2292955009373013,0.2648086169971126,LGBM-Recursive
+E-coli__Piperacillin with tazobactam__London,0.2667204740243649,0.32048373206364045,LGBM-Recursive
+E-coli__Piperacillin with tazobactam__North East,0.19814967849061849,0.25242104215578565,LGBM-Recursive
+E-coli__Piperacillin with tazobactam__North West,0.35202310070725273,0.3554555323500473,LGBM-Recursive
+E-coli__Piperacillin with tazobactam__South East,0.14872978488222674,0.19752972383186757,LGBM-Recursive
+E-coli__Piperacillin with tazobactam__South West,0.3379225296253798,0.3677825454847258,LGBM-Recursive
+E-coli__Piperacillin with tazobactam__West Midlands,0.31183814187700026,0.3820195340729157,LGBM-Recursive
+E-coli__Piperacillin with tazobactam__Yorkshire and Humber,0.19765474754573545,0.22947018845992337,LGBM-Recursive
+E-coli__Third Generation Cephalosporins__East Midlands,0.2369282024450267,0.2588945842091148,LGBM-Recursive
+E-coli__Third Generation Cephalosporins__East of England,0.3213074610147633,0.34943815617835655,LGBM-Recursive
+E-coli__Third Generation Cephalosporins__London,0.3022196864146522,0.3491673237305043,LGBM-Recursive
+E-coli__Third Generation Cephalosporins__North East,0.26664217612391145,0.27024414000319497,LGBM-Recursive
+E-coli__Third Generation Cephalosporins__North West,0.28602536228408443,0.3326176629585616,LGBM-Recursive
+E-coli__Third Generation Cephalosporins__South East,0.35292004547721895,0.3823814414458273,LGBM-Recursive
+E-coli__Third Generation Cephalosporins__South West,0.20366599711719502,0.26900501602231625,LGBM-Recursive
+E-coli__Third Generation Cephalosporins__West Midlands,0.34179316545348243,0.3647800445076631,LGBM-Recursive
+E-coli__Third Generation Cephalosporins__Yorkshire and Humber,0.2582860604529087,0.29787756260628684,LGBM-Recursive
+K-pneumoniae__Amikacin__East Midlands,0.3634543016974598,0.46832651154506033,LGBM-Recursive
+K-pneumoniae__Amikacin__East of England,0.2701695421768502,0.3014589267463012,LGBM-Recursive
+K-pneumoniae__Amikacin__London,0.11120072268259723,0.14913139515330887,LGBM-Recursive
+K-pneumoniae__Amikacin__North East,0.15851292635390957,0.18800724287174833,LGBM-Recursive
+K-pneumoniae__Amikacin__North West,0.28476008710179923,0.33425105560805873,LGBM-Recursive
+K-pneumoniae__Amikacin__South East,0.15243909778015705,0.20944323565339618,LGBM-Recursive
+K-pneumoniae__Amikacin__South West,0.3319391549409146,0.4065949857494574,LGBM-Recursive
+K-pneumoniae__Amikacin__West Midlands,0.2718499841268133,0.32256755226636996,LGBM-Recursive
+K-pneumoniae__Amikacin__Yorkshire and Humber,0.2051103844163422,0.3302488986589991,LGBM-Recursive
+K-pneumoniae__Carbapenems__East Midlands,0.2984730573270836,0.3577269841227806,LGBM-Recursive
+K-pneumoniae__Carbapenems__East of England,0.292488109682238,0.3641420810853512,LGBM-Recursive
+K-pneumoniae__Carbapenems__London,0.19420498504171635,0.21930102806066287,LGBM-Recursive
+K-pneumoniae__Carbapenems__North East,0.16446150313998856,0.17997832315260173,LGBM-Recursive
+K-pneumoniae__Carbapenems__North West,0.18167529099731863,0.21299807930303927,LGBM-Recursive
+K-pneumoniae__Carbapenems__South East,0.2956550667723989,0.39340902282929524,LGBM-Recursive
+K-pneumoniae__Carbapenems__South West,0.24494603505313448,0.2516493763971349,LGBM-Recursive
+K-pneumoniae__Carbapenems__West Midlands,0.18528782363702487,0.21274843294124776,LGBM-Recursive
+K-pneumoniae__Carbapenems__Yorkshire and Humber,0.2641813473193942,0.31018453385388156,LGBM-Recursive
+K-pneumoniae__Ciprofloxacin__East Midlands,0.20246096999113025,0.22217931952835787,LGBM-Recursive
+K-pneumoniae__Ciprofloxacin__East of England,0.1941901088586219,0.2261619979585053,LGBM-Recursive
+K-pneumoniae__Ciprofloxacin__London,0.16755568847607738,0.20632023424540846,LGBM-Recursive
+K-pneumoniae__Ciprofloxacin__North East,0.11497983417776425,0.1424065372733158,LGBM-Recursive
+K-pneumoniae__Ciprofloxacin__North West,0.2547090455083517,0.2659607629281075,LGBM-Recursive
+K-pneumoniae__Ciprofloxacin__South East,0.26241905875629595,0.3218337399090075,LGBM-Recursive
+K-pneumoniae__Ciprofloxacin__South West,0.2903399046913991,0.33737604287052386,LGBM-Recursive
+K-pneumoniae__Ciprofloxacin__West Midlands,0.21320549737652073,0.24405519331100103,LGBM-Recursive
+K-pneumoniae__Ciprofloxacin__Yorkshire and Humber,0.16168007249033509,0.22377156354699723,LGBM-Recursive
+K-pneumoniae__Co-amoxiclav__East Midlands,0.30711624400259796,0.3542129202115428,LGBM-Recursive
+K-pneumoniae__Co-amoxiclav__East of England,0.26597894062550226,0.31076800124005444,LGBM-Recursive
+K-pneumoniae__Co-amoxiclav__London,0.2074981800629848,0.21621551964328806,LGBM-Recursive
+K-pneumoniae__Co-amoxiclav__North East,0.18961295772747822,0.22346409866452346,LGBM-Recursive
+K-pneumoniae__Co-amoxiclav__North West,0.33944579514503737,0.3744565089978434,LGBM-Recursive
+K-pneumoniae__Co-amoxiclav__South East,0.1655957825070708,0.18132146080937833,LGBM-Recursive
+K-pneumoniae__Co-amoxiclav__South West,0.23788011320786548,0.27344417232941376,LGBM-Recursive
+K-pneumoniae__Co-amoxiclav__West Midlands,0.27529782270959385,0.31763776803165583,LGBM-Recursive
+K-pneumoniae__Co-amoxiclav__Yorkshire and Humber,0.21519636380092896,0.23201424180227814,LGBM-Recursive
+K-pneumoniae__Gentamicin__East Midlands,0.2104975542503639,0.24755837182760798,LGBM-Recursive
+K-pneumoniae__Gentamicin__East of England,0.17671514246380804,0.2176091608326795,LGBM-Recursive
+K-pneumoniae__Gentamicin__London,0.17127679667464654,0.18429956716772872,LGBM-Recursive
+K-pneumoniae__Gentamicin__North East,0.2375365681833658,0.2672560261930658,LGBM-Recursive
+K-pneumoniae__Gentamicin__North West,0.2538489045004602,0.291334779455743,LGBM-Recursive
+K-pneumoniae__Gentamicin__South East,0.2995696039725572,0.3027306794407759,LGBM-Recursive
+K-pneumoniae__Gentamicin__South West,0.2777860294044436,0.3124769696645704,LGBM-Recursive
+K-pneumoniae__Gentamicin__West Midlands,0.20657110894843567,0.21967884243349306,LGBM-Recursive
+K-pneumoniae__Gentamicin__Yorkshire and Humber,0.14435169173076207,0.18298671449928883,LGBM-Recursive
+K-pneumoniae__Piperacillin with tazobactam__East Midlands,0.2878247162444696,0.36540402734430777,LGBM-Recursive
+K-pneumoniae__Piperacillin with tazobactam__East of England,0.3126388806062959,0.35373387965840203,LGBM-Recursive
+K-pneumoniae__Piperacillin with tazobactam__London,0.24692221598023925,0.2737185968233731,LGBM-Recursive
+K-pneumoniae__Piperacillin with tazobactam__North East,0.17132505597293277,0.23263171458021895,LGBM-Recursive
+K-pneumoniae__Piperacillin with tazobactam__North West,0.25357613684310304,0.31481928634940654,LGBM-Recursive
+K-pneumoniae__Piperacillin with tazobactam__South East,0.08622486481576602,0.11103942061339393,LGBM-Recursive
+K-pneumoniae__Piperacillin with tazobactam__South West,0.2897903557253188,0.3254821724407366,LGBM-Recursive
+K-pneumoniae__Piperacillin with tazobactam__West Midlands,0.21105803899006018,0.256679884804683,LGBM-Recursive
+K-pneumoniae__Piperacillin with tazobactam__Yorkshire and Humber,0.18877769242728804,0.1990635462443373,LGBM-Recursive
+K-pneumoniae__Third Generation Cephalosporins__East Midlands,0.2733456464639846,0.30815356810393585,LGBM-Recursive
+K-pneumoniae__Third Generation Cephalosporins__East of England,0.2663157284093511,0.2834650584582517,LGBM-Recursive
+K-pneumoniae__Third Generation Cephalosporins__London,0.1872429888231922,0.20038637931562783,LGBM-Recursive
+K-pneumoniae__Third Generation Cephalosporins__North East,0.18351180421619998,0.2322965636367178,LGBM-Recursive
+K-pneumoniae__Third Generation Cephalosporins__North West,0.1777717580915353,0.2128004471609272,LGBM-Recursive
+K-pneumoniae__Third Generation Cephalosporins__South East,0.12788131744630038,0.15366320701346164,LGBM-Recursive
+K-pneumoniae__Third Generation Cephalosporins__South West,0.17057101647128114,0.23930774934307525,LGBM-Recursive
+K-pneumoniae__Third Generation Cephalosporins__West Midlands,0.18284881370387832,0.275380298422168,LGBM-Recursive
+K-pneumoniae__Third Generation Cephalosporins__Yorkshire and Humber,0.20260370785737877,0.21287451558620063,LGBM-Recursive
+P-aeruginosa__Amikacin__East Midlands,0.3153762984796722,0.3641884146916257,LGBM-Recursive
+P-aeruginosa__Amikacin__East of England,0.3524981297029121,0.39434063277200276,LGBM-Recursive
+P-aeruginosa__Amikacin__London,0.2182961902442444,0.299731737108049,LGBM-Recursive
+P-aeruginosa__Amikacin__North East,0.22377316764988522,0.24244049348827065,LGBM-Recursive
+P-aeruginosa__Amikacin__North West,0.266829824677065,0.3095216305332119,LGBM-Recursive
+P-aeruginosa__Amikacin__South East,0.3076327303867854,0.34771633085413245,LGBM-Recursive
+P-aeruginosa__Amikacin__South West,0.4451543380603744,0.4840602173131652,LGBM-Recursive
+P-aeruginosa__Amikacin__West Midlands,0.17155656355032556,0.20630234956060725,LGBM-Recursive
+P-aeruginosa__Amikacin__Yorkshire and Humber,0.14788432433821927,0.27785879965163546,LGBM-Recursive
+P-aeruginosa__Carbapenems__East Midlands,0.18049128277950044,0.20659094716698892,LGBM-Recursive
+P-aeruginosa__Carbapenems__East of England,0.1478032718672143,0.18796047751687806,LGBM-Recursive
+P-aeruginosa__Carbapenems__London,0.16309332329309417,0.198448796913047,LGBM-Recursive
+P-aeruginosa__Carbapenems__North East,0.2065329793967803,0.2519394885074777,LGBM-Recursive
+P-aeruginosa__Carbapenems__North West,0.17058908575493015,0.21432630099048944,LGBM-Recursive
+P-aeruginosa__Carbapenems__South East,0.1905924781732905,0.22753979233347066,LGBM-Recursive
+P-aeruginosa__Carbapenems__South West,0.19592736527282292,0.24214248746985442,LGBM-Recursive
+P-aeruginosa__Carbapenems__West Midlands,0.2578856389988918,0.31677491683765424,LGBM-Recursive
+P-aeruginosa__Carbapenems__Yorkshire and Humber,0.24338871335021142,0.3092554272860281,LGBM-Recursive
+P-aeruginosa__Ceftazidime__East Midlands,0.23161377598464428,0.28676396482703687,LGBM-Recursive
+P-aeruginosa__Ceftazidime__East of England,0.1731974407959805,0.201597906167025,LGBM-Recursive
+P-aeruginosa__Ceftazidime__London,0.22267297393557184,0.2542212280903355,LGBM-Recursive
+P-aeruginosa__Ceftazidime__North East,0.2020269344264369,0.2157742419930446,LGBM-Recursive
+P-aeruginosa__Ceftazidime__North West,0.2038626041652226,0.23271151854694802,LGBM-Recursive
+P-aeruginosa__Ceftazidime__South East,0.2051765237290014,0.25383957440496163,LGBM-Recursive
+P-aeruginosa__Ceftazidime__South West,0.21091226913853758,0.27796839546789087,LGBM-Recursive
+P-aeruginosa__Ceftazidime__West Midlands,0.14496691127033026,0.17329813955135237,LGBM-Recursive
+P-aeruginosa__Ceftazidime__Yorkshire and Humber,0.20109235716363127,0.2855386086673497,LGBM-Recursive
+P-aeruginosa__Ciprofloxacin__East Midlands,0.28482224553312047,0.3498882925448704,LGBM-Recursive
+P-aeruginosa__Ciprofloxacin__East of England,0.14807691595337572,0.18742051729650694,LGBM-Recursive
+P-aeruginosa__Ciprofloxacin__London,0.19664077238788433,0.26756623407396596,LGBM-Recursive
+P-aeruginosa__Ciprofloxacin__North East,0.2768377638836959,0.33404219352853043,LGBM-Recursive
+P-aeruginosa__Ciprofloxacin__North West,0.1467362703961689,0.15762367546887812,LGBM-Recursive
+P-aeruginosa__Ciprofloxacin__South East,0.29385310659460734,0.3067089144307686,LGBM-Recursive
+P-aeruginosa__Ciprofloxacin__South West,0.2365022467303648,0.29605943461129747,LGBM-Recursive
+P-aeruginosa__Ciprofloxacin__West Midlands,0.314193642576165,0.3500790821448693,LGBM-Recursive
+P-aeruginosa__Ciprofloxacin__Yorkshire and Humber,0.18119642617931808,0.1867598669385405,LGBM-Recursive
+P-aeruginosa__Piperacillin with tazobactam__East Midlands,0.36020081437337526,0.3832096619767663,LGBM-Recursive
+P-aeruginosa__Piperacillin with tazobactam__East of England,0.2694407885086165,0.2726213991920514,LGBM-Recursive
+P-aeruginosa__Piperacillin with tazobactam__London,0.21770736866414672,0.25670506750525074,LGBM-Recursive
+P-aeruginosa__Piperacillin with tazobactam__North East,0.2838873860510414,0.3441016024810539,LGBM-Recursive
+P-aeruginosa__Piperacillin with tazobactam__North West,0.19582882863260345,0.22001149571023196,LGBM-Recursive
+P-aeruginosa__Piperacillin with tazobactam__South East,0.19468885153275092,0.23203785751629363,LGBM-Recursive
+P-aeruginosa__Piperacillin with tazobactam__South West,0.25295048150617505,0.3313237895566839,LGBM-Recursive
+P-aeruginosa__Piperacillin with tazobactam__West Midlands,0.1741310949228485,0.26159246807840214,LGBM-Recursive
+P-aeruginosa__Piperacillin with tazobactam__Yorkshire and Humber,0.19489316640190557,0.24349777526826333,LGBM-Recursive
+S-pneumoniae__Macrolides__East Midlands,0.10806671640912913,0.12489805930682163,LGBM-Recursive
+S-pneumoniae__Macrolides__East of England,0.1406314403187569,0.17065650108048608,LGBM-Recursive
+S-pneumoniae__Macrolides__London,0.11201360464657599,0.1580351167669264,LGBM-Recursive
+S-pneumoniae__Macrolides__North East,0.12363797779282361,0.14076307827168327,LGBM-Recursive
+S-pneumoniae__Macrolides__North West,0.20476723093234753,0.2508323054137589,LGBM-Recursive
+S-pneumoniae__Macrolides__South East,0.18238566769366604,0.22781460808796739,LGBM-Recursive
+S-pneumoniae__Macrolides__South West,0.15824471605583632,0.18294144726016343,LGBM-Recursive
+S-pneumoniae__Macrolides__West Midlands,0.24527491045449437,0.29974252318218686,LGBM-Recursive
+S-pneumoniae__Macrolides__Yorkshire and Humber,0.08960507905547764,0.12695446491418472,LGBM-Recursive
+S-pneumoniae__Penicillin__East Midlands,0.32044849711699724,0.400680793579991,LGBM-Recursive
+S-pneumoniae__Penicillin__East of England,0.1350563204866106,0.15315268206101762,LGBM-Recursive
+S-pneumoniae__Penicillin__London,0.34572414894682973,0.3686717430073843,LGBM-Recursive
+S-pneumoniae__Penicillin__North East,0.10279543611087384,0.1817851978554693,LGBM-Recursive
+S-pneumoniae__Penicillin__North West,0.09921763001643209,0.12390126413641307,LGBM-Recursive
+S-pneumoniae__Penicillin__South East,0.09652635933899388,0.12064203972930322,LGBM-Recursive
+S-pneumoniae__Penicillin__South West,0.1334914573584691,0.16584857225664076,LGBM-Recursive
+S-pneumoniae__Penicillin__West Midlands,0.2688995310803874,0.3349328857045697,LGBM-Recursive
+S-pneumoniae__Penicillin__Yorkshire and Humber,0.23112539658399966,0.3152659953168571,LGBM-Recursive
+e-faecalis__Glycopeptides__East Midlands,0.15855486176730274,0.20983005618738168,LGBM-Recursive
+e-faecalis__Glycopeptides__East of England,0.2664384366859363,0.32049422666787414,LGBM-Recursive
+e-faecalis__Glycopeptides__London,0.31260346012184786,0.34194944533988897,LGBM-Recursive
+e-faecalis__Glycopeptides__North East,0.17183329332466288,0.1876945122673498,LGBM-Recursive
+e-faecalis__Glycopeptides__North West,0.19620516628983112,0.23573939382526626,LGBM-Recursive
+e-faecalis__Glycopeptides__South East,0.14515965923896787,0.18646920595646005,LGBM-Recursive
+e-faecalis__Glycopeptides__South West,0.19017438817100138,0.22532557830131367,LGBM-Recursive
+e-faecalis__Glycopeptides__West Midlands,0.22360915358204014,0.2592248195301741,LGBM-Recursive
+e-faecalis__Glycopeptides__Yorkshire and Humber,0.13536084924847455,0.19083383670021836,LGBM-Recursive
+e-faecium__Glycopeptides__East Midlands,0.22543416769856542,0.27055650977670653,LGBM-Recursive
+e-faecium__Glycopeptides__East of England,0.2561784854451081,0.2819796365328116,LGBM-Recursive
+e-faecium__Glycopeptides__London,0.2552313040365246,0.32824174112831805,LGBM-Recursive
+e-faecium__Glycopeptides__North East,0.23249465065699793,0.28663351206749377,LGBM-Recursive
+e-faecium__Glycopeptides__North West,0.19331014267541538,0.2398933903792943,LGBM-Recursive
+e-faecium__Glycopeptides__South East,0.18875772154888967,0.22214862375005945,LGBM-Recursive
+e-faecium__Glycopeptides__South West,0.164574636274742,0.22165282336498074,LGBM-Recursive
+e-faecium__Glycopeptides__West Midlands,0.15279241408346592,0.20465352777140802,LGBM-Recursive
+e-faecium__Glycopeptides__Yorkshire and Humber,0.1471889348093041,0.2005761668009099,LGBM-Recursive

@@ -1,0 +1,7 @@
+model,mae,rmse,strategy,skill_score,vs_baseline
+LGBM-Direct,0.219,0.2593,Direct,0.1106,BETTER
+LGBM-Recursive,0.2245,0.267,Recursive,0.0879,BETTER
+Naïve Drift,0.2285,0.2898,Baseline,0.0718,BETTER
+XGB-Recursive,0.2361,0.2825,Recursive,0.0411,BETTER
+XGB-Direct,0.2447,0.2914,Direct,0.0062,BETTER
+SARIMA,0.2606,0.325,Baseline,-0.0585,WORSE

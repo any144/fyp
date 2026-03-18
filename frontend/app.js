@@ -2,6 +2,7 @@ const API_BASE = "http://127.0.0.1:5000";
 
 let activeModel = "xgb";
 let activeView  = "single";
+let activeMapType = "actual";
 
 const MODEL_COLORS = {
     xgb:  { actual: "#3b82f6", forecast: "#ef4444" },
@@ -9,6 +10,9 @@ const MODEL_COLORS = {
     gru:  { actual: "#3b82f6", forecast: "#8b5cf6" },
     tcn:  { actual: "#3b82f6", forecast: "#10b981" },
     lstm: { actual: "#3b82f6", forecast: "#ec4899" },
+    naive_seasonal: { actual: "#3b82f6", forecast: "#94a3b8" },
+    naive_drift:{ actual: "#3b82f6", forecast: "#64748b" },
+    sarima:{ actual: "#3b82f6", forecast: "#fbbf24" },
 };
 
 const MODEL_LABELS = {
@@ -17,26 +21,67 @@ const MODEL_LABELS = {
     gru:  "GRU",
     tcn:  "TCN",
     lstm: "LSTM",
+    naive_seasonal:"Seasonal Naïve",
+    naive_drift: "Naïve Drift",
+    sarima:"SARIMA",
 };
 
-async function loadSeries() {
-    try {
-        const res    = await fetch(`${API_BASE}/series`);
-        const series = await res.json();
+async function loadPathogens() {
+    const res       = await fetch(`${API_BASE}/pathogens`);
+    const pathogens = await res.json();
+    const sel       = document.getElementById("pathogenSelect");
+    sel.innerHTML   = "";
+    pathogens.forEach(p => {
+        const opt       = document.createElement("option");
+        opt.value       = p;
+        opt.textContent = p;
+        sel.appendChild(opt);
+    });
+    await loadAntibiotics();
+}
 
-        const select = document.getElementById("seriesSelect");
-        select.innerHTML = "";
-        series.forEach(sid => {
-            const opt       = document.createElement("option");
-            opt.value       = sid;
-            opt.textContent = sid;
-            select.appendChild(opt);
-        });
+async function loadAntibiotics() {
+    const pathogen  = document.getElementById("pathogenSelect").value;
+    const res       = await fetch(`${API_BASE}/antibiotics?pathogen=${encodeURIComponent(pathogen)}`);
+    const antibiotics = await res.json();
+    const sel       = document.getElementById("antibioticSelect");
+    sel.innerHTML   = "";
+    antibiotics.forEach(a => {
+        const opt       = document.createElement("option");
+        opt.value       = a;
+        opt.textContent = a;
+        sel.appendChild(opt);
+    });
+    await loadRegions();
+}
 
-        if (series.length > 0) await updateForecast();
-    } catch (err) {
-        console.error("Error loading series:", err);
-    }
+async function loadRegions() {
+    const pathogen   = document.getElementById("pathogenSelect").value;
+    const antibiotic = document.getElementById("antibioticSelect").value;
+    const res        = await fetch(`${API_BASE}/regions?pathogen=${encodeURIComponent(pathogen)}&antibiotic=${encodeURIComponent(antibiotic)}`);
+    const regions    = await res.json();
+    const sel        = document.getElementById("regionSelect");
+    sel.innerHTML    = "";
+    regions.forEach(r => {
+        const opt       = document.createElement("option");
+        opt.value       = r;
+        opt.textContent = r;
+        sel.appendChild(opt);
+    });
+    triggerUpdate();
+}
+
+function getSeriesId() {
+    const pathogen   = document.getElementById("pathogenSelect").value;
+    const antibiotic = document.getElementById("antibioticSelect").value;
+    const region     = document.getElementById("regionSelect").value;
+    return `${pathogen}__${antibiotic}__${region}`;
+}
+
+function triggerUpdate() {
+    if      (activeView === "compare") updateCompare();
+    else if (activeView === "map")     updateMap();
+    else                               updateForecast();
 }
 async function loadMetrics() {
     try {
@@ -46,9 +91,9 @@ async function loadMetrics() {
         document.getElementById("statHorizon").textContent  = data.horizon;
         document.getElementById("statFcRange").textContent  = data.fc_range;
         document.getElementById("statBestML").textContent   = data.best_ml;
-        document.getElementById("statMLMae").textContent    = `MAE ${data.best_ml_mae} · ${data.best_ml_type}`;
+        document.getElementById("statMLMae").textContent = `MAE ${data.best_ml_mae}`;
         document.getElementById("statBestDL").textContent   = data.best_dl;
-        document.getElementById("statDLMae").textContent    = `MAE ${data.best_dl_mae} · ${data.best_dl_type}`;
+        document.getElementById("statDLMae").textContent = `MAE ${data.best_dl_mae}`;
     } catch (err) {
         console.error("Error loading metrics:", err);
     }
@@ -66,15 +111,20 @@ function setView(view) {
     activeView = view;
     document.getElementById("btnSingle").classList.toggle("active",  view === "single");
     document.getElementById("btnCompare").classList.toggle("active", view === "compare");
-    document.getElementById("modelGroup").style.display   = view === "compare" ? "none" : "block";
-    document.getElementById("tableTitle").textContent     = view === "compare" ? "All Models Comparison" : "Forecast Values";
-
-    if (view === "compare") updateCompare();
-    else updateForecast();
+    document.getElementById("btnMap").classList.toggle("active",     view === "map");
+    document.getElementById("modelGroup").style.display   = view === "compare" || view === "map" ? "none" : "block";
+    document.getElementById("regionGroup").style.display  = view === "map" ? "none" : "block";
+    document.getElementById("mapControls").style.display  = view === "map" ? "flex" : "none";
+    const titles = { single: "Forecast Values", compare: "All Models Comparison", map: "Regional Resistance (%)" };
+    document.getElementById("tableTitle").textContent = titles[view];
+    if      (view === "map")     updateMap();
+    else if (view === "compare") updateCompare();
+    else                         updateForecast();
 }
 
 async function updateForecast() {
-    const sid = document.getElementById("seriesSelect").value;
+    const sid = getSeriesId();
+
     if (!sid) return;
 
     setLoading(true);
@@ -97,7 +147,7 @@ async function updateForecast() {
 }
 
 async function updateCompare() {
-    const sid = document.getElementById("seriesSelect").value;
+    const sid = getSeriesId();
     if (!sid) return;
 
     setLoading(true);
@@ -118,6 +168,99 @@ async function updateCompare() {
     } finally {
         setLoading(false);
     }
+}
+function setMapType(type) {
+    activeMapType = type;
+    document.getElementById("btnActual").classList.toggle("active",   type === "actual");
+    document.getElementById("btnForecast").classList.toggle("active", type === "forecast");
+    updateMap();
+}
+
+async function updateMap() {
+    const pathogen   = document.getElementById("pathogenSelect").value;
+    const antibiotic = document.getElementById("antibioticSelect").value;
+    if (!pathogen || !antibiotic) return;
+
+    setLoading(true);
+    try {
+        const [geoRes, dataRes] = await Promise.all([
+            fetch("https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Regions_December_2022_EN_BGC/FeatureServer/0/query?where=1%3D1&outFields=RGN22NM&f=geojson&outSR=4326"),
+            fetch(`${API_BASE}/map-data?pathogen=${encodeURIComponent(pathogen)}&antibiotic=${encodeURIComponent(antibiotic)}&map_type=${activeMapType}`)
+        ]);
+        const geojson    = await geoRes.json();
+        const regionData = await dataRes.json();
+
+
+
+        const valueLookup = {};
+        regionData.forEach(r => { valueLookup[r.region] = r.value; });
+
+        const names = [];
+        const mappedNames = [];
+        const values = [];
+        geojson.features.forEach(f => {
+            const rawName  = f.properties.RGN22NM || "";
+            const dataName = rawName === "Yorkshire and The Humber"
+                ? "Yorkshire and Humber"
+                : rawName.replace(" (England)", "");
+            names.push(rawName);
+            mappedNames.push(dataName);
+            values.push(valueLookup[dataName] ?? null);
+        });
+        console.log("GeoJSON feature properties:", geojson.features.map(f => f.properties));
+
+        plotChoropleth(geojson, names, values, pathogen, antibiotic);
+        renderMapTable(regionData);
+    } catch (err) {
+        console.error("Error rendering map:", err);
+    } finally {
+        setLoading(false);
+    }
+}
+
+function plotChoropleth(geojson, names, values, pathogen, antibiotic) {
+    const validValues = values.filter(v => v !== null);
+    const zmin = Math.floor(Math.min(...validValues));
+    const zmax = Math.ceil(Math.max(...validValues));
+
+    const hoverText = names.map((n, i) =>
+        values[i] !== null ? `<b>${n}</b><br>${values[i].toFixed(1)}%` : `<b>${n}</b><br>No data`
+    );
+
+    Plotly.newPlot("chart", [{
+        type: "choroplethmapbox",
+        geojson: geojson,
+        locations: names,
+        z: values.map(v => v ?? zmin),
+        featureidkey: "properties.RGN22NM",
+        colorscale: [[0, "#022c1a"], [0.25, "#065f35"], [0.5, "#16a34a"], [0.75, "#fbbf24"], [1, "#ef4444"]],
+        zmin: zmin,
+        zmax: zmax,
+        marker: { opacity: 0.85, line: { color: "#0a3d24", width: 1 } },
+        colorbar: { title: { text: "Resistance %", font: { color: "#99ddbb", size: 11 } }, tickfont: { color: "#99ddbb" }, thickness: 14 },
+        text: hoverText,
+        hoverinfo: "text",
+    }], {
+        mapbox: { style: "white-bg", center: { lon: -1.5, lat: 52.8 }, zoom: 5.2 },
+        margin: { t: 30, b: 10, l: 10, r: 10 },
+        paper_bgcolor: "#010d0a",
+        title: { text: `${pathogen} — ${antibiotic} · GRU Forecast (%)`, font: { size: 13, color: "#ccffe8" }, x: 0.01 },
+    }, { responsive: true });
+}
+
+function renderMapTable(regionData) {
+    const tableDiv = document.getElementById("forecastTable");
+    if (!regionData || regionData.length === 0) {
+        tableDiv.innerHTML = "<p style='color:var(--muted)'>No data available.</p>";
+        return;
+    }
+    const sorted = [...regionData].sort((a, b) => b.value - a.value);
+    let html = `<table><thead><tr><th>Region</th><th>GRU Forecast (%)</th></tr></thead><tbody>`;
+    sorted.forEach(r => {
+        html += `<tr><td>${r.region}</td><td>${r.value.toFixed(1)}%</td></tr>`;
+    });
+    html += "</tbody></table>";
+    tableDiv.innerHTML = html;
 }
 
 function plotForecast(data, model) {
@@ -252,12 +395,11 @@ function setLoading(on) {
     if (el) el.style.display = on ? "block" : "none";
 }
 
-// Only attach listener to elements that actually exist in the HTML
+
 document.addEventListener("DOMContentLoaded", () => {
-    document.getElementById("seriesSelect").addEventListener("change", () => {
-        if (activeView === "compare") updateCompare();
-        else updateForecast();
-    });
-    loadSeries();
+    document.getElementById("pathogenSelect").addEventListener("change",   loadAntibiotics);
+    document.getElementById("antibioticSelect").addEventListener("change", loadRegions);
+    document.getElementById("regionSelect").addEventListener("change",     triggerUpdate);
+    loadPathogens();
     loadMetrics();
 });
