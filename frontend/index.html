@@ -7,241 +7,225 @@
     <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
     <style>
-:root {
-    --bg:       #f5f6f7;
-    --surface:  #ffffff;
-    --border:   #e2e4e7;
-    --accent:   #2563eb;
-    --accent2:  #1d4ed8;
-    --muted:    #6b7280;
-    --text:     #111827;
-    --text-dim: #374151;
-    --mono:     'IBM Plex Mono', monospace;
-    --sans:     'IBM Plex Sans', sans-serif;
-}
+        :root {
+            --bg:      #f5f6f7;
+            --surface: #ffffff;
+            --border:  #e2e4e7;
+            --accent:  #2563eb;
+            --muted:   #6b7280;
+            --text:    #111827;
+            --mono:    'IBM Plex Mono', monospace;
+            --sans:    'IBM Plex Sans', sans-serif;
+        }
 
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: var(--sans);
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-}
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: var(--sans);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
 
-header {
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    padding: 1.25rem 2rem;
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-}
+        header {
+            background: var(--surface);
+            border-bottom: 1px solid var(--border);
+            padding: 1.25rem 2rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
 
-.header-badge {
-    background: var(--accent);
-    color: #fff;
-    font-family: var(--mono);
-    font-size: 0.65rem;
-    font-weight: 600;
-    letter-spacing: 0.12em;
-    padding: 0.2rem 0.55rem;
-    border-radius: 3px;
-    text-transform: uppercase;
-}
+        .header-badge {
+            background: var(--accent);
+            color: #fff;
+            font-family: var(--mono);
+            font-size: 0.65rem;
+            font-weight: 600;
+            letter-spacing: 0.12em;
+            padding: 0.2rem 0.55rem;
+            border-radius: 3px;
+            text-transform: uppercase;
+        }
 
-header h1 { font-size: 1.05rem; font-weight: 600; color: var(--text); }
-header p  { font-size: 0.78rem; color: var(--muted); margin-top: 0.15rem; }
-.header-meta { margin-left: auto; text-align: right; }
-.header-meta span { font-family: var(--mono); font-size: 0.72rem; color: var(--muted); }
+        header h1 { font-size: 1.05rem; font-weight: 600; }
+        header p  { font-size: 0.78rem; color: var(--muted); margin-top: 0.15rem; }
 
-.layout {
-    display: grid;
-    grid-template-columns: 280px 1fr;
-    flex: 1;
-    overflow: hidden;
-}
+        .header-meta { margin-left: auto; text-align: right; }
+        .header-meta span { font-family: var(--mono); font-size: 0.72rem; color: var(--muted); }
 
-aside {
-    background: var(--surface);
-    border-right: 1px solid var(--border);
-    padding: 1.5rem 1.25rem;
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-    overflow-y: auto;
-}
+        .layout {
+            display: grid;
+            grid-template-columns: 280px 1fr;
+            flex: 1;
+            overflow: hidden;
+        }
 
-.control-group { display: flex; flex-direction: column; gap: 0.5rem; }
+        aside {
+            background: var(--surface);
+            border-right: 1px solid var(--border);
+            padding: 1.5rem 1.25rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            overflow-y: auto;
+        }
 
-label {
-    font-size: 0.7rem;
-    font-family: var(--mono);
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--muted);
-}
+        .control-group { display: flex; flex-direction: column; gap: 0.5rem; }
 
-select {
-    background: var(--bg);
-    border: 1px solid var(--border);
-    color: var(--text);
-    font-family: var(--sans);
-    font-size: 0.85rem;
-    padding: 0.55rem 0.75rem;
-    border-radius: 6px;
-    width: 100%;
-    cursor: pointer;
-    appearance: none;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%236b7280' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
-    background-repeat: no-repeat;
-    background-position: right 0.75rem center;
-    transition: border-color 0.15s;
-}
+        label {
+            font-size: 0.7rem;
+            font-family: var(--mono);
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: var(--muted);
+        }
 
-select:focus { outline: none; border-color: var(--accent); }
+        select {
+            background: var(--bg);
+            border: 1px solid var(--border);
+            color: var(--text);
+            font-family: var(--sans);
+            font-size: 0.85rem;
+            padding: 0.55rem 0.75rem;
+            border-radius: 6px;
+            width: 100%;
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%236b7280' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+        }
 
-.view-toggle {
-    display: flex;
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    overflow: hidden;
-    background: var(--bg);
-}
+        select:focus { outline: none; border-color: var(--accent); }
 
-.view-btn {
-    flex: 1;
-    padding: 0.5rem;
-    font-size: 0.72rem;
-    font-family: var(--mono);
-    border: none;
-    background: transparent;
-    color: var(--muted);
-    cursor: pointer;
-    transition: all 0.15s;
-}
+        .view-toggle {
+            display: flex;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            overflow: hidden;
+        }
 
-.view-btn.active { background: var(--accent); color: #fff; font-weight: 600; }
+        .view-btn {
+            flex: 1;
+            padding: 0.5rem;
+            font-size: 0.72rem;
+            font-family: var(--mono);
+            border: none;
+            background: var(--bg);
+            color: var(--muted);
+            cursor: pointer;
+        }
 
-.model-pills { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+        .view-btn.active { background: var(--accent); color: #fff; font-weight: 600; }
 
-.pill {
-    font-family: var(--mono);
-    font-size: 0.7rem;
-    padding: 0.3rem 0.6rem;
-    border-radius: 4px;
-    border: 1px solid var(--border);
-    color: var(--muted);
-    cursor: pointer;
-    transition: all 0.15s;
-    background: transparent;
-    white-space: nowrap;
-}
+        .section-label {
+            font-family: var(--mono);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--muted);
+            border-top: 1px solid var(--border);
+            padding-top: 0.75rem;
+            width: 100%;
+        }
 
-.pill:hover  { border-color: var(--accent); color: var(--accent); }
-.pill.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
-.pill.baseline { border-style: dashed; }
+        .model-pills { display: flex; flex-wrap: wrap; gap: 0.4rem; }
 
-.section-label {
-    font-family: var(--mono);
-    font-size: 0.65rem;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: var(--muted);
-    border-top: 1px solid var(--border);
-    padding-top: 1rem;
-    width: 100%;
-}
+        .pill {
+            font-family: var(--mono);
+            font-size: 0.7rem;
+            padding: 0.3rem 0.6rem;
+            border-radius: 4px;
+            border: 1px solid var(--border);
+            color: var(--muted);
+            cursor: pointer;
+            background: transparent;
+        }
 
-.stat-cards { display: flex; flex-direction: column; gap: 0.6rem; }
+        .pill:hover  { border-color: var(--accent); color: var(--accent); }
+        .pill.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
 
-.stat-card {
-    background: var(--bg);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    padding: 0.75rem 1rem;
-}
+        .stat-cards { display: flex; flex-direction: column; gap: 0.6rem; }
 
-.stat-label {
-    font-family: var(--mono);
-    font-size: 0.65rem;
-    color: var(--muted);
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    margin-bottom: 0.3rem;
-}
+        .stat-card {
+            background: var(--bg);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 0.75rem 1rem;
+        }
 
-.stat-value { font-family: var(--mono); font-size: 1.1rem; font-weight: 600; color: var(--accent); }
-.stat-sub   { font-size: 0.7rem; color: var(--muted); margin-top: 0.15rem; }
+        .stat-label {
+            font-family: var(--mono);
+            font-size: 0.65rem;
+            color: var(--muted);
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            margin-bottom: 0.3rem;
+        }
 
-main { display: flex; flex-direction: column; overflow: hidden; }
+        .stat-value { font-family: var(--mono); font-size: 1.1rem; font-weight: 600; color: var(--accent); }
+        .stat-sub   { font-size: 0.7rem; color: var(--muted); margin-top: 0.15rem; }
 
-.chart-container { flex: 1; padding: 1.5rem; min-height: 420px; }
-#chart { width: 100%; height: 420px; }
+        main { display: flex; flex-direction: column; overflow: hidden; }
 
-#loadingIndicator {
-    display: none;
-    font-family: var(--mono);
-    font-size: 0.75rem;
-    color: var(--accent);
-    padding: 0.5rem 1.5rem;
-    animation: pulse 1.2s infinite;
-}
+        .chart-container { flex: 1; padding: 1.5rem; min-height: 420px; }
+        #chart { width: 100%; height: 420px; }
 
-@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
+        #loadingIndicator {
+            display: none;
+            font-family: var(--mono);
+            font-size: 0.75rem;
+            color: var(--accent);
+            padding: 0.5rem 1.5rem;
+        }
 
-.table-container {
-    background: var(--surface);
-    border-top: 1px solid var(--border);
-    padding: 1.25rem 1.5rem;
-    overflow-x: auto;
-}
+        .table-container {
+            background: var(--surface);
+            border-top: 1px solid var(--border);
+            padding: 1.25rem 1.5rem;
+            overflow-x: auto;
+        }
 
-.table-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 1rem;
-}
+        .table-title {
+            font-family: var(--mono);
+            font-size: 0.75rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin-bottom: 1rem;
+        }
 
-.table-title {
-    font-family: var(--mono);
-    font-size: 0.75rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--muted);
-}
+        table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+        thead tr { border-bottom: 1px solid var(--border); }
 
-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
-thead tr { border-bottom: 1px solid var(--border); }
+        th {
+            font-family: var(--mono);
+            font-size: 0.68rem;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            color: var(--muted);
+            padding: 0.5rem 0.75rem;
+            text-align: left;
+            font-weight: 400;
+        }
 
-th {
-    font-family: var(--mono);
-    font-size: 0.68rem;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    color: var(--muted);
-    padding: 0.5rem 0.75rem;
-    text-align: left;
-    font-weight: 400;
-}
+        td {
+            padding: 0.45rem 0.75rem;
+            font-family: var(--mono);
+            font-size: 0.8rem;
+            border-bottom: 1px solid var(--border);
+            color: #374151;
+        }
 
-td {
-    padding: 0.45rem 0.75rem;
-    font-family: var(--mono);
-    font-size: 0.8rem;
-    border-bottom: 1px solid var(--border);
-    color: var(--text-dim);
-}
+        tr:last-child td { border-bottom: none; }
+        tr:hover td { background: #f0f4ff; }
 
-tr:last-child td { border-bottom: none; }
-tr:hover td { background: #f0f4ff; }
-
-::-webkit-scrollbar { width: 6px; height: 6px; }
-::-webkit-scrollbar-track { background: var(--bg); }
-::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-track { background: var(--bg); }
+        ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
     </style>
 </head>
 <body>
@@ -252,10 +236,10 @@ tr:hover td { background: #f0f4ff; }
             <span class="header-badge">AMR</span>
             <h1>Antimicrobial Resistance Forecast Dashboard</h1>
         </div>
-        <p>England regional resistance trends — XGBoost · LightGBM · GRU · TCN · LSTM</p>
+        <p>England regional resistance trends — XGBoost · LightGBM · LSTM · GRU</p>
     </div>
     <div class="header-meta">
-        <span id="loadingIndicator">⟳ loading...</span>
+        <span id="loadingIndicator">loading...</span>
         <div><span>Horizon: 6 months</span></div>
         <div><span>Forecast start: Jul 2025</span></div>
     </div>
@@ -263,89 +247,79 @@ tr:hover td { background: #f0f4ff; }
 
 <div class="layout">
 
-    <!-- ── Sidebar ── -->
     <aside>
 
-    <div class="control-group">
-        <label>Pathogen</label>
-        <select id="pathogenSelect"></select>
-    </div>
-    <div class="control-group">
-        <label>Antibiotic</label>
-        <select id="antibioticSelect"></select>
-    </div>
-    <div class="control-group" id="regionGroup">
-        <label>Region</label>
-        <select id="regionSelect"></select>
-    </div>
+        <div class="control-group">
+            <label>Pathogen</label>
+            <select id="pathogenSelect"></select>
+        </div>
+
+        <div class="control-group">
+            <label>Antibiotic</label>
+            <select id="antibioticSelect"></select>
+        </div>
+
+        <div class="control-group">
+            <label>Region</label>
+            <select id="regionSelect"></select>
+        </div>
 
         <div class="control-group">
             <label>View</label>
             <div class="view-toggle">
                 <button class="view-btn active" id="btnSingle"  onclick="setView('single')">Single</button>
                 <button class="view-btn"        id="btnCompare" onclick="setView('compare')">Compare</button>
-                <button class="view-btn"        id="btnMap"     onclick="setView('map')">Map</button>
-                </div>
+            </div>
         </div>
 
         <div class="control-group" id="modelGroup">
             <label>Model</label>
             <div class="model-pills">
-                <div class="section-label" style="width:100%; border:none; padding:0; margin-bottom:0.25rem;">Machine Learning</div>
+                <div class="section-label" style="border:none; padding:0; margin-bottom:0.25rem;">Machine Learning</div>
                 <button class="pill active" data-model="xgb"  onclick="selectModel('xgb')">XGBoost</button>
                 <button class="pill"        data-model="lgbm" onclick="selectModel('lgbm')">LightGBM</button>
-                <div class="section-label" style="width:100%; margin-top:0.5rem; margin-bottom:0.25rem;">Baselines</div>
+
+                <div class="section-label" style="margin-top:0.5rem; margin-bottom:0.25rem;">Deep Learning</div>
+                <button class="pill" data-model="gru"  onclick="selectModel('gru')">GRU</button>
+                <button class="pill" data-model="lstm" onclick="selectModel('lstm')">LSTM</button>
+
+                <div class="section-label" style="margin-top:0.5rem; margin-bottom:0.25rem;">Baselines</div>
                 <button class="pill" data-model="naive_seasonal" onclick="selectModel('naive_seasonal')">Seasonal Naïve</button>
                 <button class="pill" data-model="naive_drift"    onclick="selectModel('naive_drift')">Naïve Drift</button>
                 <button class="pill" data-model="sarima"         onclick="selectModel('sarima')">SARIMA</button>
-
-                <div class="section-label" style="width:100%; margin-top:0.5rem; margin-bottom:0.25rem;">Deep Learning</div>
-                <button class="pill" data-model="gru"  onclick="selectModel('gru')">GRU</button>
-                <button class="pill" data-model="tcn"  onclick="selectModel('tcn')">TCN</button>
-                <button class="pill" data-model="lstm" onclick="selectModel('lstm')">LSTM</button>
             </div>
         </div>
-        <div id="mapControls" style="display:none; flex-direction:column; gap:0.75rem;">
-        <div class="control-group">
-        <label>Data type</label>
-        <div class="view-toggle">
-            <button class="view-btn active" id="btnActual"   onclick="setMapType('actual')">Latest Actual</button>
-            <button class="view-btn"        id="btnForecast" onclick="setMapType('forecast')">GRU Forecast</button>
-        </div>
-    </div>
-</div>
 
         <div class="stat-cards">
             <div class="stat-card">
                 <div class="stat-label">Forecast horizon</div>
                 <div class="stat-value" id="statHorizon">—</div>
-                <div class="stat-sub"  id="statFcRange">—</div>
+                <div class="stat-sub"   id="statFcRange">—</div>
             </div>
             <div class="stat-card">
                 <div class="stat-label">Best ML model</div>
                 <div class="stat-value" id="statBestML">—</div>
-                <div class="stat-sub"  id="statMLMae">—</div>
+                <div class="stat-sub"   id="statMLMae">—</div>
             </div>
             <div class="stat-card">
                 <div class="stat-label">Best DL model</div>
                 <div class="stat-value" id="statBestDL">—</div>
-                <div class="stat-sub"  id="statDLMae">—</div>
+                <div class="stat-sub"   id="statDLMae">—</div>
             </div>
         </div>
 
     </aside>
 
-    <!-- ── Main ── -->
     <main>
         <div class="chart-container">
             <div id="chart"></div>
         </div>
 
         <div class="table-container">
-            <div class="table-header">
-                <span class="table-title" id="tableTitle">Forecast Values</span>
+            <div class="table-title" id="tableTitle">Forecast Values</div>
+            <div id="forecastTable">
+                <p style="color:var(--muted); font-size:0.8rem;">Select a series to view forecasts.</p>
             </div>
-            <div id="forecastTable"><p style="color:var(--muted); font-size:0.8rem;">Select a series to view forecasts.</p></div>
         </div>
     </main>
 
