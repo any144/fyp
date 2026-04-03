@@ -1,8 +1,8 @@
-const API_BASE = "http://127.0.0.1:5000"
+const flask_api = "http://127.0.0.1:5000"
 let activeModel = "xgb";
 let activeView  = "single";
 
-const MODEL_COLORS = {
+const model_colours = {
     xgb:            "#ef4444",
     lgbm:           "#f97316",
     gru:            "#8b5cf6",
@@ -12,7 +12,7 @@ const MODEL_COLORS = {
     sarima:         "#fbbf24",
 };
 
-const MODEL_LABELS = {
+const model_labels = {
     xgb:            "XGBoost",
     lgbm:           "LightGBM",
     gru:            "GRU",
@@ -26,7 +26,7 @@ const MODEL_LABELS = {
 // populate dropdowns
 
 async function loadPathogens() {
-    const res       = await fetch(`${API_BASE}/pathogens`);
+    const res       = await fetch(`${flask_api}/pathogens`);
     const pathogens = await res.json();
     const sel       = document.getElementById("pathogenSelect");
     sel.innerHTML   = "";
@@ -41,7 +41,7 @@ async function loadPathogens() {
 
 async function loadAntibiotics() {
     const pathogen    = document.getElementById("pathogenSelect").value;
-    const res         = await fetch(`${API_BASE}/antibiotics?pathogen=${encodeURIComponent(pathogen)}`);
+    const res         = await fetch(`${flask_api}/antibiotics?pathogen=${encodeURIComponent(pathogen)}`);
     const antibiotics = await res.json();
     const sel         = document.getElementById("antibioticSelect");
     sel.innerHTML     = "";
@@ -57,7 +57,7 @@ async function loadAntibiotics() {
 async function loadRegions() {
     const pathogen   = document.getElementById("pathogenSelect").value;
     const antibiotic = document.getElementById("antibioticSelect").value;
-    const res        = await fetch(`${API_BASE}/regions?pathogen=${encodeURIComponent(pathogen)}&antibiotic=${encodeURIComponent(antibiotic)}`);
+    const res        = await fetch(`${flask_api}/regions?pathogen=${encodeURIComponent(pathogen)}&antibiotic=${encodeURIComponent(antibiotic)}`);
     const regions    = await res.json();
     const sel        = document.getElementById("regionSelect");
     sel.innerHTML    = "";
@@ -89,8 +89,10 @@ function setView(view) {
 }
 
 function triggerUpdate() {
-    if (activeView === "compare") updateCompare();
-    else                          updateForecast();
+    if (activeView === "compare")
+         updateCompare();
+    else 
+        updateForecast();
 }
 
 // model selection
@@ -106,15 +108,15 @@ function selectModel(model) {
 // single model forecast
 
 async function updateForecast() {
-    const sid = getSeriesId();
-    if (!sid) return;
+    const series_id = getSeriesId();
+    if (!series_id) return;
 
     setLoading(true);
     try {
-        const res          = await fetch(`${API_BASE}/forecast?series_id=${encodeURIComponent(sid)}&model=${activeModel}`);
+        const res= await fetch(`${flask_api}/forecast?series_id=${encodeURIComponent(series_id)}&model=${activeModel}`);
         const forecastData = await res.json();
 
-        const tableRes  = await fetch(`${API_BASE}/forecast-table?series_id=${encodeURIComponent(sid)}&model=${activeModel}`);
+        const tableRes = await fetch(`${flask_api}/forecast-table?series_id=${encodeURIComponent(series_id)}&model=${activeModel}`);
         const tableData = await tableRes.json();
 
         plotForecast(forecastData, activeModel);
@@ -135,8 +137,8 @@ function plotForecast(data, model) {
     const actual   = data.filter(d => !d.is_forecast);
     const forecast = data.filter(d =>  d.is_forecast);
     const anchor   = actual.length > 0 ? [actual[actual.length - 1]] : [];
-    const color    = MODEL_COLORS[model] || "#999";
-    const label    = MODEL_LABELS[model] || model;
+    const color    = model_colours[model] || "#999";
+    const label    = model_labels[model] || model;
 
     const traces = [
         {
@@ -147,8 +149,8 @@ function plotForecast(data, model) {
             line: { color: "#3b82f6", width: 2 }
         },
         {
-            x: [...anchor.map(d => d.date), ...forecast.map(d => d.date)],
-            y: [...anchor.map(d => d.value), ...forecast.map(d => d.value)],
+           x: anchor.map(d => d.date).concat(forecast.map(d => d.date)),
+           y: anchor.map(d => d.value).concat(forecast.map(d => d.value)),
             mode: "lines",
             name: `${label} Forecast`,
             line: { color: color, width: 2, dash: "dash" }
@@ -166,7 +168,7 @@ function plotForecast(data, model) {
 }
 
 function renderForecastTable(rows, model) {
-    const label    = MODEL_LABELS[model] || model;
+    const label    = model_labels[model] || model;
     const tableDiv = document.getElementById("forecastTable");
 
     if (!rows || rows.length === 0) {
@@ -188,11 +190,11 @@ async function updateCompare() {
 
     setLoading(true);
     try {
-        const baseRes    = await fetch(`${API_BASE}/forecast?series_id=${encodeURIComponent(sid)}&model=xgb`);
+        const baseRes    = await fetch(`${flask_api}/forecast?series_id=${encodeURIComponent(sid)}&model=xgb`);
         const baseData   = await baseRes.json();
         const actual     = baseData.filter(d => !d.is_forecast);
 
-        const compareRes  = await fetch(`${API_BASE}/compare?series_id=${encodeURIComponent(sid)}`);
+        const compareRes  = await fetch(`${flask_api}/compare?series_id=${encodeURIComponent(sid)}`);
         const compareData = await compareRes.json();
 
         plotCompare(actual, compareData);
@@ -218,10 +220,14 @@ function plotCompare(actual, compareData) {
     ];
 
     Object.entries(compareData).forEach(([model, rows]) => {
-        const color = MODEL_COLORS[model] || "#999";
-        const label = MODEL_LABELS[model] || model;
-        const x     = anchor ? [anchor.date,  ...rows.map(r => r.date)]  : rows.map(r => r.date);
-        const y     = anchor ? [anchor.value, ...rows.map(r => r.value)] : rows.map(r => r.value);
+        const color = model_colours[model] || "#999";
+        const label = model_labels[model] || model;
+        let x = rows.map(r => r.date);
+        let y = rows.map(r => r.value);
+        if (anchor) {
+            x = [anchor.date].concat(x);
+            y = [anchor.value].concat(y);
+        }
 
         traces.push({
             x, y,
@@ -253,14 +259,17 @@ function renderCompareTable(compareData) {
     const dates = compareData[models[0]].map(r => r.date);
 
     let html = `<table><thead><tr><th>Date</th>`;
-    models.forEach(m => { html += `<th>${MODEL_LABELS[m] || m} (%)</th>`; });
+    models.forEach(m => { html += `<th>${model_labels[m] || m} (%)</th>`; });
     html += `</tr></thead><tbody>`;
 
     dates.forEach((date, i) => {
         html += `<tr><td>${date}</td>`;
         models.forEach(m => {
-            const val = compareData[m][i]?.value;
-            html += `<td>${val != null ? Number(val).toFixed(3) : "—"}</td>`;
+            let val = null;
+            if (compareData[m][i]) {
+                val = compareData[m][i].value;
+            }
+            html += "<td>" + (val !== null ? Number(val).toFixed(3) : "-") + "</td>";
         });
         html += "</tr>";
     });
@@ -272,7 +281,7 @@ function renderCompareTable(compareData) {
 // metrics sidebar
 async function loadMetrics() {
     try {
-        const res  = await fetch(`${API_BASE}/metrics`);
+        const res  = await fetch(`${flask_api}/metrics`);
         const data = await res.json();
         document.getElementById("statHorizon").textContent = data.horizon;
         document.getElementById("statFcRange").textContent = data.fc_range;

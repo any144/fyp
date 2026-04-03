@@ -5,30 +5,30 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
-DATA_PATH = "/Users/anisa/OneDrive/Desktop/fyp/backend/tuneddata"
+data_path = "/Users/anisa/OneDrive/Desktop/fyp/backend/tuneddata"
 
-actuals        = pd.read_csv("/Users/anisa/OneDrive/Desktop/fyp/notebooks/datab.csv")
-xgb_all        = pd.read_csv(f"{DATA_PATH}xgb_all.csv")
-lgbm_all       = pd.read_csv(f"{DATA_PATH}lgbm_all.csv")
-gru_all        = pd.read_csv(f"{DATA_PATH}gru_all.csv")
-lstm_all       = pd.read_csv(f"{DATA_PATH}lstm_all.csv")
-naive_seasonal = pd.read_csv(f"{DATA_PATH}naive_seasonal_all.csv")
-naive_drift    = pd.read_csv(f"{DATA_PATH}naive_drift_all.csv")
-sarima         = pd.read_csv(f"{DATA_PATH}sarima_all.csv")
+actuals = pd.read_csv("/Users/anisa/OneDrive/Desktop/fyp/notebooks/datab.csv")
+xgb_all = pd.read_csv(f"{data_path}xgb_all.csv")
+lgbm_all = pd.read_csv(f"{data_path}lgbm_all.csv")
+gru_all = pd.read_csv(f"{data_path}gru_all.csv")
+lstm_all = pd.read_csv(f"{data_path}lstm_all.csv")
+naive_seasonal = pd.read_csv(f"{data_path}naive_seasonal_all.csv")
+naive_drift = pd.read_csv(f"{data_path}naive_drift_all.csv")
+sarima = pd.read_csv(f"{data_path}sarima_all.csv")
 
 actuals = actuals[["date", "series_id", "resistance_pct"]].rename(columns={"resistance_pct": "value"})
 
-MODEL_MAP = {
-    "xgb":            xgb_all,
-    "lgbm":           lgbm_all,
-    "gru":            gru_all,
-    "lstm":           lstm_all,
+model_map = {
+    "xgb": xgb_all,
+    "lgbm": lgbm_all,
+    "gru": gru_all,
+    "lstm": lstm_all,
     "naive_seasonal": naive_seasonal,
-    "naive_drift":    naive_drift,
-    "sarima":         sarima,
+    "naive_drift": naive_drift,
+    "sarima": sarima,
 }
 
-for df in [actuals, *MODEL_MAP.values()]:
+for df in [actuals, *model_map.values()]:
     df["date"] = pd.to_datetime(df["date"])
 
 
@@ -68,11 +68,11 @@ def get_regions():
 @app.route("/metrics")
 def get_metrics():
     return jsonify({
-        "horizon":     "6 months",
-        "fc_range":    "Jul 2025 – Dec 2025",
-        "best_ml":     "LightGBM",
+        "horizon": "6 months",
+        "fc_range": "Jul 2025 - Dec 2025",
+        "best_ml": "LightGBM",
         "best_ml_mae": 0.138,
-        "best_dl":     "GRU",
+        "best_dl":"GRU",
         "best_dl_mae": 0.158,
     })
 
@@ -80,27 +80,27 @@ def get_metrics():
 @app.route("/forecast")
 def get_forecast():
     series_id = request.args.get("series_id")
-    model     = request.args.get("model", "xgb")
+    model = request.args.get("model", "xgb")
 
     if not series_id:
-        return jsonify({"error": "series_id is required"}), 400
-    if model not in MODEL_MAP:
-        return jsonify({"error": "invalid model"}), 400
+        return jsonify({"series_id is required"}), 400
+    if model not in model_map:
+        return jsonify({"invalid model"}), 400
 
     df_act = actuals[actuals["series_id"] == series_id].copy()
     df_act["is_forecast"] = False
 
-    df_fc = MODEL_MAP[model]
+    df_fc = model_map[model]
     df_fc = df_fc[(df_fc["series_id"] == series_id) & (df_fc["is_forecast"] == True)].copy()
 
     df = pd.concat([
         df_act[["date", "value", "is_forecast", "series_id"]],
-        df_fc[["date",  "value", "is_forecast", "series_id"]]
+        df_fc[["date", "value", "is_forecast", "series_id"]]
     ], ignore_index=True)
 
     df = df.sort_values("date")
-    df["date"]        = df["date"].astype(str)
-    df["value"]       = pd.to_numeric(df["value"], errors="coerce")
+    df["date"] = df["date"].astype(str)
+    df["value"] = pd.to_numeric(df["value"], errors="coerce")
     df["is_forecast"] = df["is_forecast"].fillna(False)
     df = df.replace({float("nan"): None})
 
@@ -110,14 +110,14 @@ def get_forecast():
 @app.route("/forecast-table")
 def get_forecast_table():
     series_id = request.args.get("series_id")
-    model     = request.args.get("model", "xgb")
+    model = request.args.get("model", "xgb")
 
     if not series_id:
-        return jsonify({"error": "series_id is required"}), 400
-    if model not in MODEL_MAP:
-        return jsonify({"error": "invalid model"}), 400
+        return jsonify({"series_id is required"}), 400
+    if model not in model_map:
+        return jsonify({"invalid model"}), 400
 
-    df    = MODEL_MAP[model]
+    df = model_map[model]
     df_fc = df[(df["series_id"] == series_id) & (df["is_forecast"] == True)].copy()
     df_fc = df_fc.sort_values("date")
     df_fc["date"]  = df_fc["date"].astype(str)
@@ -129,12 +129,10 @@ def get_forecast_table():
 @app.route("/compare")
 def compare_models():
     series_id = request.args.get("series_id")
-
     if not series_id:
-        return jsonify({"error": "series_id is required"}), 400
-
+        return jsonify({"series_id is required"}), 400
     result = {}
-    for model, df in MODEL_MAP.items():
+    for model, df in model_map.items():
         df_fc = df[(df["series_id"] == series_id) & (df["is_forecast"] == True)].copy()
         df_fc = df_fc.sort_values("date")
         df_fc["date"]  = df_fc["date"].astype(str)
